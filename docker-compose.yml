@@ -1,0 +1,56 @@
+version: '3'
+
+services:
+  nginx:
+    image: tutum/nginx
+    ports:
+      - "80:80"
+    links:
+      - phpfpm
+    volumes:
+      - ./docker/nginx/default:/etc/nginx/sites-available/default
+      - ./docker/nginx/default:/etc/nginx/sites-enabled/default
+      - ./docker/logs/:/var/log/nginx/
+      - ./src/assets:/usr/share/nginx/html/assets
+
+  phpfpm:
+    image: pantsmanuk/fpm
+    ports:
+      - "9000:9000"
+    links:
+      - mysql
+      - maildev
+    environment:
+      INTRANET_USER: intranet
+      INTRANET_PASS: ge2UbrewafRe
+      CI_ENV: development
+    volumes:
+      - ./src:/usr/share/nginx/html
+
+  maildev:
+    image: djfarrelly/maildev
+    ports:
+      - "8080:80"
+      - "1025:25"
+
+  mysql:
+    image: mariadb
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+    volumes:
+      - ./docker/mysql:/docker-entrypoint-initdb.d
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    links:
+      - mysql
+    ports:
+      - "8183:80"
+    environment:
+      PMA_ARBITRARY: 1
+      PMA_HOST: 10.0.75.2
+      PMA_USER: root
+      PMA_PASSWORD: admin
