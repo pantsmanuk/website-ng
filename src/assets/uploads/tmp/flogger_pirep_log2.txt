@@ -1,0 +1,2689 @@
+===============================================
+timestamp: 2011-03-03 10:31:07
+===============================================
+post_username: 
+post_passsword: 
+post_flight_type: 
+post_flight_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+
+===============================================
+timestamp: 2011-03-03 10:34:44
+===============================================
+post_username: 
+post_passsword: 
+post_flight_type: 
+post_flight_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+
+===============================================
+timestamp: 2011-03-03 10:36:53
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_flight_type: 
+post_flight_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+
+===============================================
+timestamp: 2011-03-07 11:29:08
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_flight_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:34:04
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:35:39
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:35:58
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:36:30
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:37:33
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:37:35
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:37:53
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 11:39:49
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:11:24
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:11:54
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:18:17
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:19:05
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:29:01
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:29:04
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:29:05
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-07 12:29:06
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEID
+post_timetable_id: 1
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 
+post_aircraft_id: 2
+post_aircraft_title: 
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 1
+post_network: 0
+post_gcd: 15602
+post_comments: Test comments
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-09 11:01:42
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-09 14:49:23
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-10 09:56:45
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:28:23
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:28:42
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:30:11
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:30:47
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:39:23
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:40:01
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:40:15
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP2
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:48:33
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP3
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:49:48
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP3
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:50:00
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP4
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 10:58:17
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP5
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 11:02:46
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP6
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-10 11:03:59
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP7
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:18:15
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP7
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:18:41
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP8
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:20:14
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP8
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:20:36
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP8
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:21:26
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP8
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:22:06
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:23:32
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:35:08
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 20110319115327
+post_takeoff_time: 20110319112634
+post_landing_time: 20110319115312
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: First PIREP submitted against the NG server
+post_fl_version: 4.0.4.28022
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:38:09
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 20110319115327
+post_takeoff_time: 20110319112634
+post_landing_time: 20110319115312
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.28022
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:39:47
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 20110319115327
+post_takeoff_time: 20110319112634
+post_landing_time: 20110319115312
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.28022
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:47:13
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: AGGREGATEIDPP9
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 22
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: B1900D Title
+post_flightnumber: 1000
+post_pax: 
+post_cargo: 
+post_engine_start_time: 2011-03-07 06:50:11
+post_engine_stop_time: 2011-03-07 06:53:01
+post_takeoff_time: 2011-03-07 09:53:08
+post_landing_time: 2011-03-07 09:55:08
+post_flight_minutes: 170
+post_blocktime_minutes: 175
+post_cruise_alt: 21000
+post_cruise_speed: 260
+post_fuel_burnt: 13000
+post_approach_type: 2
+post_network: 1
+post_gcd: 15609
+post_comments: Test comments PP
+post_fl_version: 4.04
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:56:48
+===============================================
+post_username: 
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 
+post_timetable_id: 
+post_aircraft_id: 
+post_assigned_id: 
+post_origin: 
+post_destination: 
+post_propilot: 
+post_propilot_score: 
+post_aircraft_id: 
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 
+post_cargo: 
+post_engine_start_time: 
+post_engine_stop_time: 
+post_takeoff_time: 
+post_landing_time: 
+post_flight_minutes: 
+post_blocktime_minutes: 
+post_cruise_alt: 
+post_cruise_speed: 
+post_fuel_burnt: 
+post_approach_type: 
+post_network: 
+post_gcd: 
+post_comments: 
+post_fl_version: 
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:57:18
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG site
+post_fl_version: 4.0.4.28704
+===============================================
+
+===============================================
+timestamp: 2011-03-19 13:58:08
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.28704
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:03:09
+===============================================
+post_username: 1997
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 50
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG site
+post_fl_version: 4.0.4.28704
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:10:29
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.29096
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:14:32
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.29096
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:16:18
+===============================================
+post_username: 2097
+post_passsword: PASSWORD EXCLUDED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.29096
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:25:46
+===============================================
+post_username: 2097
+post_password: Bf110c
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.29545
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:27:11
+===============================================
+post_username: 2097
+post_password: Bf110c
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.29604
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:31:38
+===============================================
+post_username: 2097
+post_password: Bf110c
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.29735
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:34:58
+===============================================
+post_username: 2097
+post_password: Bf110c
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.29735
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:42:18
+===============================================
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_id: 2
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: test
+post_fl_version: 4.0.4.29735
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:44:50
+===============================================
+validation: 0
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.29735
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:48:46
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.30252
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:49:20
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.30252
+===============================================
+
+===============================================
+timestamp: 2011-03-19 14:57:37
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: for NG server
+post_fl_version: 4.0.4.30512
+===============================================
+
+===============================================
+timestamp: 2011-03-19 15:05:16
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103122144362097
+post_timetable_id: 2209
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: ESNS
+post_destination: ESPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C003
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-19 11:24:10
+post_engine_stop_time: 2011-03-19 11:53:27
+post_takeoff_time: 2011-03-19 11:26:34
+post_landing_time: 2011-03-19 11:53:12
+post_flight_minutes: 26
+post_blocktime_minutes: 29
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 194
+post_approach_type: 4
+post_network: 0
+post_gcd: 60
+post_comments: 
+post_fl_version: 4.0.4.30750
+===============================================
+
+===============================================
+timestamp: 2011-03-26 09:09:28
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103260831552097
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 99
+post_origin: EHAM
+post_destination: EHRD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-03-26 08:54:27
+post_engine_stop_time: 2011-03-26 09:08:48
+post_takeoff_time: 2011-03-26 08:56:05
+post_landing_time: 2011-03-26 09:08:30
+post_flight_minutes: 12
+post_blocktime_minutes: 14
+post_cruise_alt: 3000
+post_cruise_speed: 170
+post_fuel_burnt: 89
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: Assigned Flight Test
+post_fl_version: 4.0.4.19126
+===============================================
+
+===============================================
+timestamp: 2011-03-26 09:36:37
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103260916082097
+post_timetable_id: 6325
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: HRYR
+post_destination: HRYU
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: C883
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-26 09:21:05
+post_engine_stop_time: 2011-03-26 09:35:56
+post_takeoff_time: 2011-03-26 09:21:57
+post_landing_time: 2011-03-26 09:35:37
+post_flight_minutes: 13
+post_blocktime_minutes: 14
+post_cruise_alt: 9500
+post_cruise_speed: 190
+post_fuel_burnt: 114
+post_approach_type: 4
+post_network: 0
+post_gcd: 40
+post_comments: Timetable Flight Test
+post_fl_version: 4.0.4.19126
+===============================================
+
+===============================================
+timestamp: 2011-03-26 12:03:35
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103261115292097
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EHAM
+post_destination: EHRD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-03-26 11:51:37
+post_engine_stop_time: 2011-03-26 12:02:53
+post_takeoff_time: 2011-03-26 11:53:33
+post_landing_time: 2011-03-26 12:02:43
+post_flight_minutes: 9
+post_blocktime_minutes: 11
+post_cruise_alt: 2000
+post_cruise_speed: 190
+post_fuel_burnt: 73
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: ProPilot Test Flight
+post_fl_version: 4.0.4.24866
+===============================================
+
+===============================================
+timestamp: 2011-03-26 15:06:06
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103261211552097
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EHRD
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 15
+post_cargo: 0
+post_engine_start_time: 2011-03-26 14:45:18
+post_engine_stop_time: 2011-03-26 14:58:41
+post_takeoff_time: 2011-03-26 14:46:25
+post_landing_time: 2011-03-26 14:58:29
+post_flight_minutes: 12
+post_blocktime_minutes: 13
+post_cruise_alt: 2000
+post_cruise_speed: 180
+post_fuel_burnt: 87
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: 
+post_fl_version: 4.0.4
+===============================================
+
+===============================================
+timestamp: 2011-03-27 17:08:21
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103271523142097
+post_timetable_id: 
+post_aircraft_id: 2
+post_assigned_id: 
+post_origin: EHRD
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-27 16:57:09
+post_engine_stop_time: 2011-03-27 17:08:01
+post_takeoff_time: 2011-03-27 16:58:29
+post_landing_time: 2011-03-27 17:07:15
+post_flight_minutes: 8
+post_blocktime_minutes: 10
+post_cruise_alt: 2000
+post_cruise_speed: 190
+post_fuel_burnt: 71
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: Event leg test
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-28 18:12:57
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103281759352097
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 101
+post_origin: EHAM
+post_destination: EHRD
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 14
+post_cargo: 0
+post_engine_start_time: 2011-03-28 18:01:19
+post_engine_stop_time: 2011-03-28 18:12:40
+post_takeoff_time: 2011-03-28 18:02:27
+post_landing_time: 2011-03-28 18:12:29
+post_flight_minutes: 10
+post_blocktime_minutes: 11
+post_cruise_alt: 1500
+post_cruise_speed: 190
+post_fuel_burnt: 80
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: Event Leg Test
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-28 18:26:14
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103281813092097
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 102
+post_origin: EHRD
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-03-28 18:14:22
+post_engine_stop_time: 2011-03-28 18:25:59
+post_takeoff_time: 2011-03-28 18:15:17
+post_landing_time: 2011-03-28 18:25:38
+post_flight_minutes: 10
+post_blocktime_minutes: 11
+post_cruise_alt: 1500
+post_cruise_speed: 150
+post_fuel_burnt: 85
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: Event leg 2 test
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-29 14:08:17
+===============================================
+validation: 1
+post_username: 1465
+post_password: NOT LOGGED
+post_aggregate_id: 201103291331071465
+post_timetable_id: 0
+post_aircraft_id: 103
+post_assigned_id: 109
+post_origin: CYCG
+post_destination: CYYC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC6
+post_flightnumber: 
+post_pax: 10
+post_cargo: 0
+post_engine_start_time: 2011-03-29 13:31:31
+post_engine_stop_time: 2011-03-29 14:06:29
+post_takeoff_time: 2011-03-29 13:34:36
+post_landing_time: 2011-03-29 14:05:59
+post_flight_minutes: 31
+post_blocktime_minutes: 34
+post_cruise_alt: 13000
+post_cruise_speed: 160
+post_fuel_burnt: 642
+post_approach_type: 3
+post_network: 0
+post_gcd: 180
+post_comments: 1st test flight using FLv410 and Website NG - assigned multi-leg flight, no issues.
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-30 18:50:54
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201103301812151570
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EGCC
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-03-30 18:13:41
+post_engine_stop_time: 2011-03-30 18:50:34
+post_takeoff_time: 2011-03-30 18:17:48
+post_landing_time: 2011-03-30 18:49:33
+post_flight_minutes: 31
+post_blocktime_minutes: 36
+post_cruise_alt: 20000
+post_cruise_speed: 210
+post_fuel_burnt: 3537
+post_approach_type: 3
+post_network: 0
+post_gcd: 130
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-31 09:13:56
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201103310827011570
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 0
+post_origin: EGCC
+post_destination: EGLL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-03-31 08:27:18
+post_engine_stop_time: 2011-03-31 09:13:09
+post_takeoff_time: 2011-03-31 08:29:36
+post_landing_time: 2011-03-31 09:09:50
+post_flight_minutes: 39
+post_blocktime_minutes: 45
+post_cruise_alt: 17000
+post_cruise_speed: 240
+post_fuel_burnt: 3286
+post_approach_type: 3
+post_network: 0
+post_gcd: 130
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-31 11:01:55
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201103310937361570
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EDDF
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-A322-FTH
+post_flightnumber: 
+post_pax: 148
+post_cargo: 0
+post_engine_start_time: 2011-03-31 09:40:14
+post_engine_stop_time: 2011-03-31 11:01:30
+post_takeoff_time: 2011-03-31 09:45:02
+post_landing_time: 2011-03-31 10:56:24
+post_flight_minutes: 71
+post_blocktime_minutes: 81
+post_cruise_alt: 25000
+post_cruise_speed: 270
+post_fuel_burnt: 10124
+post_approach_type: 3
+post_network: 0
+post_gcd: 350
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-31 13:00:42
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201103311116071570
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: EDDF
+post_destination: EGLL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-A322-FTH
+post_flightnumber: 
+post_pax: 145
+post_cargo: 0
+post_engine_start_time: 2011-03-31 11:18:43
+post_engine_stop_time: 2011-03-31 13:00:20
+post_takeoff_time: 2011-03-31 11:22:40
+post_landing_time: 2011-03-31 12:57:19
+post_flight_minutes: 76
+post_blocktime_minutes: 83
+post_cruise_alt: 24000
+post_cruise_speed: 280
+post_fuel_burnt: 9753
+post_approach_type: 3
+post_network: 0
+post_gcd: 350
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-31 16:50:42
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201103311404311570
+post_timetable_id: 5014
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EDDF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-A322-FTH
+post_flightnumber: 1183
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-03-31 15:51:54
+post_engine_stop_time: 2011-03-31 16:50:20
+post_takeoff_time: 2011-03-31 15:57:09
+post_landing_time: 2011-03-31 16:48:52
+post_flight_minutes: 51
+post_blocktime_minutes: 58
+post_cruise_alt: 25000
+post_cruise_speed: 270
+post_fuel_burnt: 9937
+post_approach_type: 3
+post_network: 0
+post_gcd: 350
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-03-31 21:26:23
+===============================================
+validation: 1
+post_username: 2387
+post_password: NOT LOGGED
+post_aggregate_id: 201103311945512387
+post_timetable_id: 0
+post_aircraft_id: 84
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EGJJ
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-SU80
+post_flightnumber: 
+post_pax: 21
+post_cargo: 0
+post_engine_start_time: 2011-03-31 20:20:57
+post_engine_stop_time: 2011-03-31 21:24:24
+post_takeoff_time: 2011-03-31 20:27:08
+post_landing_time: 2011-03-31 21:22:19
+post_flight_minutes: 55
+post_blocktime_minutes: 63
+post_cruise_alt: 8000
+post_cruise_speed: 190
+post_fuel_burnt: 681
+post_approach_type: 4
+post_network: 0
+post_gcd: 150
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-04-02 09:46:24
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201104020856531570
+post_timetable_id: 0
+post_aircraft_id: 84
+post_assigned_id: 0
+post_origin: EGJJ
+post_destination: EGLL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-SU80
+post_flightnumber: 
+post_pax: 23
+post_cargo: 0
+post_engine_start_time: 2011-04-02 08:57:08
+post_engine_stop_time: 2011-04-02 09:45:57
+post_takeoff_time: 2011-04-02 08:59:17
+post_landing_time: 2011-04-02 09:44:08
+post_flight_minutes: 44
+post_blocktime_minutes: 48
+post_cruise_alt: 11000
+post_cruise_speed: 200
+post_fuel_burnt: 320
+post_approach_type: 3
+post_network: 0
+post_gcd: 150
+post_comments: 
+post_fl_version: 4.1.0
+===============================================
+
+===============================================
+timestamp: 2011-04-02 12:00:21
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201103312011212097
+post_timetable_id: 37
+post_aircraft_id: 2
+post_assigned_id: 0
+post_origin: EHAM
+post_destination: EHRD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 1156
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-04-02 11:27:58
+post_engine_stop_time: 2011-04-02 11:59:38
+post_takeoff_time: 2011-04-02 11:29:07
+post_landing_time: 2011-04-02 11:58:53
+post_flight_minutes: 9
+post_blocktime_minutes: 10
+post_cruise_alt: 2000
+post_cruise_speed: 190
+post_fuel_burnt: 76
+post_approach_type: 4
+post_network: 0
+post_gcd: 20
+post_comments: Pause Test
+post_fl_version: 4.1.0
+===============================================
+

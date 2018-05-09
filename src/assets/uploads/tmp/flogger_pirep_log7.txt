@@ -1,0 +1,5707 @@
+===============================================
+timestamp: 2011-06-23 15:35:14
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106231323021442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2558
+post_origin: TNCA
+post_destination: MDCR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-23 13:24:20
+post_takeoff_time: 2011-06-23 13:34:12
+post_landing_time: 2011-06-23 15:33:37
+post_engine_stop_time: 2011-06-23 15:34:03
+post_flight_minutes: 118
+post_blocktime_minutes: 128
+post_cruise_alt: 4500
+post_cruise_speed: 160
+post_fuel_burnt: 279
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 17:39:00
+===============================================
+validation: 1
+post_username: 1829
+post_password: NOT LOGGED
+post_aggregate_id: 201106231456101829
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LOWK
+post_destination: ESSA
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: PMDG 737-700 - Virtual Cockpit
+post_flightnumber: 
+post_pax: 148
+post_cargo: 0
+post_engine_start_time: 2011-06-23 15:00:36
+post_takeoff_time: 2011-06-23 15:05:59
+post_landing_time: 2011-06-23 17:21:55
+post_engine_stop_time: 2011-06-23 17:25:54
+post_flight_minutes: 135
+post_blocktime_minutes: 145
+post_cruise_alt: 33000
+post_cruise_speed: 250
+post_fuel_burnt: 11717
+post_approach_type: 3
+post_network: 2
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 18:41:18
+===============================================
+validation: 1
+post_username: 2463
+post_password: NOT LOGGED
+post_aggregate_id: 201106231737532463
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 259
+post_origin: YSRN
+post_destination: YMEN
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 18
+post_cargo: 0
+post_engine_start_time: 2011-06-23 17:38:59
+post_takeoff_time: 2011-06-23 17:41:36
+post_landing_time: 2011-06-23 18:39:17
+post_engine_stop_time: 2011-06-23 18:39:24
+post_flight_minutes: 57
+post_blocktime_minutes: 60
+post_cruise_alt: 22000
+post_cruise_speed: 310
+post_fuel_burnt: 2713
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 19:00:34
+===============================================
+validation: 1
+post_username: 2205
+post_password: NOT LOGGED
+post_aggregate_id: 201106231515572205
+post_timetable_id: 0
+post_aircraft_id: 21
+post_assigned_id: 0
+post_origin: LEMD
+post_destination: KATL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: PMDG747-400 British Airways
+post_flightnumber: 
+post_pax: 413
+post_cargo: 0
+post_engine_start_time: 2011-06-23 15:23:03
+post_takeoff_time: 2011-06-23 15:48:36
+post_landing_time: 2011-06-23 18:47:33
+post_engine_stop_time: 2011-06-23 18:58:37
+post_flight_minutes: 178
+post_blocktime_minutes: 206
+post_cruise_alt: 41000
+post_cruise_speed: 290
+post_fuel_burnt: 242243
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 19:44:13
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106231749032581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3355
+post_origin: HEAX
+post_destination: HLLB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 65
+post_cargo: 0
+post_engine_start_time: 2011-06-23 17:51:08
+post_takeoff_time: 2011-06-23 17:58:04
+post_landing_time: 2011-06-23 19:41:44
+post_engine_stop_time: 2011-06-23 19:43:49
+post_flight_minutes: 103
+post_blocktime_minutes: 112
+post_cruise_alt: 4000
+post_cruise_speed: 310
+post_fuel_burnt: 10910
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 19:55:52
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106231903502131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2783
+post_origin: MTJE
+post_destination: MKBS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-23 19:08:04
+post_takeoff_time: 2011-06-23 19:10:44
+post_landing_time: 2011-06-23 19:53:04
+post_engine_stop_time: 2011-06-23 19:55:18
+post_flight_minutes: 42
+post_blocktime_minutes: 47
+post_cruise_alt: 8000
+post_cruise_speed: 200
+post_fuel_burnt: 112
+post_approach_type: 4
+post_network: 2
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 20:09:52
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106231517562383
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: KBWI
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B763-LDS Winglet
+post_flightnumber: 
+post_pax: 265
+post_cargo: 0
+post_engine_start_time: 2011-06-23 15:48:33
+post_takeoff_time: 2011-06-23 15:54:58
+post_landing_time: 2011-06-23 20:04:01
+post_engine_stop_time: 2011-06-23 20:07:32
+post_flight_minutes: 248
+post_blocktime_minutes: 258
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 95533
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 20:33:02
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106231931132668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3449
+post_origin: EGLL
+post_destination: EGHD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 71
+post_cargo: 0
+post_engine_start_time: 2011-06-23 19:31:52
+post_takeoff_time: 2011-06-23 19:42:31
+post_landing_time: 2011-06-23 20:31:52
+post_engine_stop_time: 2011-06-23 20:33:23
+post_flight_minutes: 46
+post_blocktime_minutes: 58
+post_cruise_alt: 14000
+post_cruise_speed: 230
+post_fuel_burnt: 1744
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-23 21:43:21
+===============================================
+validation: 1
+post_username: 2669
+post_password: NOT LOGGED
+post_aggregate_id: 201106232007392669
+post_timetable_id: 0
+post_aircraft_id: 53
+post_assigned_id: 3062
+post_origin: CYPY
+post_destination: CYZF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: F1_Pilatus_PC-12 EuroBusiness Ver4
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-23 20:08:19
+post_takeoff_time: 2011-06-23 20:13:32
+post_landing_time: 2011-06-23 21:41:12
+post_engine_stop_time: 2011-06-23 21:42:50
+post_flight_minutes: 87
+post_blocktime_minutes: 94
+post_cruise_alt: 4500
+post_cruise_speed: 170
+post_fuel_burnt: 511
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 00:38:32
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106232331412656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3310
+post_origin: LEBB
+post_destination: LESO
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 3
+post_cargo: 0
+post_engine_start_time: 2011-06-23 23:33:14
+post_takeoff_time: 2011-06-23 23:40:53
+post_landing_time: 2011-06-24 00:33:15
+post_engine_stop_time: 2011-06-24 00:37:00
+post_flight_minutes: 52
+post_blocktime_minutes: 63
+post_cruise_alt: 7000
+post_cruise_speed: 90
+post_fuel_burnt: 46
+post_approach_type: 1
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 08:02:19
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106240634322581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3356
+post_origin: HLLB
+post_destination: LMML
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-24 06:35:15
+post_takeoff_time: 2011-06-24 06:44:18
+post_landing_time: 2011-06-24 07:58:31
+post_engine_stop_time: 2011-06-24 08:01:40
+post_flight_minutes: 74
+post_blocktime_minutes: 86
+post_cruise_alt: 5000
+post_cruise_speed: 300
+post_fuel_burnt: 13675
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 09:15:47
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106240807332581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3357
+post_origin: LMML
+post_destination: DTTA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 68
+post_cargo: 0
+post_engine_start_time: 2011-06-24 08:08:38
+post_takeoff_time: 2011-06-24 08:12:20
+post_landing_time: 2011-06-24 09:12:54
+post_engine_stop_time: 2011-06-24 09:15:13
+post_flight_minutes: 60
+post_blocktime_minutes: 66
+post_cruise_alt: 4000
+post_cruise_speed: 270
+post_fuel_burnt: 8691
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 10:27:26
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106240920362581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3358
+post_origin: DTTA
+post_destination: LIEO
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-24 09:22:54
+post_takeoff_time: 2011-06-24 09:26:43
+post_landing_time: 2011-06-24 10:26:08
+post_engine_stop_time: 2011-06-24 10:26:09
+post_flight_minutes: 59
+post_blocktime_minutes: 63
+post_cruise_alt: 7000
+post_cruise_speed: 340
+post_fuel_burnt: 5604
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 10:33:06
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106240937572079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3420
+post_origin: LEST
+post_destination: LEAS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-24 09:38:19
+post_takeoff_time: 2011-06-24 09:39:16
+post_landing_time: 2011-06-24 10:26:01
+post_engine_stop_time: 2011-06-24 10:32:33
+post_flight_minutes: 46
+post_blocktime_minutes: 54
+post_cruise_alt: 8000
+post_cruise_speed: 160
+post_fuel_burnt: 121
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 11:09:06
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106240825131570
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-A322-FTH
+post_flightnumber: 
+post_pax: 150
+post_cargo: 0
+post_engine_start_time: 2011-06-24 08:28:41
+post_takeoff_time: 2011-06-24 08:31:11
+post_landing_time: 2011-06-24 11:04:07
+post_engine_stop_time: 2011-06-24 11:08:12
+post_flight_minutes: 152
+post_blocktime_minutes: 159
+post_cruise_alt: 35000
+post_cruise_speed: 280
+post_fuel_burnt: 16823
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 14:29:18
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106241321501442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2559
+post_origin: MDCR
+post_destination: MTJE
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-24 13:25:38
+post_takeoff_time: 2011-06-24 13:31:39
+post_landing_time: 2011-06-24 14:26:04
+post_engine_stop_time: 2011-06-24 14:26:37
+post_flight_minutes: 54
+post_blocktime_minutes: 60
+post_cruise_alt: 4500
+post_cruise_speed: 160
+post_fuel_burnt: 132
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 14:41:32
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106241339562131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2784
+post_origin: MKBS
+post_destination: MWCB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-24 13:40:40
+post_takeoff_time: 2011-06-24 13:44:55
+post_landing_time: 2011-06-24 14:39:09
+post_engine_stop_time: 2011-06-24 14:41:18
+post_flight_minutes: 54
+post_blocktime_minutes: 60
+post_cruise_alt: 10000
+post_cruise_speed: 210
+post_fuel_burnt: 138
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 14:42:23
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106241234591570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: EHAM
+post_destination: LIRF
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 158
+post_cargo: 0
+post_engine_start_time: 2011-06-24 12:35:19
+post_takeoff_time: 2011-06-24 12:38:27
+post_landing_time: 2011-06-24 14:35:56
+post_engine_stop_time: 2011-06-24 14:41:26
+post_flight_minutes: 117
+post_blocktime_minutes: 126
+post_cruise_alt: 35000
+post_cruise_speed: 260
+post_fuel_burnt: 15614
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 14:48:37
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106241312282079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3421
+post_origin: LEAS
+post_destination: LEBB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-24 13:32:38
+post_takeoff_time: 2011-06-24 13:38:00
+post_landing_time: 2011-06-24 14:44:59
+post_engine_stop_time: 2011-06-24 14:48:11
+post_flight_minutes: 66
+post_blocktime_minutes: 75
+post_cruise_alt: 8000
+post_cruise_speed: 160
+post_fuel_burnt: 195
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 15:32:36
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106241413062678
+post_timetable_id: 0
+post_aircraft_id: 22
+post_assigned_id: 3252
+post_origin: ESMQ
+post_destination: ESMK
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: jfarcher_FR1
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-24 14:23:39
+post_takeoff_time: 2011-06-24 14:35:12
+post_landing_time: 2011-06-24 15:30:58
+post_engine_stop_time: 2011-06-24 15:32:34
+post_flight_minutes: 55
+post_blocktime_minutes: 63
+post_cruise_alt: 3000
+post_cruise_speed: 110
+post_fuel_burnt: 67
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 15:35:55
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106241258072581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3359
+post_origin: LIEO
+post_destination: LEMH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 67
+post_cargo: 0
+post_engine_start_time: 2011-06-24 14:46:03
+post_takeoff_time: 2011-06-24 14:54:01
+post_landing_time: 2011-06-24 15:35:31
+post_engine_stop_time: 2011-06-24 15:35:33
+post_flight_minutes: 41
+post_blocktime_minutes: 49
+post_cruise_alt: 6500
+post_cruise_speed: 320
+post_fuel_burnt: 4888
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 16:26:09
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106241554082678
+post_timetable_id: 0
+post_aircraft_id: 22
+post_assigned_id: 3253
+post_origin: ESMK
+post_destination: ESML
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: jfarcher_FR1
+post_flightnumber: 
+post_pax: 3
+post_cargo: 0
+post_engine_start_time: 2011-06-24 15:56:12
+post_takeoff_time: 2011-06-24 16:00:15
+post_landing_time: 2011-06-24 16:24:53
+post_engine_stop_time: 2011-06-24 16:25:58
+post_flight_minutes: 24
+post_blocktime_minutes: 29
+post_cruise_alt: 2000
+post_cruise_speed: 120
+post_fuel_burnt: 30
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 16:29:54
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106241540322581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3360
+post_origin: LEMH
+post_destination: DAAG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 67
+post_cargo: 0
+post_engine_start_time: 2011-06-24 15:41:50
+post_takeoff_time: 2011-06-24 15:44:30
+post_landing_time: 2011-06-24 16:29:03
+post_engine_stop_time: 2011-06-24 16:29:38
+post_flight_minutes: 44
+post_blocktime_minutes: 47
+post_cruise_alt: 4000
+post_cruise_speed: 310
+post_fuel_burnt: 4172
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 17:29:30
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106241510501570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: LIRF
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 157
+post_cargo: 0
+post_engine_start_time: 2011-06-24 15:11:10
+post_takeoff_time: 2011-06-24 15:13:04
+post_landing_time: 2011-06-24 17:24:14
+post_engine_stop_time: 2011-06-24 17:28:28
+post_flight_minutes: 122
+post_blocktime_minutes: 129
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 17716
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 18:05:51
+===============================================
+validation: 1
+post_username: 2669
+post_password: NOT LOGGED
+post_aggregate_id: 201106241516052669
+post_timetable_id: 0
+post_aircraft_id: 53
+post_assigned_id: 3063
+post_origin: CYZF
+post_destination: CYQH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: F1_Pilatus_PC-12 EuroBusiness Ver4
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-24 15:16:50
+post_takeoff_time: 2011-06-24 15:24:40
+post_landing_time: 2011-06-24 18:04:10
+post_engine_stop_time: 2011-06-24 18:05:22
+post_flight_minutes: 159
+post_blocktime_minutes: 168
+post_cruise_alt: 8500
+post_cruise_speed: 170
+post_fuel_burnt: 946
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 19:49:28
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106241755012581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3361
+post_origin: DAAG
+post_destination: LXGB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 69
+post_cargo: 0
+post_engine_start_time: 2011-06-24 17:56:42
+post_takeoff_time: 2011-06-24 18:03:22
+post_landing_time: 2011-06-24 19:47:46
+post_engine_stop_time: 2011-06-24 19:48:35
+post_flight_minutes: 104
+post_blocktime_minutes: 111
+post_cruise_alt: 6000
+post_cruise_speed: 210
+post_fuel_burnt: 20098
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 20:40:27
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106241952552581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3362
+post_origin: LXGB
+post_destination: LEVC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-24 19:54:10
+post_takeoff_time: 2011-06-24 19:58:45
+post_landing_time: 2011-06-24 20:37:26
+post_engine_stop_time: 2011-06-24 20:39:01
+post_flight_minutes: 38
+post_blocktime_minutes: 44
+post_cruise_alt: 12000
+post_cruise_speed: 330
+post_fuel_burnt: 5769
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 21:28:22
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106242045282581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3363
+post_origin: LEVC
+post_destination: LEGE
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-24 20:46:45
+post_takeoff_time: 2011-06-24 20:50:50
+post_landing_time: 2011-06-24 21:24:57
+post_engine_stop_time: 2011-06-24 21:27:15
+post_flight_minutes: 34
+post_blocktime_minutes: 40
+post_cruise_alt: 6000
+post_cruise_speed: 280
+post_fuel_burnt: 7586
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 21:33:40
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106242044552668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3452
+post_origin: EGHD
+post_destination: EGLL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 72
+post_cargo: 0
+post_engine_start_time: 2011-06-24 20:45:25
+post_takeoff_time: 2011-06-24 20:53:02
+post_landing_time: 2011-06-24 21:31:47
+post_engine_stop_time: 2011-06-24 21:34:01
+post_flight_minutes: 38
+post_blocktime_minutes: 48
+post_cruise_alt: 15000
+post_cruise_speed: 250
+post_fuel_burnt: 1613
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 22:12:13
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106242132332581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3364
+post_origin: LEGE
+post_destination: LFML
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-24 21:34:00
+post_takeoff_time: 2011-06-24 21:37:38
+post_landing_time: 2011-06-24 22:09:09
+post_engine_stop_time: 2011-06-24 22:11:12
+post_flight_minutes: 31
+post_blocktime_minutes: 37
+post_cruise_alt: 4000
+post_cruise_speed: 330
+post_fuel_burnt: 3790
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-24 23:24:57
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106242215341442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2560
+post_origin: MTJE
+post_destination: MKBS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-24 22:16:06
+post_takeoff_time: 2011-06-24 22:22:43
+post_landing_time: 2011-06-24 23:23:08
+post_engine_stop_time: 2011-06-24 23:23:36
+post_flight_minutes: 58
+post_blocktime_minutes: 65
+post_cruise_alt: 2500
+post_cruise_speed: 160
+post_fuel_burnt: 143
+post_approach_type: 4
+post_network: 1
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 01:57:42
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250034292089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-25 00:35:48
+post_takeoff_time: 2011-06-25 00:42:23
+post_landing_time: 2011-06-25 01:51:39
+post_engine_stop_time: 2011-06-25 01:56:53
+post_flight_minutes: 69
+post_blocktime_minutes: 81
+post_cruise_alt: 23000
+post_cruise_speed: 260
+post_fuel_burnt: 10541
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: Had to do go around on rwy 24 bad visibility
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 05:16:11
+===============================================
+validation: 1
+post_username: 1882
+post_password: NOT LOGGED
+post_aggregate_id: 201106250314341882
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1306
+post_origin: ESSA
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 8
+post_cargo: 0
+post_engine_start_time: 2011-06-25 03:14:54
+post_takeoff_time: 2011-06-25 03:29:31
+post_landing_time: 2011-06-25 05:14:02
+post_engine_stop_time: 2011-06-25 05:15:20
+post_flight_minutes: 104
+post_blocktime_minutes: 120
+post_cruise_alt: 30000
+post_cruise_speed: 300
+post_fuel_burnt: 4544
+post_approach_type: 3
+post_network: 1
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 05:24:15
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250219182089
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1808
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-25 02:23:30
+post_takeoff_time: 2011-06-25 02:30:04
+post_landing_time: 2011-06-25 05:17:39
+post_engine_stop_time: 2011-06-25 05:22:16
+post_flight_minutes: 167
+post_blocktime_minutes: 178
+post_cruise_alt: 33000
+post_cruise_speed: 280
+post_fuel_burnt: 6341
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: Good night landing :)
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 08:48:34
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106242118292079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3422
+post_origin: LEBB
+post_destination: LESO
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-25 08:13:01
+post_takeoff_time: 2011-06-25 08:23:35
+post_landing_time: 2011-06-25 08:44:28
+post_engine_stop_time: 2011-06-25 08:47:58
+post_flight_minutes: 20
+post_blocktime_minutes: 34
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 69
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 09:55:26
+===============================================
+validation: 1
+post_username: 1212
+post_password: NOT LOGGED
+post_aggregate_id: 201106250818071212
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 0
+post_origin: LSZH
+post_destination: LIEE
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 12
+post_cargo: 0
+post_engine_start_time: 2011-06-25 08:26:02
+post_takeoff_time: 2011-06-25 08:30:05
+post_landing_time: 2011-06-25 09:49:53
+post_engine_stop_time: 2011-06-25 09:54:29
+post_flight_minutes: 79
+post_blocktime_minutes: 88
+post_cruise_alt: 29000
+post_cruise_speed: 320
+post_fuel_burnt: 3711
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 10:12:19
+===============================================
+validation: 1
+post_username: 0884
+post_password: NOT LOGGED
+post_aggregate_id: 201106250727050884
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: KJFK
+post_destination: KATL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-A322
+post_flightnumber: 
+post_pax: 146
+post_cargo: 0
+post_engine_start_time: 2011-06-25 07:29:27
+post_takeoff_time: 2011-06-25 07:51:47
+post_landing_time: 2011-06-25 09:58:12
+post_engine_stop_time: 2011-06-25 10:10:19
+post_flight_minutes: 126
+post_blocktime_minutes: 160
+post_cruise_alt: 35000
+post_cruise_speed: 250
+post_fuel_burnt: 20006
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 11:00:46
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3423
+post_origin: LESO
+post_destination: LEAP
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-25 09:00:17
+post_takeoff_time: 2011-06-25 09:02:58
+post_landing_time: 2011-06-25 10:47:30
+post_engine_stop_time: 2011-06-25 11:00:19
+post_flight_minutes: 104
+post_blocktime_minutes: 119
+post_cruise_alt: 8000
+post_cruise_speed: 160
+post_fuel_burnt: 282
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 11:12:18
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106250731001570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: EPPO
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 160
+post_cargo: 0
+post_engine_start_time: 2011-06-25 07:31:21
+post_takeoff_time: 2011-06-25 07:35:32
+post_landing_time: 2011-06-25 11:05:55
+post_engine_stop_time: 2011-06-25 11:11:22
+post_flight_minutes: 210
+post_blocktime_minutes: 219
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 21788
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 11:50:41
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106242132332581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3365
+post_origin: LFML
+post_destination: LDPL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 69
+post_cargo: 0
+post_engine_start_time: 2011-06-25 10:40:54
+post_takeoff_time: 2011-06-25 10:45:21
+post_landing_time: 2011-06-25 11:47:05
+post_engine_stop_time: 2011-06-25 11:49:50
+post_flight_minutes: 61
+post_blocktime_minutes: 68
+post_cruise_alt: 20000
+post_cruise_speed: 310
+post_fuel_burnt: 5570
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 14:26:24
+===============================================
+validation: 1
+post_username: 2463
+post_password: NOT LOGGED
+post_aggregate_id: 201106251322442463
+post_timetable_id: 0
+post_aircraft_id: 7
+post_assigned_id: 260
+post_origin: YMEN
+post_destination: YMER
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S2000 - FS9 -
+post_flightnumber: 
+post_pax: 16
+post_cargo: 0
+post_engine_start_time: 2011-06-25 13:23:36
+post_takeoff_time: 2011-06-25 13:29:38
+post_landing_time: 2011-06-25 14:25:47
+post_engine_stop_time: 2011-06-25 14:26:15
+post_flight_minutes: 56
+post_blocktime_minutes: 62
+post_cruise_alt: 19000
+post_cruise_speed: 220
+post_fuel_burnt: 2168
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 14:46:10
+===============================================
+validation: 1
+post_username: 0654
+post_password: NOT LOGGED
+post_aggregate_id: 201106251256420654
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 931
+post_origin: LSZH
+post_destination: ESSA
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-25 13:15:38
+post_takeoff_time: 2011-06-25 13:22:10
+post_landing_time: 2011-06-25 14:42:22
+post_engine_stop_time: 2011-06-25 14:45:01
+post_flight_minutes: 80
+post_blocktime_minutes: 89
+post_cruise_alt: 39000
+post_cruise_speed: 230
+post_fuel_burnt: 4775
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: A hard leg to complete successfully for me, this was the fourth attempt (and I was hopping to get three legs done today!)
+
+Used x4 compression during cruise, otherwise I dont have a hope of getting the next two legs completed before 18:00 (when I have to turn my minecraft server back on).
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 14:48:19
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106251242042668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3455
+post_origin: EGLL
+post_destination: LEBB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 72
+post_cargo: 0
+post_engine_start_time: 2011-06-25 12:42:48
+post_takeoff_time: 2011-06-25 12:49:29
+post_landing_time: 2011-06-25 14:45:46
+post_engine_stop_time: 2011-06-25 14:48:34
+post_flight_minutes: 116
+post_blocktime_minutes: 125
+post_cruise_alt: 22000
+post_cruise_speed: 230
+post_fuel_burnt: 5838
+post_approach_type: 2
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 15:09:08
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106251133341570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: EPPO
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 161
+post_cargo: 0
+post_engine_start_time: 2011-06-25 11:33:53
+post_takeoff_time: 2011-06-25 11:38:10
+post_landing_time: 2011-06-25 15:04:14
+post_engine_stop_time: 2011-06-25 15:08:12
+post_flight_minutes: 206
+post_blocktime_minutes: 213
+post_cruise_alt: 37000
+post_cruise_speed: 260
+post_fuel_burnt: 21442
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 15:49:50
+===============================================
+validation: 1
+post_username: 1212
+post_password: NOT LOGGED
+post_aggregate_id: 201106251403081212
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 0
+post_origin: LIEE
+post_destination: LSZH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-25 14:09:10
+post_takeoff_time: 2011-06-25 14:14:41
+post_landing_time: 2011-06-25 15:46:41
+post_engine_stop_time: 2011-06-25 15:49:36
+post_flight_minutes: 90
+post_blocktime_minutes: 99
+post_cruise_alt: 30000
+post_cruise_speed: 310
+post_fuel_burnt: 4074
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 16:03:13
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106251449441442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2561
+post_origin: MKBS
+post_destination: MWCB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-25 14:51:45
+post_takeoff_time: 2011-06-25 14:55:50
+post_landing_time: 2011-06-25 16:01:29
+post_engine_stop_time: 2011-06-25 16:01:48
+post_flight_minutes: 65
+post_blocktime_minutes: 70
+post_cruise_alt: 4500
+post_cruise_speed: 160
+post_fuel_burnt: 151
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 16:19:34
+===============================================
+validation: 1
+post_username: 0654
+post_password: NOT LOGGED
+post_aggregate_id: 201106251447080654
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 932
+post_origin: ESSA
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-25 15:00:18
+post_takeoff_time: 2011-06-25 15:08:56
+post_landing_time: 2011-06-25 16:16:29
+post_engine_stop_time: 2011-06-25 16:18:53
+post_flight_minutes: 67
+post_blocktime_minutes: 78
+post_cruise_alt: 40000
+post_cruise_speed: 230
+post_fuel_burnt: 3851
+post_approach_type: 3
+post_network: 0
+post_gcd: -2147483648
+post_comments: Second leg completed without incident at x4 during cruise. Now to see if I can complete the leg to LPPT in under an hour.
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 16:19:56
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106251400442383
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 0
+post_origin: KBWI
+post_destination: KATL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B763-LDS Winglet
+post_flightnumber: 
+post_pax: 262
+post_cargo: 0
+post_engine_start_time: 2011-06-25 14:14:01
+post_takeoff_time: 2011-06-25 14:21:38
+post_landing_time: 2011-06-25 16:10:32
+post_engine_stop_time: 2011-06-25 16:17:05
+post_flight_minutes: 107
+post_blocktime_minutes: 122
+post_cruise_alt: 34000
+post_cruise_speed: 280
+post_fuel_burnt: 23415
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 16:39:54
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106251451232668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3456
+post_origin: LEBB
+post_destination: EGLL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 71
+post_cargo: 0
+post_engine_start_time: 2011-06-25 14:54:53
+post_takeoff_time: 2011-06-25 14:59:26
+post_landing_time: 2011-06-25 16:38:45
+post_engine_stop_time: 2011-06-25 16:40:42
+post_flight_minutes: 99
+post_blocktime_minutes: 105
+post_cruise_alt: 21000
+post_cruise_speed: 240
+post_fuel_burnt: 4313
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 16:51:18
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106251543342131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2785
+post_origin: MWCB
+post_destination: MUBR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-25 15:45:31
+post_takeoff_time: 2011-06-25 15:51:08
+post_landing_time: 2011-06-25 16:50:10
+post_engine_stop_time: 2011-06-25 16:51:00
+post_flight_minutes: 58
+post_blocktime_minutes: 65
+post_cruise_alt: 10000
+post_cruise_speed: 210
+post_fuel_burnt: 167
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 17:56:27
+===============================================
+validation: 1
+post_username: 0654
+post_password: NOT LOGGED
+post_aggregate_id: 201106251620220654
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 933
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 8
+post_cargo: 0
+post_engine_start_time: 2011-06-25 16:28:19
+post_takeoff_time: 2011-06-25 16:36:56
+post_landing_time: 2011-06-25 17:53:08
+post_engine_stop_time: 2011-06-25 17:55:07
+post_flight_minutes: 75
+post_blocktime_minutes: 85
+post_cruise_alt: 40000
+post_cruise_speed: 230
+post_fuel_burnt: 5348
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: Phew, brain turned to porridge, but all caught up prior to vacation.
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 18:18:34
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106251750182678
+post_timetable_id: 0
+post_aircraft_id: 22
+post_assigned_id: 3254
+post_origin: ESML
+post_destination: ESDB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: jfarcher_FR1
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-25 17:59:09
+post_takeoff_time: 2011-06-25 18:04:17
+post_landing_time: 2011-06-25 18:16:03
+post_engine_stop_time: 2011-06-25 18:18:14
+post_flight_minutes: 11
+post_blocktime_minutes: 19
+post_cruise_alt: 2000
+post_cruise_speed: 120
+post_fuel_burnt: 15
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 18:45:15
+===============================================
+validation: 1
+post_username: 2097
+post_password: NOT LOGGED
+post_aggregate_id: 201106251535352097
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1285
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: V4EHM-C850
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-25 16:00:37
+post_takeoff_time: 2011-06-25 16:06:34
+post_landing_time: 2011-06-25 19:39:03
+post_engine_stop_time: 2011-06-25 19:42:49
+post_flight_minutes: 152
+post_blocktime_minutes: 162
+post_cruise_alt: 34000
+post_cruise_speed: 270
+post_fuel_burnt: 14865
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: This time gap was purposely provoked for testing reasons, so please dont shoot... and validate the flight if possible
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 18:50:55
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106251818552678
+post_timetable_id: 0
+post_aircraft_id: 22
+post_assigned_id: 3255
+post_origin: ESDB
+post_destination: ESMT
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: jfarcher_FR1
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-25 18:31:29
+post_takeoff_time: 2011-06-25 18:35:00
+post_landing_time: 2011-06-25 18:48:35
+post_engine_stop_time: 2011-06-25 18:50:42
+post_flight_minutes: 13
+post_blocktime_minutes: 19
+post_cruise_alt: 3000
+post_cruise_speed: 110
+post_fuel_burnt: 14
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 19:18:02
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106251753262668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3458
+post_origin: EGLL
+post_destination: EGPH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 71
+post_cargo: 0
+post_engine_start_time: 2011-06-25 17:59:17
+post_takeoff_time: 2011-06-25 18:03:42
+post_landing_time: 2011-06-25 19:15:05
+post_engine_stop_time: 2011-06-25 19:16:39
+post_flight_minutes: 71
+post_blocktime_minutes: 77
+post_cruise_alt: 20000
+post_cruise_speed: 240
+post_fuel_burnt: 2798
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 19:47:36
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106251640162581
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1561
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-25 16:40:57
+post_takeoff_time: 2011-06-25 16:44:37
+post_landing_time: 2011-06-25 19:46:40
+post_engine_stop_time: 2011-06-25 19:46:42
+post_flight_minutes: 176
+post_blocktime_minutes: 180
+post_cruise_alt: 15000
+post_cruise_speed: 320
+post_fuel_burnt: 8079
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 20:12:22
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106251924412668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3459
+post_origin: EGPH
+post_destination: EGNS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 70
+post_cargo: 0
+post_engine_start_time: 2011-06-25 19:28:09
+post_takeoff_time: 2011-06-25 19:32:33
+post_landing_time: 2011-06-25 20:12:28
+post_engine_stop_time: 2011-06-25 20:13:14
+post_flight_minutes: 39
+post_blocktime_minutes: 44
+post_cruise_alt: 17000
+post_cruise_speed: 230
+post_fuel_burnt: 1461
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 21:18:46
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106252018242668
+post_timetable_id: 0
+post_aircraft_id: 85
+post_assigned_id: 3460
+post_origin: EGNS
+post_destination: EGLL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-DHC8
+post_flightnumber: 
+post_pax: 71
+post_cargo: 0
+post_engine_start_time: 2011-06-25 20:24:44
+post_takeoff_time: 2011-06-25 20:31:56
+post_landing_time: 2011-06-25 21:18:08
+post_engine_stop_time: 2011-06-25 21:19:39
+post_flight_minutes: 46
+post_blocktime_minutes: 53
+post_cruise_alt: 17000
+post_cruise_speed: 260
+post_fuel_burnt: 2120
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 22:18:04
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106252103362581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3366
+post_origin: LDPL
+post_destination: LDDU
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 67
+post_cargo: 0
+post_engine_start_time: 2011-06-25 21:06:04
+post_takeoff_time: 2011-06-25 21:07:25
+post_landing_time: 2011-06-25 22:15:31
+post_engine_stop_time: 2011-06-25 22:17:34
+post_flight_minutes: 65
+post_blocktime_minutes: 68
+post_cruise_alt: 6000
+post_cruise_speed: 280
+post_fuel_burnt: 5147
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-25 22:37:31
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106252124141442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2562
+post_origin: MWCB
+post_destination: MUBR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-25 21:25:20
+post_takeoff_time: 2011-06-25 21:26:23
+post_landing_time: 2011-06-25 22:36:07
+post_engine_stop_time: 2011-06-25 22:36:36
+post_flight_minutes: 69
+post_blocktime_minutes: 71
+post_cruise_alt: 3500
+post_cruise_speed: 160
+post_fuel_burnt: 190
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 01:49:25
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250219182089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LEMH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-25 23:51:03
+post_takeoff_time: 2011-06-25 23:56:43
+post_landing_time: 2011-06-26 01:46:48
+post_engine_stop_time: 2011-06-26 01:48:56
+post_flight_minutes: 110
+post_blocktime_minutes: 117
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 13141
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 01:50:02
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250219182089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LEMH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-25 23:51:03
+post_takeoff_time: 2011-06-25 23:56:43
+post_landing_time: 2011-06-26 01:46:48
+post_engine_stop_time: 2011-06-26 01:48:56
+post_flight_minutes: 110
+post_blocktime_minutes: 117
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 13141
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 01:50:19
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250219182089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LEMH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-25 23:51:03
+post_takeoff_time: 2011-06-25 23:56:43
+post_landing_time: 2011-06-26 01:46:48
+post_engine_stop_time: 2011-06-26 01:48:56
+post_flight_minutes: 110
+post_blocktime_minutes: 117
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 13141
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 01:53:15
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106250219182089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LEMH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-25 23:51:03
+post_takeoff_time: 2011-06-25 23:56:43
+post_landing_time: 2011-06-26 01:46:48
+post_engine_stop_time: 2011-06-26 01:48:56
+post_flight_minutes: 110
+post_blocktime_minutes: 117
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 13141
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 02:37:08
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106211305222583
+post_timetable_id: 0
+post_aircraft_id: 50
+post_assigned_id: 457
+post_origin: WAMM
+post_destination: WAWS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-MD17
+post_flightnumber: 
+post_pax: 66
+post_cargo: 0
+post_engine_start_time: 2011-06-26 01:15:02
+post_takeoff_time: 2011-06-26 01:23:28
+post_landing_time: 2011-06-26 02:34:31
+post_engine_stop_time: 2011-06-26 02:36:41
+post_flight_minutes: 71
+post_blocktime_minutes: 81
+post_cruise_alt: 18000
+post_cruise_speed: 270
+post_fuel_burnt: 35167
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 03:30:55
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106260234192089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LEMH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-26 02:36:10
+post_takeoff_time: 2011-06-26 02:39:48
+post_landing_time: 2011-06-26 03:29:01
+post_engine_stop_time: 2011-06-26 03:30:12
+post_flight_minutes: 48
+post_blocktime_minutes: 53
+post_cruise_alt: 32000
+post_cruise_speed: 280
+post_fuel_burnt: 11444
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: had flown this flight on 1x but was not recorded my bad there, have an ACARS log to show that I had flown on 1x, flew this one on 2  4x
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 06:23:58
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106260240342583
+post_timetable_id: 0
+post_aircraft_id: 29
+post_assigned_id: 458
+post_origin: WAWS
+post_destination: WADB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-BA143Q
+post_flightnumber: 
+post_pax: 69
+post_cargo: 0
+post_engine_start_time: 2011-06-26 05:02:51
+post_takeoff_time: 2011-06-26 05:03:50
+post_landing_time: 2011-06-26 06:20:56
+post_engine_stop_time: 2011-06-26 06:23:43
+post_flight_minutes: 77
+post_blocktime_minutes: 80
+post_cruise_alt: 18000
+post_cruise_speed: 300
+post_fuel_burnt: 7316
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 07:34:11
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106260615412581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3367
+post_origin: LDDU
+post_destination: LIRF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 65
+post_cargo: 0
+post_engine_start_time: 2011-06-26 06:16:46
+post_takeoff_time: 2011-06-26 06:22:52
+post_landing_time: 2011-06-26 07:30:53
+post_engine_stop_time: 2011-06-26 07:33:46
+post_flight_minutes: 68
+post_blocktime_minutes: 77
+post_cruise_alt: 15000
+post_cruise_speed: 260
+post_fuel_burnt: 4497
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 07:45:30
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106260624312583
+post_timetable_id: 0
+post_aircraft_id: 29
+post_assigned_id: 459
+post_origin: WADB
+post_destination: WADD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-BA143Q
+post_flightnumber: 
+post_pax: 65
+post_cargo: 0
+post_engine_start_time: 2011-06-26 06:50:51
+post_takeoff_time: 2011-06-26 06:51:54
+post_landing_time: 2011-06-26 07:39:30
+post_engine_stop_time: 2011-06-26 07:45:15
+post_flight_minutes: 47
+post_blocktime_minutes: 54
+post_cruise_alt: 10500
+post_cruise_speed: 250
+post_fuel_burnt: 4489
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 08:54:55
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106260538492089
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 3462
+post_origin: LEMH
+post_destination: EGPF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Air1
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-26 05:42:47
+post_takeoff_time: 2011-06-26 05:49:28
+post_landing_time: 2011-06-26 08:48:59
+post_engine_stop_time: 2011-06-26 08:53:03
+post_flight_minutes: 179
+post_blocktime_minutes: 190
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 21790
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: had lost internet connectivity during final approach 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 09:08:00
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106260737302581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3368
+post_origin: LIRF
+post_destination: LICR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 69
+post_cargo: 0
+post_engine_start_time: 2011-06-26 07:39:01
+post_takeoff_time: 2011-06-26 07:46:35
+post_landing_time: 2011-06-26 09:05:09
+post_engine_stop_time: 2011-06-26 09:07:36
+post_flight_minutes: 78
+post_blocktime_minutes: 88
+post_cruise_alt: 7000
+post_cruise_speed: 300
+post_fuel_burnt: 7152
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 10:50:31
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106260914012581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3369
+post_origin: LICR
+post_destination: LGIR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 65
+post_cargo: 0
+post_engine_start_time: 2011-06-26 09:14:32
+post_takeoff_time: 2011-06-26 09:20:53
+post_landing_time: 2011-06-26 10:48:56
+post_engine_stop_time: 2011-06-26 10:48:57
+post_flight_minutes: 88
+post_blocktime_minutes: 94
+post_cruise_alt: 7500
+post_cruise_speed: 310
+post_fuel_burnt: 6697
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 11:40:03
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106261054192581
+post_timetable_id: 0
+post_aircraft_id: 80
+post_assigned_id: 3370
+post_origin: LGIR
+post_destination: LGAV
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E170
+post_flightnumber: 
+post_pax: 70
+post_cargo: 0
+post_engine_start_time: 2011-06-26 10:58:13
+post_takeoff_time: 2011-06-26 11:02:17
+post_landing_time: 2011-06-26 11:36:21
+post_engine_stop_time: 2011-06-26 11:39:15
+post_flight_minutes: 34
+post_blocktime_minutes: 41
+post_cruise_alt: 5000
+post_cruise_speed: 320
+post_fuel_burnt: 3014
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 13:06:40
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106260745562583
+post_timetable_id: 0
+post_aircraft_id: 29
+post_assigned_id: 460
+post_origin: WADD
+post_destination: WARQ
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-BA143Q
+post_flightnumber: 
+post_pax: 65
+post_cargo: 0
+post_engine_start_time: 2011-06-26 11:49:44
+post_takeoff_time: 2011-06-26 11:50:51
+post_landing_time: 2011-06-26 13:02:41
+post_engine_stop_time: 2011-06-26 13:06:26
+post_flight_minutes: 57
+post_blocktime_minutes: 62
+post_cruise_alt: 18000
+post_cruise_speed: 260
+post_fuel_burnt: 5555
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 13:13:05
+===============================================
+validation: 1
+post_username: 1997
+post_password: NOT LOGGED
+post_aggregate_id: 201106261108411997
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 915
+post_origin: ESSA
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 10
+post_cargo: 0
+post_engine_start_time: 2011-06-26 11:10:25
+post_takeoff_time: 2011-06-26 11:18:11
+post_landing_time: 2011-06-26 13:12:33
+post_engine_stop_time: 2011-06-26 13:13:20
+post_flight_minutes: 114
+post_blocktime_minutes: 122
+post_cruise_alt: 28500
+post_cruise_speed: 270
+post_fuel_burnt: 5178
+post_approach_type: 3
+post_network: 0
+post_gcd: -2147483648
+post_comments: Left engine troubles on final.
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 13:21:40
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106260912001570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LGIR
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 159
+post_cargo: 0
+post_engine_start_time: 2011-06-26 09:12:20
+post_takeoff_time: 2011-06-26 09:17:05
+post_landing_time: 2011-06-26 13:16:59
+post_engine_stop_time: 2011-06-26 13:20:41
+post_flight_minutes: 239
+post_blocktime_minutes: 248
+post_cruise_alt: 37000
+post_cruise_speed: 250
+post_fuel_burnt: 25295
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 14:00:47
+===============================================
+validation: 1
+post_username: 1001
+post_password: NOT LOGGED
+post_aggregate_id: 201106261043031001
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1383
+post_origin: LSZH
+post_destination: ESSA
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-26 10:51:44
+post_takeoff_time: 2011-06-26 11:05:24
+post_landing_time: 2011-06-26 13:32:42
+post_engine_stop_time: 2011-06-26 13:40:46
+post_flight_minutes: 147
+post_blocktime_minutes: 169
+post_cruise_alt: 34000
+post_cruise_speed: 260
+post_fuel_burnt: 5148
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 14:01:46
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106261109062131
+post_timetable_id: 0
+post_aircraft_id: 76
+post_assigned_id: 3372
+post_origin: ESSA
+post_destination: EKVG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E120
+post_flightnumber: 
+post_pax: 25
+post_cargo: 0
+post_engine_start_time: 2011-06-26 11:09:56
+post_takeoff_time: 2011-06-26 11:11:12
+post_landing_time: 2011-06-26 14:00:18
+post_engine_stop_time: 2011-06-26 14:01:17
+post_flight_minutes: 169
+post_blocktime_minutes: 171
+post_cruise_alt: 10500
+post_cruise_speed: 260
+post_fuel_burnt: 5100
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 14:02:00
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106261109062131
+post_timetable_id: 0
+post_aircraft_id: 76
+post_assigned_id: 3372
+post_origin: ESSA
+post_destination: EKVG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E120
+post_flightnumber: 
+post_pax: 25
+post_cargo: 0
+post_engine_start_time: 2011-06-26 11:09:56
+post_takeoff_time: 2011-06-26 11:11:12
+post_landing_time: 2011-06-26 14:00:18
+post_engine_stop_time: 2011-06-26 14:01:17
+post_flight_minutes: 169
+post_blocktime_minutes: 171
+post_cruise_alt: 10500
+post_cruise_speed: 260
+post_fuel_burnt: 5100
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 14:24:29
+===============================================
+validation: 1
+post_username: 1997
+post_password: NOT LOGGED
+post_aggregate_id: 201106261317131997
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 916
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 12
+post_cargo: 0
+post_engine_start_time: 2011-06-26 13:17:30
+post_takeoff_time: 2011-06-26 13:20:10
+post_landing_time: 2011-06-26 14:22:50
+post_engine_stop_time: 2011-06-26 14:25:02
+post_flight_minutes: 62
+post_blocktime_minutes: 67
+post_cruise_alt: 21000
+post_cruise_speed: 280
+post_fuel_burnt: 7104
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: Time compression used.
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 14:48:48
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106261327271442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2563
+post_origin: MUBR
+post_destination: KEYW
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-26 13:29:01
+post_takeoff_time: 2011-06-26 13:34:17
+post_landing_time: 2011-06-26 14:46:12
+post_engine_stop_time: 2011-06-26 14:47:38
+post_flight_minutes: 71
+post_blocktime_minutes: 78
+post_cruise_alt: 4500
+post_cruise_speed: 160
+post_fuel_burnt: 178
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 19:18:06
+===============================================
+validation: 1
+post_username: 2535
+post_password: NOT LOGGED
+post_aggregate_id: 201106261803452535
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3464
+post_origin: ENGM
+post_destination: ESGG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900-PMDG-Anniversary
+post_flightnumber: 
+post_pax: 19
+post_cargo: 0
+post_engine_start_time: 2011-06-26 18:05:12
+post_takeoff_time: 2011-06-26 18:22:45
+post_landing_time: 2011-06-26 19:12:02
+post_engine_stop_time: 2011-06-26 19:16:19
+post_flight_minutes: 49
+post_blocktime_minutes: 71
+post_cruise_alt: 13000
+post_cruise_speed: 200
+post_fuel_burnt: 716
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 19:36:20
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106261656102656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3311
+post_origin: LESO
+post_destination: LEAP
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 3
+post_cargo: 0
+post_engine_start_time: 2011-06-26 16:56:35
+post_takeoff_time: 2011-06-26 17:01:45
+post_landing_time: 2011-06-26 19:35:19
+post_engine_stop_time: 2011-06-26 19:36:20
+post_flight_minutes: 153
+post_blocktime_minutes: 159
+post_cruise_alt: 7000
+post_cruise_speed: 100
+post_fuel_burnt: 123
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 21:48:35
+===============================================
+validation: 1
+post_username: 2155
+post_password: NOT LOGGED
+post_aggregate_id: 201106261915352155
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1264
+post_origin: LSZH
+post_destination: ESSA
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-26 19:17:45
+post_takeoff_time: 2011-06-26 19:21:38
+post_landing_time: 2011-06-26 21:44:37
+post_engine_stop_time: 2011-06-26 21:47:55
+post_flight_minutes: 142
+post_blocktime_minutes: 150
+post_cruise_alt: 31000
+post_cruise_speed: 260
+post_fuel_burnt: 4706
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 22:06:16
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3424
+post_origin: LEAP
+post_destination: LEBL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-26 21:00:02
+post_takeoff_time: 2011-06-26 21:18:14
+post_landing_time: 2011-06-26 22:02:03
+post_engine_stop_time: 2011-06-26 22:05:48
+post_flight_minutes: 43
+post_blocktime_minutes: 54
+post_cruise_alt: 8000
+post_cruise_speed: 150
+post_fuel_burnt: 401
+post_approach_type: 3
+post_network: 0
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 22:07:02
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3424
+post_origin: LEAP
+post_destination: LEBL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-26 21:00:02
+post_takeoff_time: 2011-06-26 21:18:14
+post_landing_time: 2011-06-26 22:02:03
+post_engine_stop_time: 2011-06-26 22:05:48
+post_flight_minutes: 43
+post_blocktime_minutes: 54
+post_cruise_alt: 8000
+post_cruise_speed: 150
+post_fuel_burnt: 401
+post_approach_type: 3
+post_network: 0
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 22:25:14
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106261936582656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3312
+post_origin: LEAP
+post_destination: LEBL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-26 21:16:20
+post_takeoff_time: 2011-06-26 21:19:14
+post_landing_time: 2011-06-26 22:20:48
+post_engine_stop_time: 2011-06-26 22:25:20
+post_flight_minutes: 61
+post_blocktime_minutes: 68
+post_cruise_alt: 8000
+post_cruise_speed: 80
+post_fuel_burnt: 44
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-26 22:49:31
+===============================================
+validation: 1
+post_username: 2669
+post_password: NOT LOGGED
+post_aggregate_id: 201106262102562669
+post_timetable_id: 0
+post_aircraft_id: 53
+post_assigned_id: 3064
+post_origin: CYQH
+post_destination: PAOH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: F1_Pilatus_PC-12 EuroBusiness Ver4
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-26 21:03:41
+post_takeoff_time: 2011-06-26 21:08:17
+post_landing_time: 2011-06-26 22:46:52
+post_engine_stop_time: 2011-06-26 22:48:46
+post_flight_minutes: 98
+post_blocktime_minutes: 105
+post_cruise_alt: 10500
+post_cruise_speed: 170
+post_fuel_burnt: 566
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 04:21:38
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106270128082089
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 3470
+post_origin: EGPF
+post_destination: LEMH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Air1
+post_flightnumber: 
+post_pax: 8
+post_cargo: 0
+post_engine_start_time: 2011-06-27 01:31:36
+post_takeoff_time: 2011-06-27 01:39:41
+post_landing_time: 2011-06-27 04:19:11
+post_engine_stop_time: 2011-06-27 04:20:51
+post_flight_minutes: 159
+post_blocktime_minutes: 169
+post_cruise_alt: 33000
+post_cruise_speed: 280
+post_fuel_burnt: 19529
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 07:17:53
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106261054192581
+post_timetable_id: 0
+post_aircraft_id: 7
+post_assigned_id: 3473
+post_origin: LSZH
+post_destination: LIRQ
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S2000 - FS9 -
+post_flightnumber: 
+post_pax: 45
+post_cargo: 0
+post_engine_start_time: 2011-06-27 06:12:48
+post_takeoff_time: 2011-06-27 06:15:10
+post_landing_time: 2011-06-27 07:17:03
+post_engine_stop_time: 2011-06-27 07:17:04
+post_flight_minutes: 61
+post_blocktime_minutes: 64
+post_cruise_alt: 18000
+post_cruise_speed: 230
+post_fuel_burnt: 2754
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 09:18:37
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3425
+post_origin: LEBL
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-27 08:13:26
+post_takeoff_time: 2011-06-27 08:16:51
+post_landing_time: 2011-06-27 09:08:24
+post_engine_stop_time: 2011-06-27 09:17:57
+post_flight_minutes: 51
+post_blocktime_minutes: 64
+post_cruise_alt: 7000
+post_cruise_speed: 160
+post_fuel_burnt: 147
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 09:19:11
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3425
+post_origin: LEBL
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-27 08:13:26
+post_takeoff_time: 2011-06-27 08:16:51
+post_landing_time: 2011-06-27 09:08:24
+post_engine_stop_time: 2011-06-27 09:17:57
+post_flight_minutes: 51
+post_blocktime_minutes: 64
+post_cruise_alt: 7000
+post_cruise_speed: 160
+post_fuel_burnt: 147
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 09:21:37
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106270646312131
+post_timetable_id: 0
+post_aircraft_id: 76
+post_assigned_id: 3474
+post_origin: EKVG
+post_destination: ESSA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-E120
+post_flightnumber: 
+post_pax: 26
+post_cargo: 0
+post_engine_start_time: 2011-06-27 06:50:14
+post_takeoff_time: 2011-06-27 06:52:39
+post_landing_time: 2011-06-27 09:19:19
+post_engine_stop_time: 2011-06-27 09:20:53
+post_flight_minutes: 146
+post_blocktime_minutes: 150
+post_cruise_alt: 25000
+post_cruise_speed: 220
+post_fuel_burnt: 3316
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 09:22:02
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3425
+post_origin: LEBL
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-27 08:13:26
+post_takeoff_time: 2011-06-27 08:16:51
+post_landing_time: 2011-06-27 09:08:24
+post_engine_stop_time: 2011-06-27 09:17:57
+post_flight_minutes: 51
+post_blocktime_minutes: 64
+post_cruise_alt: 7000
+post_cruise_speed: 160
+post_fuel_burnt: 147
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: Tried for the second time with new flightlogger..... did not work.
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 09:27:56
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106250849362079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3425
+post_origin: LEBL
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 5
+post_cargo: 0
+post_engine_start_time: 2011-06-27 08:13:26
+post_takeoff_time: 2011-06-27 08:16:51
+post_landing_time: 2011-06-27 09:08:24
+post_engine_stop_time: 2011-06-27 09:17:57
+post_flight_minutes: 51
+post_blocktime_minutes: 64
+post_cruise_alt: 7000
+post_cruise_speed: 160
+post_fuel_burnt: 147
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 11:31:38
+===============================================
+validation: 1
+post_username: 1800
+post_password: NOT LOGGED
+post_aggregate_id: 201106270940341800
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1247
+post_origin: ESSA
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-27 09:45:57
+post_takeoff_time: 2011-06-27 09:48:04
+post_landing_time: 2011-06-27 11:28:03
+post_engine_stop_time: 2011-06-27 11:32:02
+post_flight_minutes: 99
+post_blocktime_minutes: 106
+post_cruise_alt: 36000
+post_cruise_speed: 280
+post_fuel_burnt: 3999
+post_approach_type: 4
+post_network: 2
+post_gcd: 0
+post_comments: Euroharmony Hub Hop  Leg 0810
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 12:48:20
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106271011562079
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 3475
+post_origin: LEPA
+post_destination: LICJ
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B763-LDS
+post_flightnumber: 
+post_pax: 265
+post_cargo: 0
+post_engine_start_time: 2011-06-27 11:14:34
+post_takeoff_time: 2011-06-27 11:21:27
+post_landing_time: 2011-06-27 12:43:56
+post_engine_stop_time: 2011-06-27 12:47:31
+post_flight_minutes: 82
+post_blocktime_minutes: 92
+post_cruise_alt: 33000
+post_cruise_speed: 290
+post_fuel_burnt: 23676
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: Flogger is working again. :-)
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 13:34:08
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106270901421570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: LGIR
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 158
+post_cargo: 0
+post_engine_start_time: 2011-06-27 09:02:03
+post_takeoff_time: 2011-06-27 09:06:14
+post_landing_time: 2011-06-27 13:27:39
+post_engine_stop_time: 2011-06-27 13:32:54
+post_flight_minutes: 261
+post_blocktime_minutes: 270
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 27810
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 14:02:19
+===============================================
+validation: 1
+post_username: 1829
+post_password: NOT LOGGED
+post_aggregate_id: 201106271138161829
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: ESSA
+post_destination: LOWW
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: PMDG 737-700 - Virtual Cockpit
+post_flightnumber: 
+post_pax: 146
+post_cargo: 0
+post_engine_start_time: 2011-06-27 11:39:38
+post_takeoff_time: 2011-06-27 11:47:23
+post_landing_time: 2011-06-27 13:51:42
+post_engine_stop_time: 2011-06-27 13:59:11
+post_flight_minutes: 124
+post_blocktime_minutes: 139
+post_cruise_alt: 34000
+post_cruise_speed: 270
+post_fuel_burnt: 11956
+post_approach_type: 3
+post_network: 2
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 14:21:42
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106271321442131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2786
+post_origin: MUBR
+post_destination: KEYW
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 4
+post_cargo: 0
+post_engine_start_time: 2011-06-27 13:23:07
+post_takeoff_time: 2011-06-27 13:25:31
+post_landing_time: 2011-06-27 14:18:31
+post_engine_stop_time: 2011-06-27 14:21:03
+post_flight_minutes: 53
+post_blocktime_minutes: 57
+post_cruise_alt: 10000
+post_cruise_speed: 210
+post_fuel_burnt: 157
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: MUFH_CTR
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 16:37:46
+===============================================
+validation: 1
+post_username: 2535
+post_password: NOT LOGGED
+post_aggregate_id: 201106271537422535
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3477
+post_origin: ESGG
+post_destination: EKCH
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900-PMDG-Anniversary
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-27 15:39:14
+post_takeoff_time: 2011-06-27 15:49:23
+post_landing_time: 2011-06-27 16:29:31
+post_engine_stop_time: 2011-06-27 16:36:54
+post_flight_minutes: 40
+post_blocktime_minutes: 57
+post_cruise_alt: 13000
+post_cruise_speed: 180
+post_fuel_burnt: 591
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 17:56:20
+===============================================
+validation: 1
+post_username: 1146
+post_password: NOT LOGGED
+post_aggregate_id: 201105291112131146
+post_timetable_id: 822
+post_aircraft_id: 11
+post_assigned_id: 0
+post_origin: EFOU
+post_destination: EFTP
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Fokker 70
+post_flightnumber: 4307
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-27 16:56:57
+post_takeoff_time: 2011-06-27 17:03:02
+post_landing_time: 2011-06-27 17:50:41
+post_engine_stop_time: 2011-06-27 17:55:29
+post_flight_minutes: 47
+post_blocktime_minutes: 58
+post_cruise_alt: 15000
+post_cruise_speed: 260
+post_fuel_burnt: 3989
+post_approach_type: 3
+post_network: 0
+post_gcd: 220
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 18:37:14
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106271602042079
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 3478
+post_origin: LICJ
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B763-LDS
+post_flightnumber: 
+post_pax: 263
+post_cargo: 0
+post_engine_start_time: 2011-06-27 17:02:46
+post_takeoff_time: 2011-06-27 17:08:20
+post_landing_time: 2011-06-27 18:26:37
+post_engine_stop_time: 2011-06-27 18:32:56
+post_flight_minutes: 78
+post_blocktime_minutes: 90
+post_cruise_alt: 34000
+post_cruise_speed: 280
+post_fuel_burnt: 22578
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 19:34:17
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106271528412383
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 0
+post_origin: KATL
+post_destination: KLAS
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B763-LDS Winglet
+post_flightnumber: 
+post_pax: 269
+post_cargo: 0
+post_engine_start_time: 2011-06-27 15:44:27
+post_takeoff_time: 2011-06-27 15:51:09
+post_landing_time: 2011-06-27 19:30:03
+post_engine_stop_time: 2011-06-27 19:33:06
+post_flight_minutes: 211
+post_blocktime_minutes: 221
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 40026
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 20:00:06
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106271735262679
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3479
+post_origin: LSZB
+post_destination: EGLC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-27 17:39:32
+post_takeoff_time: 2011-06-27 17:47:26
+post_landing_time: 2011-06-27 19:54:04
+post_engine_stop_time: 2011-06-27 19:58:42
+post_flight_minutes: 126
+post_blocktime_minutes: 139
+post_cruise_alt: 12500
+post_cruise_speed: 190
+post_fuel_burnt: 1232
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: My first flight . Woo Hoo
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 20:03:05
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106271813372656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3313
+post_origin: LEBL
+post_destination: LEPA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-27 18:15:16
+post_takeoff_time: 2011-06-27 18:20:27
+post_landing_time: 2011-06-27 20:00:59
+post_engine_stop_time: 2011-06-27 20:03:23
+post_flight_minutes: 100
+post_blocktime_minutes: 108
+post_cruise_alt: 7000
+post_cruise_speed: 90
+post_fuel_burnt: 79
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 20:53:56
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106271827162668
+post_timetable_id: 0
+post_aircraft_id: 28
+post_assigned_id: 3480
+post_origin: EGLL
+post_destination: ENZV
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S363F
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-27 18:28:07
+post_takeoff_time: 2011-06-27 18:32:47
+post_landing_time: 2011-06-27 20:52:10
+post_engine_stop_time: 2011-06-27 20:53:32
+post_flight_minutes: 139
+post_blocktime_minutes: 145
+post_cruise_alt: 16000
+post_cruise_speed: 180
+post_fuel_burnt: 3604
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 22:27:31
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106272027592679
+post_timetable_id: 0
+post_aircraft_id: 84
+post_assigned_id: 3483
+post_origin: EGLC
+post_destination: LSZB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-SU80
+post_flightnumber: 
+post_pax: 26
+post_cargo: 0
+post_engine_start_time: 2011-06-27 20:32:26
+post_takeoff_time: 2011-06-27 20:38:26
+post_landing_time: 2011-06-27 22:24:06
+post_engine_stop_time: 2011-06-27 22:26:30
+post_flight_minutes: 105
+post_blocktime_minutes: 113
+post_cruise_alt: 12000
+post_cruise_speed: 220
+post_fuel_burnt: 1699
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 22:47:13
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106272144012079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3426
+post_origin: LEPA
+post_destination: LEIB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-27 22:03:55
+post_takeoff_time: 2011-06-27 22:07:42
+post_landing_time: 2011-06-27 22:40:58
+post_engine_stop_time: 2011-06-27 22:46:41
+post_flight_minutes: 33
+post_blocktime_minutes: 42
+post_cruise_alt: 8000
+post_cruise_speed: 140
+post_fuel_burnt: 91
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-27 23:01:36
+===============================================
+validation: 1
+post_username: 2089
+post_password: NOT LOGGED
+post_aggregate_id: 201106272049272089
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LEMH
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: A 320-200NG
+post_flightnumber: 
+post_pax: 148
+post_cargo: 0
+post_engine_start_time: 2011-06-27 20:51:50
+post_takeoff_time: 2011-06-27 20:59:35
+post_landing_time: 2011-06-27 22:57:52
+post_engine_stop_time: 2011-06-27 23:00:50
+post_flight_minutes: 118
+post_blocktime_minutes: 128
+post_cruise_alt: 33000
+post_cruise_speed: 280
+post_fuel_burnt: 12864
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 11:01:03
+===============================================
+validation: 1
+post_username: 2581
+post_password: NOT LOGGED
+post_aggregate_id: 201106280411192581
+post_timetable_id: 0
+post_aircraft_id: 56
+post_assigned_id: 3476
+post_origin: EGLL
+post_destination: KIAD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Boeing 777-200LR GE 90-110B1 - EuroBusiness V4
+post_flightnumber: 
+post_pax: 59
+post_cargo: 0
+post_engine_start_time: 2011-06-28 04:11:53
+post_takeoff_time: 2011-06-28 04:14:57
+post_landing_time: 2011-06-28 10:58:34
+post_engine_stop_time: 2011-06-28 11:00:38
+post_flight_minutes: 403
+post_blocktime_minutes: 408
+post_cruise_alt: 6000
+post_cruise_speed: 320
+post_fuel_burnt: 138053
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 11:37:46
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106280734132383
+post_timetable_id: 0
+post_aircraft_id: 17
+post_assigned_id: 0
+post_origin: KLAS
+post_destination: KATL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B763-LDS
+post_flightnumber: 
+post_pax: 269
+post_cargo: 0
+post_engine_start_time: 2011-06-28 07:55:12
+post_takeoff_time: 2011-06-28 08:03:07
+post_landing_time: 2011-06-28 11:30:54
+post_engine_stop_time: 2011-06-28 11:36:45
+post_flight_minutes: 206
+post_blocktime_minutes: 218
+post_cruise_alt: 35000
+post_cruise_speed: 280
+post_fuel_burnt: 39794
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 13:14:27
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106261306582583
+post_timetable_id: 0
+post_aircraft_id: 29
+post_assigned_id: 461
+post_origin: WARQ
+post_destination: WICC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-BA143Q
+post_flightnumber: 
+post_pax: 69
+post_cargo: 0
+post_engine_start_time: 2011-06-28 12:06:32
+post_takeoff_time: 2011-06-28 12:07:44
+post_landing_time: 2011-06-28 13:09:40
+post_engine_stop_time: 2011-06-28 13:14:12
+post_flight_minutes: 49
+post_blocktime_minutes: 54
+post_cruise_alt: 11000
+post_cruise_speed: 240
+post_fuel_burnt: 4872
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 13:49:11
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106280914341570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: UMMS
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 162
+post_cargo: 0
+post_engine_start_time: 2011-06-28 09:14:54
+post_takeoff_time: 2011-06-28 09:17:46
+post_landing_time: 2011-06-28 13:42:52
+post_engine_stop_time: 2011-06-28 13:47:43
+post_flight_minutes: 255
+post_blocktime_minutes: 262
+post_cruise_alt: 37000
+post_cruise_speed: 260
+post_fuel_burnt: 26623
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 14:49:10
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106281402071442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2564
+post_origin: KEYW
+post_destination: 07FA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-28 14:03:12
+post_takeoff_time: 2011-06-28 14:10:28
+post_landing_time: 2011-06-28 14:47:37
+post_engine_stop_time: 2011-06-28 14:48:21
+post_flight_minutes: 37
+post_blocktime_minutes: 44
+post_cruise_alt: 3500
+post_cruise_speed: 160
+post_fuel_burnt: 89
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 15:45:11
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106280905352079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3427
+post_origin: LEIB
+post_destination: LELC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-28 14:31:46
+post_takeoff_time: 2011-06-28 14:36:51
+post_landing_time: 2011-06-28 15:40:02
+post_engine_stop_time: 2011-06-28 15:44:39
+post_flight_minutes: 63
+post_blocktime_minutes: 72
+post_cruise_alt: 8000
+post_cruise_speed: 160
+post_fuel_burnt: 180
+post_approach_type: 3
+post_network: 0
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 16:16:58
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106281534322131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2787
+post_origin: KEYW
+post_destination: 07FA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-28 15:36:14
+post_takeoff_time: 2011-06-28 15:39:30
+post_landing_time: 2011-06-28 16:12:31
+post_engine_stop_time: 2011-06-28 16:16:23
+post_flight_minutes: 32
+post_blocktime_minutes: 40
+post_cruise_alt: 9000
+post_cruise_speed: 200
+post_fuel_burnt: 85
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 16:28:39
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106281327422383
+post_timetable_id: 0
+post_aircraft_id: 77
+post_assigned_id: 0
+post_origin: KATL
+post_destination: TNCM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B752
+post_flightnumber: 
+post_pax: 198
+post_cargo: 0
+post_engine_start_time: 2011-06-28 13:28:04
+post_takeoff_time: 2011-06-28 13:38:20
+post_landing_time: 2011-06-28 16:23:53
+post_engine_stop_time: 2011-06-28 16:27:15
+post_flight_minutes: 165
+post_blocktime_minutes: 178
+post_cruise_alt: 37000
+post_cruise_speed: 260
+post_fuel_burnt: 60944
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 16:47:05
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106281546322079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3428
+post_origin: LELC
+post_destination: LEAM
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-28 15:51:31
+post_takeoff_time: 2011-06-28 15:55:36
+post_landing_time: 2011-06-28 16:38:01
+post_engine_stop_time: 2011-06-28 16:46:30
+post_flight_minutes: 42
+post_blocktime_minutes: 54
+post_cruise_alt: 8000
+post_cruise_speed: 150
+post_fuel_burnt: 118
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 17:15:40
+===============================================
+validation: 1
+post_username: 2669
+post_password: NOT LOGGED
+post_aggregate_id: 201106281546052669
+post_timetable_id: 0
+post_aircraft_id: 53
+post_assigned_id: 3065
+post_origin: PAOH
+post_destination: PAKT
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: F1_Pilatus_PC-12 EuroBusiness Ver4
+post_flightnumber: 
+post_pax: 4
+post_cargo: 0
+post_engine_start_time: 2011-06-28 15:46:52
+post_takeoff_time: 2011-06-28 15:51:34
+post_landing_time: 2011-06-28 17:12:50
+post_engine_stop_time: 2011-06-28 17:14:51
+post_flight_minutes: 81
+post_blocktime_minutes: 87
+post_cruise_alt: 8500
+post_cruise_speed: 180
+post_fuel_burnt: 497
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 18:34:09
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106281402161570
+post_timetable_id: 0
+post_aircraft_id: 15
+post_assigned_id: 0
+post_origin: UMMS
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: iFly 737-800 (Normal screen)
+post_flightnumber: 
+post_pax: 158
+post_cargo: 0
+post_engine_start_time: 2011-06-28 14:02:36
+post_takeoff_time: 2011-06-28 14:05:47
+post_landing_time: 2011-06-28 18:27:05
+post_engine_stop_time: 2011-06-28 18:33:05
+post_flight_minutes: 261
+post_blocktime_minutes: 270
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 27561
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 18:58:36
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106281621262678
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3487
+post_origin: LGAV
+post_destination: LGLM
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Beech Baron 58 Paint1
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-28 17:56:23
+post_takeoff_time: 2011-06-28 18:05:58
+post_landing_time: 2011-06-28 18:54:35
+post_engine_stop_time: 2011-06-28 18:57:48
+post_flight_minutes: 48
+post_blocktime_minutes: 61
+post_cruise_alt: 5000
+post_cruise_speed: 170
+post_fuel_burnt: 148
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 19:47:27
+===============================================
+validation: 1
+post_username: 2669
+post_password: NOT LOGGED
+post_aggregate_id: 201106281747022669
+post_timetable_id: 0
+post_aircraft_id: 53
+post_assigned_id: 3066
+post_origin: PAKT
+post_destination: CYXS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: F1_Pilatus_PC-12 EuroBusiness Ver4
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-28 17:48:27
+post_takeoff_time: 2011-06-28 17:55:10
+post_landing_time: 2011-06-28 19:44:45
+post_engine_stop_time: 2011-06-28 19:46:34
+post_flight_minutes: 109
+post_blocktime_minutes: 118
+post_cruise_alt: 10500
+post_cruise_speed: 170
+post_fuel_burnt: 651
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 19:52:06
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106281819032679
+post_timetable_id: 0
+post_aircraft_id: 7
+post_assigned_id: 3505
+post_origin: LSZB
+post_destination: EHAM
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S2000 - FS9 -
+post_flightnumber: 
+post_pax: 49
+post_cargo: 0
+post_engine_start_time: 2011-06-28 18:24:23
+post_takeoff_time: 2011-06-28 18:30:18
+post_landing_time: 2011-06-28 19:46:27
+post_engine_stop_time: 2011-06-28 19:50:52
+post_flight_minutes: 76
+post_blocktime_minutes: 86
+post_cruise_alt: 18500
+post_cruise_speed: 240
+post_fuel_burnt: 3525
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 20:39:49
+===============================================
+validation: 1
+post_username: 1882
+post_password: NOT LOGGED
+post_aggregate_id: 201106281742051882
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1307
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-28 17:42:25
+post_takeoff_time: 2011-06-28 17:53:27
+post_landing_time: 2011-06-28 20:37:34
+post_engine_stop_time: 2011-06-28 20:39:11
+post_flight_minutes: 164
+post_blocktime_minutes: 176
+post_cruise_alt: 32000
+post_cruise_speed: 290
+post_fuel_burnt: 6425
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 21:10:15
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106281954112679
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3507
+post_origin: EHAM
+post_destination: EDDL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-SU80
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-28 19:54:49
+post_takeoff_time: 2011-06-28 20:15:32
+post_landing_time: 2011-06-28 21:03:55
+post_engine_stop_time: 2011-06-28 21:09:28
+post_flight_minutes: 48
+post_blocktime_minutes: 72
+post_cruise_alt: 7000
+post_cruise_speed: 210
+post_fuel_burnt: 1321
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-28 21:31:00
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106281940142680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3506
+post_origin: LSZH
+post_destination: LOWS
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-28 20:25:53
+post_takeoff_time: 2011-06-28 20:32:04
+post_landing_time: 2011-06-28 21:28:33
+post_engine_stop_time: 2011-06-28 21:30:28
+post_flight_minutes: 55
+post_blocktime_minutes: 63
+post_cruise_alt: 9000
+post_cruise_speed: 190
+post_fuel_burnt: 566
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 01:42:37
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106290049452656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3314
+post_origin: LEPA
+post_destination: LEIB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-29 00:50:08
+post_takeoff_time: 2011-06-29 00:55:44
+post_landing_time: 2011-06-29 01:38:06
+post_engine_stop_time: 2011-06-29 01:42:22
+post_flight_minutes: 41
+post_blocktime_minutes: 51
+post_cruise_alt: 4000
+post_cruise_speed: 110
+post_fuel_burnt: 40
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 03:22:47
+===============================================
+validation: 1
+post_username: 2656
+post_password: NOT LOGGED
+post_aggregate_id: 201106290143502656
+post_timetable_id: 0
+post_aircraft_id: 23
+post_assigned_id: 3315
+post_origin: LEIB
+post_destination: LELC
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Cessna 172
+post_flightnumber: 
+post_pax: 3
+post_cargo: 0
+post_engine_start_time: 2011-06-29 01:49:22
+post_takeoff_time: 2011-06-29 01:55:58
+post_landing_time: 2011-06-29 03:20:51
+post_engine_stop_time: 2011-06-29 03:22:29
+post_flight_minutes: 84
+post_blocktime_minutes: 93
+post_cruise_alt: 4000
+post_cruise_speed: 100
+post_fuel_burnt: 77
+post_approach_type: 5
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 05:27:52
+===============================================
+validation: 1
+post_username: 1882
+post_password: NOT LOGGED
+post_aggregate_id: 201106290407461882
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LECO
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: Feelthere A320 CFM Iberia
+post_flightnumber: 
+post_pax: 145
+post_cargo: 0
+post_engine_start_time: 2011-06-29 04:10:23
+post_takeoff_time: 2011-06-29 04:16:26
+post_landing_time: 2011-06-29 05:23:27
+post_engine_stop_time: 2011-06-29 05:26:53
+post_flight_minutes: 66
+post_blocktime_minutes: 76
+post_cruise_alt: 31000
+post_cruise_speed: 230
+post_fuel_burnt: 9370
+post_approach_type: 0
+post_network: 1
+post_gcd: 0
+post_comments: missed approach
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 10:38:52
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106291014442680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3509
+post_origin: LSZH
+post_destination: LSZR
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 14
+post_cargo: 0
+post_engine_start_time: 2011-06-29 10:16:40
+post_takeoff_time: 2011-06-29 10:22:41
+post_landing_time: 2011-06-29 10:37:49
+post_engine_stop_time: 2011-06-29 10:38:31
+post_flight_minutes: 15
+post_blocktime_minutes: 21
+post_cruise_alt: 7000
+post_cruise_speed: 190
+post_fuel_burnt: 143
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 10:47:00
+===============================================
+validation: 1
+post_username: 2445
+post_password: NOT LOGGED
+post_aggregate_id: 201106290809402445
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 0
+post_origin: EGLL
+post_destination: EGSC
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900-PMDG
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-29 10:03:58
+post_takeoff_time: 2011-06-29 10:10:56
+post_landing_time: 2011-06-29 10:41:05
+post_engine_stop_time: 2011-06-29 10:45:31
+post_flight_minutes: 30
+post_blocktime_minutes: 41
+post_cruise_alt: 7000
+post_cruise_speed: 200
+post_fuel_burnt: 440
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 11:18:02
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106281315122583
+post_timetable_id: 0
+post_aircraft_id: 51
+post_assigned_id: 462
+post_origin: WICC
+post_destination: WIMG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-MD83
+post_flightnumber: 
+post_pax: 70
+post_cargo: 0
+post_engine_start_time: 2011-06-29 06:31:18
+post_takeoff_time: 2011-06-29 06:32:26
+post_landing_time: 2011-06-29 11:14:07
+post_engine_stop_time: 2011-06-29 11:17:42
+post_flight_minutes: 94
+post_blocktime_minutes: 99
+post_cruise_alt: 18000
+post_cruise_speed: 330
+post_fuel_burnt: 14506
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 11:36:26
+===============================================
+validation: 1
+post_username: 2445
+post_password: NOT LOGGED
+post_aggregate_id: 201106291100272445
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 0
+post_origin: EGSC
+post_destination: EGLL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B1900-PMDG
+post_flightnumber: 
+post_pax: 18
+post_cargo: 0
+post_engine_start_time: 2011-06-29 11:02:33
+post_takeoff_time: 2011-06-29 11:07:32
+post_landing_time: 2011-06-29 11:28:38
+post_engine_stop_time: 2011-06-29 11:35:28
+post_flight_minutes: 20
+post_blocktime_minutes: 32
+post_cruise_alt: 8000
+post_cruise_speed: 180
+post_fuel_burnt: 272
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 11:44:25
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106291043422680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3510
+post_origin: LSZH
+post_destination: EDDF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 15
+post_cargo: 0
+post_engine_start_time: 2011-06-29 10:44:06
+post_takeoff_time: 2011-06-29 10:49:41
+post_landing_time: 2011-06-29 11:43:56
+post_engine_stop_time: 2011-06-29 11:44:14
+post_flight_minutes: 53
+post_blocktime_minutes: 59
+post_cruise_alt: 6000
+post_cruise_speed: 200
+post_fuel_burnt: 544
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 12:51:16
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106291139342583
+post_timetable_id: 0
+post_aircraft_id: 51
+post_assigned_id: 463
+post_origin: WIMG
+post_destination: WIMM
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-MD83
+post_flightnumber: 
+post_pax: 70
+post_cargo: 0
+post_engine_start_time: 2011-06-29 11:41:56
+post_takeoff_time: 2011-06-29 11:42:55
+post_landing_time: 2011-06-29 12:48:35
+post_engine_stop_time: 2011-06-29 12:50:59
+post_flight_minutes: 64
+post_blocktime_minutes: 68
+post_cruise_alt: 18000
+post_cruise_speed: 260
+post_fuel_burnt: 10817
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 15:17:28
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106291403131442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2565
+post_origin: 07FA
+post_destination: KSPG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-29 14:04:49
+post_takeoff_time: 2011-06-29 14:11:10
+post_landing_time: 2011-06-29 15:16:01
+post_engine_stop_time: 2011-06-29 15:16:31
+post_flight_minutes: 64
+post_blocktime_minutes: 71
+post_cruise_alt: 2500
+post_cruise_speed: 180
+post_fuel_burnt: 196
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 15:24:47
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106291314311570
+post_timetable_id: 0
+post_aircraft_id: 35
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: GCRR
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-F100
+post_flightnumber: 
+post_pax: 103
+post_cargo: 0
+post_engine_start_time: 2011-06-29 13:14:52
+post_takeoff_time: 2011-06-29 13:19:13
+post_landing_time: 2011-06-29 15:20:21
+post_engine_stop_time: 2011-06-29 15:23:53
+post_flight_minutes: 121
+post_blocktime_minutes: 128
+post_cruise_alt: 28000
+post_cruise_speed: 270
+post_fuel_burnt: 5371
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 15:56:39
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106291455012131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2788
+post_origin: 07FA
+post_destination: KSPG
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 4
+post_cargo: 0
+post_engine_start_time: 2011-06-29 14:56:08
+post_takeoff_time: 2011-06-29 14:58:17
+post_landing_time: 2011-06-29 15:54:09
+post_engine_stop_time: 2011-06-29 15:56:11
+post_flight_minutes: 55
+post_blocktime_minutes: 60
+post_cruise_alt: 10000
+post_cruise_speed: 210
+post_fuel_burnt: 154
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 17:39:03
+===============================================
+validation: 1
+post_username: 2677
+post_password: NOT LOGGED
+post_aggregate_id: 201106291617052677
+post_timetable_id: 0
+post_aircraft_id: 4
+post_assigned_id: 3511
+post_origin: ESNO
+post_destination: ESSA
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-D328
+post_flightnumber: 
+post_pax: 36
+post_cargo: 0
+post_engine_start_time: 2011-06-29 16:21:35
+post_takeoff_time: 2011-06-29 16:27:56
+post_landing_time: 2011-06-29 17:32:57
+post_engine_stop_time: 2011-06-29 17:37:28
+post_flight_minutes: 65
+post_blocktime_minutes: 75
+post_cruise_alt: 13000
+post_cruise_speed: 230
+post_fuel_burnt: 1228
+post_approach_type: 0
+post_network: 0
+post_gcd: -2147483648
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 17:51:05
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106291529331570
+post_timetable_id: 0
+post_aircraft_id: 35
+post_assigned_id: 0
+post_origin: GCRR
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-F100
+post_flightnumber: 
+post_pax: 106
+post_cargo: 0
+post_engine_start_time: 2011-06-29 15:29:54
+post_takeoff_time: 2011-06-29 15:33:20
+post_landing_time: 2011-06-29 17:44:39
+post_engine_stop_time: 2011-06-29 17:49:16
+post_flight_minutes: 122
+post_blocktime_minutes: 131
+post_cruise_alt: 33000
+post_cruise_speed: 260
+post_fuel_burnt: 5363
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: No Idea what this means
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 19:10:30
+===============================================
+validation: 1
+post_username: 2678
+post_password: NOT LOGGED
+post_aggregate_id: 201106291826322678
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3488
+post_origin: LGLM
+post_destination: LGMT
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Beech Baron 58 Paint1
+post_flightnumber: 
+post_pax: 1
+post_cargo: 0
+post_engine_start_time: 2011-06-29 18:30:15
+post_takeoff_time: 2011-06-29 18:33:36
+post_landing_time: 2011-06-29 19:08:28
+post_engine_stop_time: 2011-06-29 19:09:59
+post_flight_minutes: 34
+post_blocktime_minutes: 39
+post_cruise_alt: 5000
+post_cruise_speed: 160
+post_fuel_burnt: 99
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 19:57:51
+===============================================
+validation: 1
+post_username: 1829
+post_password: NOT LOGGED
+post_aggregate_id: 201106291718161829
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LOWW
+post_destination: ESSA
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: B737-600
+post_flightnumber: 
+post_pax: 149
+post_cargo: 0
+post_engine_start_time: 2011-06-29 17:20:04
+post_takeoff_time: 2011-06-29 17:28:16
+post_landing_time: 2011-06-29 19:43:21
+post_engine_stop_time: 2011-06-29 19:49:04
+post_flight_minutes: 135
+post_blocktime_minutes: 148
+post_cruise_alt: 32000
+post_cruise_speed: 260
+post_fuel_burnt: 11320
+post_approach_type: 3
+post_network: 2
+post_gcd: 0
+post_comments: ATC SWEDEN cntl, ESSA twr
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 20:32:14
+===============================================
+validation: 1
+post_username: 1882
+post_password: NOT LOGGED
+post_aggregate_id: 201106291934101882
+post_timetable_id: 0
+post_aircraft_id: 14
+post_assigned_id: 0
+post_origin: LECO
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: Feelthere A320 CFM Iberia
+post_flightnumber: 
+post_pax: 147
+post_cargo: 0
+post_engine_start_time: 2011-06-29 19:34:30
+post_takeoff_time: 2011-06-29 19:38:56
+post_landing_time: 2011-06-29 20:30:24
+post_engine_stop_time: 2011-06-29 20:31:55
+post_flight_minutes: 51
+post_blocktime_minutes: 57
+post_cruise_alt: 32000
+post_cruise_speed: 260
+post_fuel_burnt: 6362
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-29 22:03:08
+===============================================
+validation: 1
+post_username: 2668
+post_password: NOT LOGGED
+post_aggregate_id: 201106291917362668
+post_timetable_id: 0
+post_aircraft_id: 28
+post_assigned_id: 3504
+post_origin: ENZV
+post_destination: EGLL
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S363F
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-29 19:18:22
+post_takeoff_time: 2011-06-29 19:23:40
+post_landing_time: 2011-06-29 22:02:07
+post_engine_stop_time: 2011-06-29 22:02:59
+post_flight_minutes: 158
+post_blocktime_minutes: 164
+post_cruise_alt: 16000
+post_cruise_speed: 190
+post_fuel_burnt: 3464
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 04:40:10
+===============================================
+validation: 1
+post_username: 1882
+post_password: NOT LOGGED
+post_aggregate_id: 201106292049341882
+post_timetable_id: 0
+post_aircraft_id: 56
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: FNLU
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: Boeing 777-200LR GE 90-110B1 - EuroBusiness V4
+post_flightnumber: 
+post_pax: 55
+post_cargo: 0
+post_engine_start_time: 2011-06-29 20:51:34
+post_takeoff_time: 2011-06-29 21:01:45
+post_landing_time: 2011-06-30 04:28:49
+post_engine_stop_time: 2011-06-30 04:36:11
+post_flight_minutes: 447
+post_blocktime_minutes: 464
+post_cruise_alt: 39000
+post_cruise_speed: 260
+post_fuel_burnt: 102548
+post_approach_type: 3
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 11:39:48
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106291043422680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3517
+post_origin: EGLL
+post_destination: EGPD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-30 09:51:28
+post_takeoff_time: 2011-06-30 09:53:48
+post_landing_time: 2011-06-30 11:38:54
+post_engine_stop_time: 2011-06-30 11:39:37
+post_flight_minutes: 102
+post_blocktime_minutes: 105
+post_cruise_alt: 4000
+post_cruise_speed: 210
+post_fuel_burnt: 1037
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 11:40:53
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106291043422680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3517
+post_origin: EGLL
+post_destination: EGPD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-30 09:51:28
+post_takeoff_time: 2011-06-30 09:53:48
+post_landing_time: 2011-06-30 11:38:54
+post_engine_stop_time: 2011-06-30 11:39:37
+post_flight_minutes: 102
+post_blocktime_minutes: 105
+post_cruise_alt: 4000
+post_cruise_speed: 210
+post_fuel_burnt: 1037
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 11:42:24
+===============================================
+validation: 1
+post_username: 2680
+post_password: NOT LOGGED
+post_aggregate_id: 201106291043422680
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 3517
+post_origin: EGLL
+post_destination: EGPD
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-B1900
+post_flightnumber: 
+post_pax: 17
+post_cargo: 0
+post_engine_start_time: 2011-06-30 09:51:28
+post_takeoff_time: 2011-06-30 09:53:48
+post_landing_time: 2011-06-30 11:38:54
+post_engine_stop_time: 2011-06-30 11:39:37
+post_flight_minutes: 102
+post_blocktime_minutes: 105
+post_cruise_alt: 4000
+post_cruise_speed: 210
+post_fuel_burnt: 1037
+post_approach_type: 0
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 11:48:54
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106300854061570
+post_timetable_id: 0
+post_aircraft_id: 77
+post_assigned_id: 0
+post_origin: LPPT
+post_destination: LMML
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B752
+post_flightnumber: 
+post_pax: 197
+post_cargo: 0
+post_engine_start_time: 2011-06-30 08:54:27
+post_takeoff_time: 2011-06-30 08:56:43
+post_landing_time: 2011-06-30 11:44:39
+post_engine_stop_time: 2011-06-30 11:47:25
+post_flight_minutes: 167
+post_blocktime_minutes: 172
+post_cruise_alt: 37000
+post_cruise_speed: 270
+post_fuel_burnt: 21785
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 12:59:13
+===============================================
+validation: 1
+post_username: 2681
+post_password: NOT LOGGED
+post_aggregate_id: 201106300948012681
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 0
+post_origin: EHAM
+post_destination: EGSH
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 18
+post_cargo: 0
+post_engine_start_time: 2011-06-30 11:53:08
+post_takeoff_time: 2011-06-30 12:04:07
+post_landing_time: 2011-06-30 12:54:45
+post_engine_stop_time: 2011-06-30 12:57:22
+post_flight_minutes: 50
+post_blocktime_minutes: 64
+post_cruise_alt: 20500
+post_cruise_speed: 220
+post_fuel_burnt: 418
+post_approach_type: 3
+post_network: 2
+post_gcd: 0
+post_comments: I had callsign of the timetable flight EHM092
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 14:32:25
+===============================================
+validation: 1
+post_username: 1442
+post_password: NOT LOGGED
+post_aggregate_id: 201106301326451442
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 2566
+post_origin: KSPG
+post_destination: F47
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Carenado BARON B58 RED CLASSIC
+post_flightnumber: 
+post_pax: 2
+post_cargo: 0
+post_engine_start_time: 2011-06-30 13:28:37
+post_takeoff_time: 2011-06-30 13:32:19
+post_landing_time: 2011-06-30 14:31:17
+post_engine_stop_time: 2011-06-30 14:31:36
+post_flight_minutes: 58
+post_blocktime_minutes: 62
+post_cruise_alt: 2500
+post_cruise_speed: 170
+post_fuel_burnt: 155
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 14:38:17
+===============================================
+validation: 1
+post_username: 2681
+post_password: NOT LOGGED
+post_aggregate_id: 201106301307552681
+post_timetable_id: 0
+post_aircraft_id: 2
+post_assigned_id: 0
+post_origin: EGSH
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: 
+post_flightnumber: 
+post_pax: 15
+post_cargo: 0
+post_engine_start_time: 2011-06-30 13:31:09
+post_takeoff_time: 2011-06-30 13:40:41
+post_landing_time: 2011-06-30 14:31:32
+post_engine_stop_time: 2011-06-30 14:31:50
+post_flight_minutes: 50
+post_blocktime_minutes: 60
+post_cruise_alt: 19500
+post_cruise_speed: 210
+post_fuel_burnt: 419
+post_approach_type: 3
+post_network: 2
+post_gcd: 0
+post_comments: Missed approach due to traffic on the rwy
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 15:08:41
+===============================================
+validation: 1
+post_username: 2583
+post_password: NOT LOGGED
+post_aggregate_id: 201106301153322583
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 992
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 7
+post_cargo: 0
+post_engine_start_time: 2011-06-30 11:54:29
+post_takeoff_time: 2011-06-30 12:03:01
+post_landing_time: 2011-06-30 15:02:52
+post_engine_stop_time: 2011-06-30 15:08:25
+post_flight_minutes: 163
+post_blocktime_minutes: 170
+post_cruise_alt: 18000
+post_cruise_speed: 320
+post_fuel_burnt: 8190
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 16:05:33
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106301514562679
+post_timetable_id: 0
+post_aircraft_id: 84
+post_assigned_id: 3519
+post_origin: EDDL
+post_destination: EHAM
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-SU80
+post_flightnumber: 
+post_pax: 21
+post_cargo: 0
+post_engine_start_time: 2011-06-30 15:16:26
+post_takeoff_time: 2011-06-30 15:21:19
+post_landing_time: 2011-06-30 15:54:14
+post_engine_stop_time: 2011-06-30 16:05:17
+post_flight_minutes: 32
+post_blocktime_minutes: 46
+post_cruise_alt: 8000
+post_cruise_speed: 210
+post_fuel_burnt: 515
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 16:20:10
+===============================================
+validation: 1
+post_username: 2589
+post_password: NOT LOGGED
+post_aggregate_id: 201106300554062589
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 813
+post_origin: EHAM
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: CRJ200-v4EHM-C850
+post_flightnumber: 
+post_pax: 11
+post_cargo: 0
+post_engine_start_time: 2011-06-30 06:04:03
+post_takeoff_time: 2011-06-30 06:10:47
+post_landing_time: 2011-06-30 16:17:26
+post_engine_stop_time: 2011-06-30 16:18:40
+post_flight_minutes: 477
+post_blocktime_minutes: 484
+post_cruise_alt: 34000
+post_cruise_speed: 170
+post_fuel_burnt: 11427
+post_approach_type: 3
+post_network: 1
+post_gcd: 0
+post_comments: A long flight again 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 16:34:13
+===============================================
+validation: 1
+post_username: 2131
+post_password: NOT LOGGED
+post_aggregate_id: 201106301532342131
+post_timetable_id: 0
+post_aircraft_id: 78
+post_assigned_id: 2789
+post_origin: KSPG
+post_destination: F47
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: Senecaehm
+post_flightnumber: 
+post_pax: 3
+post_cargo: 0
+post_engine_start_time: 2011-06-30 15:34:02
+post_takeoff_time: 2011-06-30 15:38:03
+post_landing_time: 2011-06-30 16:33:11
+post_engine_stop_time: 2011-06-30 16:33:57
+post_flight_minutes: 55
+post_blocktime_minutes: 59
+post_cruise_alt: 10000
+post_cruise_speed: 210
+post_fuel_burnt: 148
+post_approach_type: 4
+post_network: 1
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 16:39:08
+===============================================
+validation: 1
+post_username: 2383
+post_password: NOT LOGGED
+post_aggregate_id: 201106301406172383
+post_timetable_id: 0
+post_aircraft_id: 77
+post_assigned_id: 0
+post_origin: TNCM
+post_destination: KATL
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B752
+post_flightnumber: 
+post_pax: 195
+post_cargo: 0
+post_engine_start_time: 2011-06-30 14:11:31
+post_takeoff_time: 2011-06-30 14:15:12
+post_landing_time: 2011-06-30 16:32:52
+post_engine_stop_time: 2011-06-30 16:38:02
+post_flight_minutes: 137
+post_blocktime_minutes: 146
+post_cruise_alt: 36000
+post_cruise_speed: 260
+post_fuel_burnt: 23171
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 17:06:14
+===============================================
+validation: 1
+post_username: 1829
+post_password: NOT LOGGED
+post_aggregate_id: 201106301441381829
+post_timetable_id: 0
+post_aircraft_id: 91
+post_assigned_id: 1103
+post_origin: ESSA
+post_destination: EHAM
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-C850
+post_flightnumber: 
+post_pax: 10
+post_cargo: 0
+post_engine_start_time: 2011-06-30 14:44:01
+post_takeoff_time: 2011-06-30 14:49:15
+post_landing_time: 2011-06-30 16:48:33
+post_engine_stop_time: 2011-06-30 16:59:08
+post_flight_minutes: 119
+post_blocktime_minutes: 135
+post_cruise_alt: 30000
+post_cruise_speed: 260
+post_fuel_burnt: 4279
+post_approach_type: 3
+post_network: 2
+post_gcd: -2147483648
+post_comments: ATC EHAM app,twr.gnd
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 18:05:26
+===============================================
+validation: 1
+post_username: 2079
+post_password: NOT LOGGED
+post_aggregate_id: 201106301628172079
+post_timetable_id: 0
+post_aircraft_id: 25
+post_assigned_id: 3429
+post_origin: LEAM
+post_destination: LXGB
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: EuroHarmony Beech Baron 58
+post_flightnumber: 
+post_pax: 0
+post_cargo: 0
+post_engine_start_time: 2011-06-30 16:33:33
+post_takeoff_time: 2011-06-30 16:45:32
+post_landing_time: 2011-06-30 18:03:46
+post_engine_stop_time: 2011-06-30 18:04:47
+post_flight_minutes: 78
+post_blocktime_minutes: 89
+post_cruise_alt: 12000
+post_cruise_speed: 150
+post_fuel_burnt: 470
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 19:06:55
+===============================================
+validation: 1
+post_username: 1570
+post_password: NOT LOGGED
+post_aggregate_id: 201106301542271570
+post_timetable_id: 0
+post_aircraft_id: 77
+post_assigned_id: 0
+post_origin: LMML
+post_destination: LPPT
+post_propilot: 1
+post_propilot_score: 50
+post_aircraft_title: v4EHM-B752
+post_flightnumber: 
+post_pax: 199
+post_cargo: 0
+post_engine_start_time: 2011-06-30 15:42:50
+post_takeoff_time: 2011-06-30 15:45:09
+post_landing_time: 2011-06-30 19:00:32
+post_engine_stop_time: 2011-06-30 19:05:44
+post_flight_minutes: 195
+post_blocktime_minutes: 202
+post_cruise_alt: 36000
+post_cruise_speed: 270
+post_fuel_burnt: 4917
+post_approach_type: 3
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 19:16:04
+===============================================
+validation: 1
+post_username: 2679
+post_password: NOT LOGGED
+post_aggregate_id: 201106301812522679
+post_timetable_id: 0
+post_aircraft_id: 7
+post_assigned_id: 3521
+post_origin: EHAM
+post_destination: EDDF
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-S2000 - FS9 -
+post_flightnumber: 
+post_pax: 50
+post_cargo: 0
+post_engine_start_time: 2011-06-30 18:15:12
+post_takeoff_time: 2011-06-30 18:26:31
+post_landing_time: 2011-06-30 19:15:00
+post_engine_stop_time: 2011-06-30 19:15:47
+post_flight_minutes: 48
+post_blocktime_minutes: 60
+post_cruise_alt: 14000
+post_cruise_speed: 260
+post_fuel_burnt: 2388
+post_approach_type: 4
+post_network: 0
+post_gcd: 0
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
+===============================================
+timestamp: 2011-06-30 20:51:19
+===============================================
+validation: 1
+post_username: 1838
+post_password: NOT LOGGED
+post_aggregate_id: 201106301720281838
+post_timetable_id: 3226
+post_aircraft_id: 35
+post_assigned_id: 0
+post_origin: LGAV
+post_destination: HEGN
+post_propilot: 0
+post_propilot_score: 0
+post_aircraft_title: v4EHM-F100
+post_flightnumber: H500
+post_pax: 107
+post_cargo: 0
+post_engine_start_time: 2011-06-30 17:57:39
+post_takeoff_time: 2011-06-30 18:12:12
+post_landing_time: 2011-06-30 20:35:59
+post_engine_stop_time: 2011-06-30 20:48:24
+post_flight_minutes: 140
+post_blocktime_minutes: 167
+post_cruise_alt: 27000
+post_cruise_speed: 270
+post_fuel_burnt: 8940
+post_approach_type: 3
+post_network: 0
+post_gcd: 810
+post_comments: 
+post_fl_version: 4.1.4
+post_timegap_warning: 
+===============================================
+
