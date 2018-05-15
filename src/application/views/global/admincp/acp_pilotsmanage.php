@@ -118,7 +118,7 @@ foreach($result as $row){
 				echo '<td width="55" align="center"><b>Never</b></td>';
 			}
 			
-			echo'<td align="center" width="20"><a href="'.$base_url.'/profile/flightlog/'.$row->id.'/e">
+			echo'<td align="center" width="20"><a href="'.$base_url.'profile/flightlog/'.$row->id.'/e">
 			<img src="'.$image_url.'icons/application/application_view_detail.png" alt="View Flights" /></a></td>';
 			
 			echo'<td align="center" width="20"><a href="'.$base_url.'acp_pilots/edit/'.$row->id.'">

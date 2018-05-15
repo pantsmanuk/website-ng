@@ -1832,7 +1832,7 @@ class Dispatch extends CI_Controller {
 					$data['otherva_array'] = array('No' => 'No','I was' => 'I was','I am' => 'I am');
 					$data['aircraft_array'] = array();
 					$data['onlineoffline_array'] = array('0' => 'Offline', '1' => 'Online (Vatsim)', '2' => 'Online (IVAO)', '3' => 'Online (Other)');
-					$data['approach_array'] = array('Visual' => 'Visual', 'ILS' => 'ILS', 'NDB' => 'NDB', 'VOR' => 'VOR');
+					$data['approach_array'] = array('4' => 'Visual', '2' => 'ILS', '1' => 'NDB', '0' => 'VOR');
 					$data['alt_unit_array'] = array('m' => 'Metres', 'ft' => 'Feet');
 					$data['fuel_units_array'] = array('usgal' => 'US Gallons', 'impgal' => 'Imperial Gallons', 'lbs' => 'Pounds');
 					$data['speed_units_array'] = array('ias' => 'IAS', 'tas' => 'TAS', 'gs' => 'GS', 'mach' => 'Mach');
@@ -2743,6 +2743,8 @@ class Dispatch extends CI_Controller {
 							'passengers' => $num_pax,
 							'cargo' => $num_cargo,
 							'created' => $gmt_mysql_datetime,
+							'event_id' => 0,
+							'event_leg_id' => 0,
 						);
 						
 						
@@ -2901,6 +2903,8 @@ class Dispatch extends CI_Controller {
 							'cargo' => $num_cargo,
 							'dep_time' => $dep_time,
 							'created' => $gmt_mysql_datetime,
+							'event_id' => 0,
+							'event_leg_id' => 0,
 						);
 						
 						
@@ -3751,6 +3755,8 @@ class Dispatch extends CI_Controller {
 							'cargo' => $num_cargo,
 							'dep_time' => $row->dep_time,
 							'created' => $gmt_mysql_datetime,
+							'event_id' => 0,
+							'event_leg_id' => 0,
 						);
 						
 						

@@ -184,7 +184,7 @@ class Acp_pireps extends CI_Controller {
 				$landing_time = $landing_yy.'-'.$landing_mo.'-'.$landing_dd.' '.$landing_hh.':'.$landing_mm.':00';
 				
 				$pirep_data = array(
-						'onoffline' => 'onlineoffline',
+						'onoffline' => $onlineoffline,
 						'engine_start_time' => $engine_start_time,
 						'engine_stop_time' => $engine_stop_time,
 						'departure_time' => $departure_time,
@@ -298,7 +298,7 @@ class Acp_pireps extends CI_Controller {
 				$data['otherva_array'] = array('No' => 'No','I was' => 'I was','I am' => 'I am');
 				$data['aircraft_array'] = array();
 				$data['onlineoffline_array'] = array('0' => 'Offline', '1' => 'Online (Vatsim)', '2' => 'Online (IVAO)', '3' => 'Online (Other)');
-				$data['approach_array'] = array('Visual' => 'Visual', 'ILS' => 'ILS', 'NDB' => 'NDB', 'VOR' => 'VOR');
+				$data['approach_array'] = array('4' => 'Visual', '2' => 'ILS', '1' => 'NDB', '0' => 'VOR');
 				//$data['alt_unit_array'] = array('m' => 'Metres', 'ft' => 'Feet');
 				//$data['fuel_units_array'] = array('usgal' => 'US Gallons', 'impgal' => 'Imperial Gallons', 'lbs' => 'Pounds');
 				//$data['speed_units_array'] = array('ias' => 'IAS', 'tas' => 'TAS', 'gs' => 'GS', 'mach' => 'Mach');

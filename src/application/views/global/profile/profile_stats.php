@@ -1,9 +1,7 @@
 <?php
 $this->load->view('global/profile/profile_topbar');
 $limit = 5;
-?>
 
-<?
 /*
 foreach($timetable_flights as $key => $value){
 

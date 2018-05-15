@@ -24,7 +24,7 @@ echo form_open('dispatch/charter/', '', $hidden);
 
 <br />
 
-<?
+<?php
 echo form_submit('Submit', 'Select');
 echo form_close();
 ?>

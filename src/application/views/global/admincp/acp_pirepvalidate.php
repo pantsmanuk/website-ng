@@ -84,7 +84,7 @@ foreach($result as $row){
 			echo '<td>'.$row->gcd.'</td>';
 			
 			
-			echo'<td align="center"><a href="'.$base_url.'/profile/flightlog/'.$row->pilot_id.'/e">
+			echo'<td align="center"><a href="'.$base_url.'profile/flightlog/'.$row->pilot_id.'/e">
 			<img src="'.$image_url.'icons/application/application_view_detail.png" alt="View Flights" /></a></td>';
 			echo'<td align="center"><a href="'.$base_url.'acp_pireps/query/'.$row->id.'">
 			<img src="'.$image_url.'icons/application/database_error.png" alt="Query" /></a></td>';
