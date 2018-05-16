@@ -76,10 +76,9 @@ Temporary Items
 ### CodeIgniter template
 *.sql
 *.log
-/src/adm/
-/src/application/cache/
 !/src/application/cache/index.html
 !/src/application/cache/.htaccess
+/src/application/cache/
 /src/assets/images/avatars/*.png
 /src/assets/images/signatures/*.png
 /src/assets/uploads/tmp/
