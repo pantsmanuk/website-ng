@@ -1,0 +1,48 @@
+version: "3"
+
+services:
+  web:
+    image: tutum/nginx
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/sites-available/default:ro
+      - ./nginx/default.conf:/etc/nginx/sites-enabled/default:ro
+      - ./logs/:/var/logs/nginx/:rw
+      - ./src/assets/:/app/assets/:rw
+    depends_on:
+      - php
+      - db
+      - mail
+    links:
+      - php
+
+  php:
+    image: pantsmanuk/php-fpm
+    restart: always
+    ports:
+      - "9000:9000"
+    environment:
+      CI_ENV: development
+    volumes:
+      - ./src/:/app/:rw
+    links:
+      - db
+      - mail
+
+  db:
+    image: mariadb
+    restart: always
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+    volumes:
+      - ./db-data/:/docker-entrypoint-initdb.d/:ro
+
+  mail:
+    image: djfarrelly/maildev
+    ports:
+      - "8080:80"
+      - "1025:25"

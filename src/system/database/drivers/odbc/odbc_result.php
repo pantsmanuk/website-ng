@@ -5,8 +5,9 @@
  * An open source application development framework for PHP 5.1.6 or newer
  *
  * @package		CodeIgniter
- * @author		ExpressionEngine Dev Team
- * @copyright	Copyright (c) 2008 - 2011, EllisLab, Inc.
+ * @author		EllisLab Dev Team
+ * @copyright		Copyright (c) 2008 - 2014, EllisLab, Inc.
+ * @copyright		Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license		http://codeigniter.com/user_guide/license.html
  * @link		http://codeigniter.com
  * @since		Version 1.0
@@ -21,7 +22,7 @@
  * This class extends the parent result class: CI_DB_result
  *
  * @category	Database
- * @author		ExpressionEngine Dev Team
+ * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/database/
  */
 class CI_DB_odbc_result extends CI_DB_result {
@@ -188,7 +189,7 @@ class CI_DB_odbc_result extends CI_DB_result {
 	 */
 	function _odbc_fetch_object(& $odbc_result) {
 		$rs = array();
-		$rs_obj = false;
+		$rs_obj = FALSE;
 		if (odbc_fetch_into($odbc_result, $rs)) {
 			foreach ($rs as $k=>$v) {
 				$field_name= odbc_field_name($odbc_result, $k+1);
@@ -210,7 +211,7 @@ class CI_DB_odbc_result extends CI_DB_result {
 	 */
 	function _odbc_fetch_array(& $odbc_result) {
 		$rs = array();
-		$rs_assoc = false;
+		$rs_assoc = FALSE;
 		if (odbc_fetch_into($odbc_result, $rs)) {
 			$rs_assoc=array();
 			foreach ($rs as $k=>$v) {

@@ -74,14 +74,14 @@ Temporary Items
 .apdisk
 
 ### CodeIgniter template
-/docker/logs/*.log
-/docker/mysql/*.sql
-/src/application/logs/log-*.php
-!/src/application/logs/index.html
-/src/application/cache/*
+*.sql
+*.log
+/src/adm/
+/src/application/cache/
 !/src/application/cache/index.html
 !/src/application/cache/.htaccess
 /src/assets/images/avatars/*.png
 /src/assets/images/signatures/*.png
+/src/assets/uploads/tmp/
+/src/info.php
 scratch.*
-/src/sessions/

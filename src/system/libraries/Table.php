@@ -5,8 +5,9 @@
  * An open source application development framework for PHP 5.1.6 or newer
  *
  * @package		CodeIgniter
- * @author		ExpressionEngine Dev Team
- * @copyright	Copyright (c) 2008 - 2011, EllisLab, Inc.
+ * @author		EllisLab Dev Team
+ * @copyright		Copyright (c) 2008 - 2014, EllisLab, Inc.
+ * @copyright		Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license		http://codeigniter.com/user_guide/license.html
  * @link		http://codeigniter.com
  * @since		Version 1.3.1
@@ -23,7 +24,7 @@
  * @package		CodeIgniter
  * @subpackage	Libraries
  * @category	HTML Tables
- * @author		ExpressionEngine Dev Team
+ * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/uri.html
  */
 class CI_Table {
@@ -108,7 +109,7 @@ class CI_Table {
 		}
 
 		$new = array();
-		while(count($array) > 0)
+		while (count($array) > 0)
 		{
 			$temp = array_splice($array, 0, $col_limit);
 
@@ -280,7 +281,7 @@ class CI_Table {
 			$out .= $this->template['heading_row_start'];
 			$out .= $this->newline;
 
-			foreach($this->heading as $heading)
+			foreach ($this->heading as $heading)
 			{
 				$temp = $this->template['heading_cell_start'];
 
@@ -310,7 +311,7 @@ class CI_Table {
 			$out .= $this->newline;
 
 			$i = 1;
-			foreach($this->rows as $row)
+			foreach ($this->rows as $row)
 			{
 				if ( ! is_array($row))
 				{
@@ -323,7 +324,7 @@ class CI_Table {
 				$out .= $this->template['row_'.$name.'start'];
 				$out .= $this->newline;
 
-				foreach($row as $cell)
+				foreach ($row as $cell)
 				{
 					$temp = $this->template['cell_'.$name.'start'];
 
@@ -366,6 +367,9 @@ class CI_Table {
 		}
 
 		$out .= $this->template['table_close'];
+
+		// Clear table class properties before generating the table
+		$this->clear();
 
 		return $out;
 	}
