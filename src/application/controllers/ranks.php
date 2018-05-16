@@ -12,7 +12,7 @@ class Ranks extends CI_Controller {
 	function index($fleet_type = 'C')
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
 		

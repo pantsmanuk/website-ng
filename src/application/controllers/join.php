@@ -10,7 +10,7 @@ class Join extends CI_Controller {
 	
 	function emailconfirm($username = NULL, $email_confirm_code = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		if($username == NULL || $email_confirm_code == NULL){
 			//output the fail page
@@ -82,7 +82,7 @@ class Join extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//load addtional libraries
 	  	$this->load->helper(array('form', 'url'));
@@ -705,7 +705,7 @@ Good luck with your virtual career and welcome to the VA! ");
 	function duplicate()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		$data['page_title'] = 'Join Euroharmony';
 		$data['right_bar'] = '0';
@@ -715,7 +715,7 @@ Good luck with your virtual career and welcome to the VA! ");
 	function email()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		if($this->session->userdata('logged_in') == '1'){
 		

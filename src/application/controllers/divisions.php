@@ -10,7 +10,7 @@ class Divisions extends CI_Controller {
 	function index($selected_division_id = 1)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//grab all divisions to build menu array
 		$query = $this->db->query("	SELECT 	id, 

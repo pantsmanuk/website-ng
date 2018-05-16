@@ -10,7 +10,7 @@ class Profile extends CI_Controller {
 
 	function hub(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Pirep_model');
 		
@@ -162,7 +162,7 @@ class Profile extends CI_Controller {
 
 	function email(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('Pirep_fns');
@@ -348,7 +348,7 @@ $this->email->send();
 
 	function details(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Pirep_model');
 		
@@ -477,7 +477,7 @@ $this->email->send();
 	
 	function credentials(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Auth_model');
@@ -673,7 +673,7 @@ $this->email->send();
 	function awards($current_pilot_id = NULL){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 	
 		//logged in
@@ -785,7 +785,7 @@ $this->email->send();
 	function stats($current_pilot_id = NULL){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Format_fns');
 		
@@ -1023,7 +1023,7 @@ $this->email->send();
 	
 	function flightdata_print($pirep_id){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Geocalc_fns');
 		
@@ -1195,7 +1195,7 @@ $this->email->send();
 	{
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Profile_fns');
 		$this->load->library('pagination');
@@ -1349,7 +1349,7 @@ $this->email->send();
 	function index($current_pilot_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Profile_fns');
 		$this->load->library('Format_fns');

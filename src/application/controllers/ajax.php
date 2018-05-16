@@ -67,7 +67,7 @@ class Ajax extends CI_Controller {
 	{
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//config
 		$num_limit = 4;
@@ -380,7 +380,7 @@ class Ajax extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 	
 		//$this->view_fns->view('global/home', $data);

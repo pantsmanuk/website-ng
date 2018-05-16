@@ -10,7 +10,7 @@ class Fleet extends CI_Controller {
 	
 	function aircraft($selected_division = NULL, $selected_aircraft = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		$data['historical_set'] = 0;
 		$data['division_set'] = 0;
@@ -264,7 +264,7 @@ class Fleet extends CI_Controller {
 	function index($fleet_type = 'C', $flight_sim = 'A')
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//grab post
 		$post_flight_sim = $this->security->sanitize_filename($this->input->post('flight_sim'));

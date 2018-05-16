@@ -10,7 +10,7 @@ class Hubs extends CI_Controller {
 	function index($selected_hub_icao = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load addtional libraries
 		$this->load->model('Hub_model');
 		

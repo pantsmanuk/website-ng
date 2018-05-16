@@ -10,7 +10,7 @@ class Dispatch extends CI_Controller {
 	function submit($origin = NULL, $destination = NULL, $aircraft_id = NULL, $propilot_mode = 0){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
 		$this->load->model('Dispatch_model');
@@ -365,7 +365,7 @@ class Dispatch extends CI_Controller {
 	function propilot_lock($aircraft_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');
@@ -526,7 +526,7 @@ class Dispatch extends CI_Controller {
 	function propilot_aircraft($aircraft_restrict = NULL, $location_restrict = NULL, $status_restrict = NULL, $acstatus_restrict = NULL, $search_url = NULL, $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');
@@ -893,7 +893,7 @@ class Dispatch extends CI_Controller {
 	function deadhead()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Dispatch_model');
 		
@@ -1113,7 +1113,7 @@ class Dispatch extends CI_Controller {
 	function pirepquery($pirep_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		
@@ -1331,7 +1331,7 @@ class Dispatch extends CI_Controller {
 	
 	function tourcraft($assigned_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//$this->load->model('Pirep_model');
 		//$this->load->library('Pirep_fns');
 		
@@ -1493,7 +1493,7 @@ class Dispatch extends CI_Controller {
 	
 	function pirep($assigned_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->model('Pirep_model');
 		$this->load->library('Pirep_fns');
 		
@@ -1934,7 +1934,7 @@ class Dispatch extends CI_Controller {
 	
 	function pirepdelete($pirep_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//handle $pirep_id
 		if($pirep_id == NULL || !is_numeric($pirep_id)){
@@ -2069,7 +2069,7 @@ class Dispatch extends CI_Controller {
 
 	function unlock($propilot_aircraft_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//handle $assigned_id
 		if($propilot_aircraft_id == NULL || !is_numeric($propilot_aircraft_id)){
@@ -2189,7 +2189,7 @@ class Dispatch extends CI_Controller {
 	
 	function unassign($assigned_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//handle $assigned_id
 		if($assigned_id == NULL || !is_numeric($assigned_id)){
@@ -2298,7 +2298,7 @@ class Dispatch extends CI_Controller {
 	
 	function killroute($route_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//handle $assigned_id
 		if($route_id == NULL){
@@ -2407,7 +2407,7 @@ class Dispatch extends CI_Controller {
 	
 	function propilot(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 		//check logged in
@@ -2574,7 +2574,7 @@ class Dispatch extends CI_Controller {
 	
 	function charter(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->model('Dispatch_model');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
@@ -2783,7 +2783,7 @@ class Dispatch extends CI_Controller {
 	
 	function assign($success = 1){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
 		$this->load->model('Dispatch_model');
@@ -3113,7 +3113,7 @@ class Dispatch extends CI_Controller {
 	
 	function route(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
 		$this->load->model('Dispatch_model');
@@ -3458,7 +3458,7 @@ class Dispatch extends CI_Controller {
 	
 	function timetable_map($pp_mode = 0){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//check logged in
 		if($this->session->userdata('logged_in') == 1){
@@ -3496,7 +3496,7 @@ class Dispatch extends CI_Controller {
 	
 	function timetable($division = NULL, $hub_icao = NULL, $class = NULL, $origin = '-', $destination = '-', $offset = 0){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('pagination');
 		$this->load->library('Pirep_fns');
 		$this->load->library('Geocalc_fns');
@@ -3815,7 +3815,7 @@ class Dispatch extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 		//check logged in

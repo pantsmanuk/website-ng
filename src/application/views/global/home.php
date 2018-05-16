@@ -104,8 +104,8 @@ if($vidorimage == '1' || empty($featured_video)){
 
         //display the vid to image switcher
         echo '<div style="text-align: left; margin-left: 10px;">
-        <a href="https://www.fly-euroharmony.com/site/index.php/ehm/index/image/" class="greybutton">Images</a>
-        <a href="https://www.fly-euroharmony.com/site/index.php/ehm/index/video/" class="greybutton">Video</a>
+        <a href="'.$this->config->item('base_url').'index.php/ehm/index/image/" class="greybutton">Images</a>
+        <a href="'.$this->config->item('base_url').'index.php/ehm/index/video/" class="greybutton">Video</a>
         </div>';
 
     ?>
@@ -139,8 +139,8 @@ else{
 
     //display the vid to image switcher
     echo '<div style="text-align: left; margin-left: 10px;">
-    <a href="https://www.fly-euroharmony.com/site/index.php/ehm/index/image/" class="greybutton">Images</a>
-    <a href="https://www.fly-euroharmony.com/site/index.php/ehm/index/video/" class="greybutton">Video</a>
+    <a href="'.$this->config->item('base_url').'index.php/ehm/index/image/" class="greybutton">Images</a>
+    <a href="'.$this->config->item('base_url').'index.php/ehm/index/video/" class="greybutton">Video</a>
     </div>';
 
 ?>

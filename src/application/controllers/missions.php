@@ -12,7 +12,7 @@ class Missions extends CI_Controller {
 	function assign($mission_id){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
@@ -188,7 +188,7 @@ class Missions extends CI_Controller {
 	function index($selected_division_id = 2)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 		$today = gmdate('Y-m-d', time());

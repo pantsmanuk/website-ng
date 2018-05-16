@@ -10,7 +10,7 @@ class Flogger_pull extends CI_Controller {
 
 	function test($urlval = 'aircraft'){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 
 		$data['urlval'] = $data['base_url'].'flogger_pull/'.$urlval;
@@ -25,7 +25,7 @@ class Flogger_pull extends CI_Controller {
 
 	function auth(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 
@@ -218,7 +218,7 @@ class Flogger_pull extends CI_Controller {
 
 	function airport_alias(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 
 		//get post
@@ -418,7 +418,7 @@ class Flogger_pull extends CI_Controller {
 	function aircraft()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 
 		//this displays xml data of aircraft. Timestamp restricts to only those updated since that time
@@ -608,7 +608,7 @@ class Flogger_pull extends CI_Controller {
 	function version()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 
 		//this checks the client flogger version against the latest version
@@ -748,7 +748,7 @@ class Flogger_pull extends CI_Controller {
 	function flights($type = 'assigned')
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 
 		//this checks the client flogger version against the latest version

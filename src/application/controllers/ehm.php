@@ -2,25 +2,21 @@
 
 class Ehm extends CI_Controller {
 
-	function Ehm()
-	{
+	function __construct() {
 		parent::__construct();
 	}
 
-	function index($media_select = NULL)
-	{
+	function index($media_select = NULL) {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Format_fns');
 		$this->load->library('Rss');
 		//load helpers
 		$this->load->helper('bbcode');
 
-
-
 		//make database call to grab latest news
-		$query = $this->db->query("	SELECT 	id,
+		$query = $this->db->query("SELECT 	id,
 											news_title,
 											news_text,
 											news_start_date_time,
@@ -36,35 +32,34 @@ class Ehm extends CI_Controller {
 									AND (news_end_date_time >= now() OR news_end_date_time = '0000-00-00 00:00:00')
 
 									AND branch_type = '0'
-									ORDER by news_start_date_time desc
+									ORDER BY news_start_date_time DESC
 									LIMIT 4
+");
 
-										");
-
-		$data['news_items'] =  $query->result();
+		$data['news_items'] = $query->result();
 
 		//AND (news_end_date_time >= now() OR news_end_date_time = '0000-00-00 00:00:00')
 
 		//make database call to grab the recent members
-		$query = $this->db->query("	SELECT 	pilots.id as id,
-											pilots.username as username,
-											pilots.fname as fname,
-											pilots.sname as sname,
-											pilots.status as status,
-											pilots.lastflight as lastflight
+		$query = $this->db->query("	SELECT 	pilots.id AS id,
+											pilots.username AS username,
+											pilots.fname AS fname,
+											pilots.sname AS sname,
+											pilots.status AS status,
+											pilots.lastflight AS lastflight
 
 									FROM pilots
 
 									WHERE pilots.email_confirmed = '1'
 									AND (pilots.flighthours > 0 AND pilots.flightmins > 0)
 
-									ORDER BY signupdate desc
+									ORDER BY signupdate DESC
 
 										");
 
-		$data['home_members'] =  $query->result();
+		$data['home_members'] = $query->result();
 
-		$this_month = gmdate('Y-m-01',time());
+		$this_month = gmdate('Y-m-01', time());
 
 		//make database call to grab the recent flights
 		$query = $this->db->query("	SELECT 	pirep.id as id,
@@ -81,7 +76,7 @@ class Ehm extends CI_Controller {
 
 										");
 
-		$data['home_flights'] =  $query->result();
+		$data['home_flights'] = $query->result();
 
 		//make database call to grab active pilots sim versions
 		$query = $this->db->query("	SELECT 	pilots.id as id,
@@ -98,7 +93,7 @@ class Ehm extends CI_Controller {
 
 										");
 
-		$data['sim_stats'] =  $query->result();
+		$data['sim_stats'] = $query->result();
 
 		//if user is logged in -------------------------------
 		//make database call to grab any upcoming propilot events
@@ -122,30 +117,25 @@ class Ehm extends CI_Controller {
 												LIMIT 1
 											");
 
-				$result = $query->result_array();
-				$num_results = $query->num_rows();
+		$result = $query->result_array();
+		$num_results = $query->num_rows();
 
-				if($num_results > 0){
-					$data['pp_event_id'] = $result['0']['id'];
-					$data['pp_event_name'] = $result['0']['name'];
-					$data['pp_event_start_date'] = $result['0']['start_date'];
-				}
-				else{
-					$data['pp_event_id'] = '';
-					$data['pp_event_name'] = '';
-					$data['pp_event_start_date'] = '';
-				}
+		if ($num_results > 0) {
+			$data['pp_event_id'] = $result['0']['id'];
+			$data['pp_event_name'] = $result['0']['name'];
+			$data['pp_event_start_date'] = $result['0']['start_date'];
+		} else {
+			$data['pp_event_id'] = '';
+			$data['pp_event_name'] = '';
+			$data['pp_event_start_date'] = '';
+		}
 		//}
 
-
 		//add the ticker to the javascript loader
-		$data['js_loader'] .= 	"var url = '".$data['base_url']."ajax/pilotnews';\n
+		$data['js_loader'] .= "var url = '" . $data['base_url'] . "ajax/pilotnews';\n
 				getPilotNews(url);";
 
-
-
-
-				$query = $this->db->query("	SELECT
+		$query = $this->db->query("	SELECT
 											config_featured.type,
 											config_featured.uri,
 											config_featured.enabled,
@@ -160,84 +150,75 @@ class Ehm extends CI_Controller {
 											ORDER BY config_featured.order, RAND()
 										");
 
-				$result = $query->result();
-				$num_results = $query->num_rows();
+		$result = $query->result();
+		$num_results = $query->num_rows();
 
-				if($num_results < 1){
-					$data['featured_img_enabled'] = 0;
-					$data['featured_vid_enabled'] = 0;
-				}
-				else{
-					$num_vid = 0;
-					$num_img = 0;
-					foreach($result as $row){
-						if($row->type == 'video'){
-							$featured_video_array[$num_vid] = $row->uri;
-							$num_vid++;
-						}
-						elseif($row->type == 'image'){
-							$data['cycleimages'][$num_img] = $row->uri;
-							$num_img++;
-						}
-
-					}
+		if ($num_results < 1) {
+			$data['featured_img_enabled'] = 0;
+			$data['featured_vid_enabled'] = 0;
+		} else {
+			$num_vid = 0;
+			$num_img = 0;
+			foreach ($result as $row) {
+				if ($row->type == 'video') {
+					$featured_video_array[$num_vid] = $row->uri;
+					$num_vid++;
+				} elseif ($row->type == 'image') {
+					$data['cycleimages'][$num_img] = $row->uri;
+					$num_img++;
 				}
 
-			//pick random video from array
-			$max = count($featured_video_array) - 1;
-			if($max >= 0 && $num_vid != 0){
-				$video_index = rand ( 0 , $max );
-				$data['featured_video'] = $featured_video_array[$video_index];
 			}
-			else{
-				$data['featured_video'] = '';
-				$data['featured_vid_enabled'] = 0;
-			}
+		}
 
-			if($num_img == 0){
-				$data['featured_img_enabled'] = 0;
-			}
+		//pick random video from array
+		$max = count($featured_video_array) - 1;
+		if ($max >= 0 && $num_vid != 0) {
+			$video_index = rand(0, $max);
+			$data['featured_video'] = $featured_video_array[$video_index];
+		} else {
+			$data['featured_video'] = '';
+			$data['featured_vid_enabled'] = 0;
+		}
 
-
-
+		if ($num_img == 0) {
+			$data['featured_img_enabled'] = 0;
+		}
 
 		//Pull RSS Feed from forum posts
-/*
-		$this->rss->set_items_limit(10); // how many items to retrieve from each feed
-		$this->rss->set_cache_life(10); // cache life in minutes
-		$this->rss->set_cache_path($data['base_path']."assets/uploads/tmp/"); // by default library used CI default cache path, or path that you set in config.php
-		//$this->rss->set_debug(); // in debug mode library will output on screen useful data
+		/*
+				$this->rss->set_items_limit(10); // how many items to retrieve from each feed
+				$this->rss->set_cache_life(10); // cache life in minutes
+				$this->rss->set_cache_path($data['base_path']."assets/uploads/tmp/"); // by default library used CI default cache path, or path that you set in config.php
+				//$this->rss->set_debug(); // in debug mode library will output on screen useful data
 
-		// parameter can be array or string
-		$this->rss->set_url(array(	//'https://www.fly-euroharmony.com/forum/index.php?action=.xml;type=rss2;sa=recent;limit=5',
-									'https://www.fly-euroharmony.com/forum/index.php?action=.xml;type=rss2;sa=news;limit=10',
-		                     ));
-		// return array of objects containing rss data from all feeds
-		$data['news'] = $this->rss->parse();
-*/
-$data['news'] = array();
+				// parameter can be array or string
+				$this->rss->set_url(array(	//'https://www.fly-euroharmony.com/forum/index.php?action=.xml;type=rss2;sa=recent;limit=5',
+											'https://www.fly-euroharmony.com/forum/index.php?action=.xml;type=rss2;sa=news;limit=10',
+									 ));
+				// return array of objects containing rss data from all feeds
+				$data['news'] = $this->rss->parse();
+		*/
+		$data['news'] = array();
 
 		//select to show video or images - 0 video, 1 images
-		if($media_select == 'image'){
+		if ($media_select == 'image') {
 			$vidorimage = 1;
-		}
-		elseif($media_select == 'video'){
+		} elseif ($media_select == 'video') {
 			$vidorimage = 0;
-		}
-		else{
+		} else {
 			$vidorimage = rand(0, 1);
 		}
 
 		$data['vidorimage'] = $vidorimage;
 
-		if($vidorimage == '1'){
-		//define javascrip for image cycle
-		$data['page_js'] = '
-		<script  type="text/javascript" src="'.$data['assets_url'].'javascript/functions/jquery.cycle.all.min.js"></script>
-		<script  type="text/javascript" src="'.$data['assets_url'].'javascript/functions/cycle.js"></script>';
-		}
-		else{
-		$data['page_js'] = '';
+		if ($vidorimage == '1') {
+			//define javascrip for image cycle
+			$data['page_js'] = '
+		<script  type="text/javascript" src="' . $data['assets_url'] . 'javascript/functions/jquery.cycle.all.min.js"></script>
+		<script  type="text/javascript" src="' . $data['assets_url'] . 'javascript/functions/cycle.js"></script>';
+		} else {
+			$data['page_js'] = '';
 		}
 
 		//call the gmaps script

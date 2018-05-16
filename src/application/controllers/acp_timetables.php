@@ -13,7 +13,7 @@ class Acp_timetables extends CI_Controller {
 	function delete($timetable_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		
@@ -158,7 +158,7 @@ class Acp_timetables extends CI_Controller {
 	function edit($timetable_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('Admin_fns');
@@ -609,7 +609,7 @@ class Acp_timetables extends CI_Controller {
 	function manage($system_restrict = NULL, $division = NULL, $hub_restrict = NULL, $searchurl = NULL, $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');

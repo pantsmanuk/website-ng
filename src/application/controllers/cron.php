@@ -16,7 +16,7 @@ class Cron extends CI_Controller {
 	
 		//testing data
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Pirep_model');
 		
@@ -36,7 +36,7 @@ class Cron extends CI_Controller {
 
 	function recalculatehours($pilot_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Pirep_model');
 		
@@ -49,7 +49,7 @@ class Cron extends CI_Controller {
 	function index($method = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -70,7 +70,7 @@ class Cron extends CI_Controller {
 	function awards_index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -87,7 +87,7 @@ class Cron extends CI_Controller {
 	
 	function award_european_award(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -96,7 +96,7 @@ class Cron extends CI_Controller {
 	
 	function award_online_award(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -105,7 +105,7 @@ class Cron extends CI_Controller {
 	
 	function award_certified_pilot_award(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -115,7 +115,7 @@ class Cron extends CI_Controller {
 	
 	function award_mission_award(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -128,7 +128,7 @@ class Cron extends CI_Controller {
 	function pilot_status()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -145,7 +145,7 @@ class Cron extends CI_Controller {
 	function pilot_avatar($username = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -161,7 +161,7 @@ class Cron extends CI_Controller {
 	function pilot_signature($username = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -176,7 +176,7 @@ class Cron extends CI_Controller {
 	function pilot_deadhead($username = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -187,7 +187,7 @@ class Cron extends CI_Controller {
 	function pilot_awards($username = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		// Placeholder - Per default, check for awards for all pilots
 	}

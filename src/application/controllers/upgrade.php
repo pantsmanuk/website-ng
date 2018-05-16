@@ -10,7 +10,7 @@ class Upgrade extends CI_Controller {
 	
 	function test_cron(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Cron_model');
 		
@@ -19,7 +19,7 @@ class Upgrade extends CI_Controller {
 		
 	function testpirep(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('Pirep_fns');
@@ -668,7 +668,7 @@ class Upgrade extends CI_Controller {
 
 	function test_ppevent(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		$post_user_id = '1406';
 	
@@ -758,7 +758,7 @@ class Upgrade extends CI_Controller {
 
 	function test_uname(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 	
@@ -772,7 +772,7 @@ class Upgrade extends CI_Controller {
 
 	function pp_locations(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 	
 		//query to pull all aircraft and their location if exists
@@ -824,7 +824,7 @@ class Upgrade extends CI_Controller {
 
 	function test_tour_award(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Pirep_model');
 		
@@ -844,7 +844,7 @@ class Upgrade extends CI_Controller {
 
 	function migrate_missions(){
 	//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//query to get all missions without timetable data
 		$query = $this->db->query("	SELECT 	mission_index.id as id,
@@ -895,7 +895,7 @@ class Upgrade extends CI_Controller {
 
 	function set_pilot_ids_pirep(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//query to get outstanding records
 				$query = $this->db->query("	SELECT DISTINCT pirep.username as username,
@@ -940,7 +940,7 @@ class Upgrade extends CI_Controller {
 	
 	function set_pilot_ids_propilot_aircraft_crash(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 				//query to get outstanding records
 				$query = $this->db->query("	SELECT DISTINCT pilots.id as id,
@@ -983,7 +983,7 @@ class Upgrade extends CI_Controller {
 
 	function set_awards_id(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 				//query to get outstanding records
 				$query = $this->db->query("	SELECT 
@@ -1023,7 +1023,7 @@ class Upgrade extends CI_Controller {
 	
 	function set_awards_award_log(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 				//query to get outstanding records
 				$query = $this->db->query("	SELECT 
@@ -1072,7 +1072,7 @@ class Upgrade extends CI_Controller {
 	
 	function set_pilot_ids_awards_assigned(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 				//query to get outstanding records
 				$query = $this->db->query("	SELECT DISTINCT pilots.id as id,
@@ -1114,7 +1114,7 @@ class Upgrade extends CI_Controller {
 	function pilots_hash_password(){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('Auth_fns');
 
 			//grab pilots
@@ -1161,7 +1161,7 @@ class Upgrade extends CI_Controller {
 
 	function pilots_split_name(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 				//create an array for the country codes from location -> country
@@ -1304,7 +1304,7 @@ class Upgrade extends CI_Controller {
 	function set_timetable_days(){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//query to get all timetables
 		$query = $this->db->query("	SELECT 	timetable.id as id,
@@ -1401,7 +1401,7 @@ class Upgrade extends CI_Controller {
 	
 	function set_pirep_blocktimes(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//query to get all pireps
 		$query = $this->db->query("	SELECT 	pirep.id as id,
@@ -1458,7 +1458,7 @@ class Upgrade extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//perform checks, see if changes have been made
 		

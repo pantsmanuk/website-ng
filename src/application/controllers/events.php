@@ -11,7 +11,7 @@ class Events extends CI_Controller {
 	function details($event_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Dispatch_model');
 		$this->load->library('Geocalc_fns');
@@ -293,7 +293,7 @@ class Events extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 		//make database call to grab any upcoming propilot events

@@ -12,7 +12,7 @@ class Acp_tours extends CI_Controller {
 	function legs_edit($tour_id = NULL, $leg_id = NULL, $sequence = NULL, $flight_sim = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Pirep_model');
@@ -296,7 +296,7 @@ class Acp_tours extends CI_Controller {
 	function legs($tour_id = NULL, $selected_version = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Fleet_model');
@@ -535,7 +535,7 @@ class Acp_tours extends CI_Controller {
 	function aircraft($tour_id = NULL, $delete = 0, $tour_aircraft_id = NULL){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->model('Dispatch_model');
 		
@@ -724,7 +724,7 @@ class Acp_tours extends CI_Controller {
 	function edit($tour_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Fleet_model');
@@ -1067,7 +1067,7 @@ class Acp_tours extends CI_Controller {
 	function manage($system_restrict = NULL, $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');

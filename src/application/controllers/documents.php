@@ -16,7 +16,7 @@ class Documents extends CI_Controller {
 
 	//initialise
 	//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
   	//load addtional libraries
   	$this->load->helper('download');
 	$this->load->helper('security');
@@ -52,7 +52,7 @@ function save()
 		
 	//initialise
 	//grab global initialisation
-	include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+	include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
   	//load addtional libraries
   	$this->load->helper('download');
 	$this->load->helper('security');

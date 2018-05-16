@@ -9,7 +9,7 @@ class Information extends CI_Controller {
 	
 	function twitter(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 	
 			
 		$data['page_title'] = 'Information - Tweets';
@@ -18,7 +18,7 @@ class Information extends CI_Controller {
 	
 	function discounts(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 	
 			
 		$data['page_title'] = 'Information - Pilot Discounts';
@@ -28,7 +28,7 @@ class Information extends CI_Controller {
 	
 	function latest_flights(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load additional libraries
 		$this->load->library('Format_fns');
 		
@@ -256,7 +256,7 @@ class Information extends CI_Controller {
 	
 	function latest_flights_o(){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load additional libraries
 		$this->load->library('Format_fns');
 		
@@ -534,7 +534,7 @@ class Information extends CI_Controller {
 	function online(){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		/*
 		PHP codes to generate online VATSIM pilots names according to their callsign
@@ -666,7 +666,7 @@ class Information extends CI_Controller {
 	function index($page = 'history')
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
 		
@@ -698,7 +698,7 @@ class Information extends CI_Controller {
 	function propilot()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
 		
@@ -737,7 +737,7 @@ class Information extends CI_Controller {
 	function management()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
 		
@@ -780,7 +780,7 @@ class Information extends CI_Controller {
 	function pilots($all = 0, $sort = 'username', $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('pagination');
 		$this->load->library('format_fns');
 		

@@ -11,8 +11,31 @@
 |	http://example.com/
 |
 */
-$config['base_url'] = 'https://localhost/';
-$config['base_path'] = '/usr/share/nginx/html';
+$config['base_url'] = 'http://localhost/';
+
+/*
+|--------------------------------------------------------------------------
+| Base Path
+|--------------------------------------------------------------------------
+|
+| The host filesystem path that contains your CodeIgniter install.
+|
+|	/usr/share/CodeIgniter-2.2.6
+|
+*/
+$config['base_path'] = '/app';
+
+
+/*
+|--------------------------------------------------------------------------
+| Template
+|--------------------------------------------------------------------------
+|
+| The CodeIgniter site template.
+|
+|	ehm-2009
+|
+*/
 $config['template'] = 'ehm-2009';
 
 /*

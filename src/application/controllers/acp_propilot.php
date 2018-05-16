@@ -10,7 +10,7 @@ class Acp_propilot extends CI_Controller {
 
 	function event_awards_remark($event_id = NULL, $pilot_id = NULL, $award_id = NULL){
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Pirep_model');
@@ -146,7 +146,7 @@ class Acp_propilot extends CI_Controller {
 	function event_legs_edit($event_id = NULL, $leg_id = NULL, $sequence = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Pirep_model');
@@ -516,7 +516,7 @@ class Acp_propilot extends CI_Controller {
 	function event_legs($event_id = NULL, $selected_version = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Fleet_model');
@@ -695,7 +695,7 @@ class Acp_propilot extends CI_Controller {
 	function event_edit($event_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->model('Dispatch_model');
@@ -1077,7 +1077,7 @@ class Acp_propilot extends CI_Controller {
 	function event_manage($system_restrict = NULL, $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');
@@ -1250,7 +1250,7 @@ class Acp_propilot extends CI_Controller {
 	function aircraft_edit($pp_aircraft_id = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('Admin_fns');
@@ -1577,7 +1577,7 @@ class Acp_propilot extends CI_Controller {
 	function aircraft_manage($aircraft_restrict = NULL, $location_restrict = NULL, $status_restrict = NULL, $acstatus_restrict = NULL, $search_url = NULL, $offset = 0)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//load libraries and models
 		$this->load->library('Auth_fns');
 		$this->load->library('pagination');

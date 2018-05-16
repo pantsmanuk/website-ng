@@ -11,7 +11,7 @@ class Fx_dispatch extends CI_Controller {
 	function config(){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		//do this if not logged in
 		if ($this->session->userdata('logged_in') != TRUE){
@@ -157,7 +157,7 @@ class Fx_dispatch extends CI_Controller {
 	function submit($origin = NULL, $destination = NULL, $aircraft_id = NULL, $propilot_mode = 0){
 	
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');
 		$this->load->model('Dispatch_model');
@@ -497,7 +497,7 @@ class Fx_dispatch extends CI_Controller {
 	{
 		
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//$this->load->library('date_fns');
 		$this->load->model('Dispatch_model');
 		
@@ -782,7 +782,7 @@ class Fx_dispatch extends CI_Controller {
 	{
 		
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//$this->load->library('date_fns');
 		
 		$limit = $this->session->userdata('rank_id')+1;
@@ -901,4 +901,4 @@ class Fx_dispatch extends CI_Controller {
 }
 
 /* End of file welcome.php */
-/* Location: ./system/application/controllers/welcome.php */
+/* Location: ./application/controllers/welcome.php */

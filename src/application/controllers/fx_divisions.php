@@ -11,7 +11,7 @@ class Fx_divisions extends CI_Controller {
 	{
 		
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		//$this->load->library('date_fns');
 		
 		//do this if not logged in
@@ -100,4 +100,4 @@ class Fx_divisions extends CI_Controller {
 }
 
 /* End of file welcome.php */
-/* Location: ./system/application/controllers/welcome.php */
+/* Location: ./application/controllers/welcome.php */

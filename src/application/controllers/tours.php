@@ -10,7 +10,7 @@ class Tours extends CI_Controller {
 	function index()
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		
 		
 		//sql query to grab all the tours
@@ -50,7 +50,7 @@ class Tours extends CI_Controller {
 	function details($tour_id = NULL, $selected_version = NULL)
 	{
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'system/application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
 		$this->load->model('Dispatch_model');
 		$this->load->library('Geocalc_fns');
 		$this->load->library('Pirep_fns');

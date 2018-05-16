@@ -26,9 +26,9 @@ $data['time_mysql']		= gmdate("Y-m-d H:i:s", $data['time_unix']);
 $data['forum_url'] 		= 'https://www.fly-euroharmony.com/forum/';
 $data['base_url'] 		= $this->config->item('base_url'). $this->config->item('index_page').'/';
 $data['base_url_minimal'] 	= $this->config->item('base_url');
-$data['tmpl_global_url']	= $this->config->item('base_url').'system/application/views/global/';
+$data['tmpl_global_url']	= $this->config->item('base_url').'application/views/global/';
 $data['assets_url'] 		= $this->config->item('base_url'). 'assets/';
-$data['assets_path'] 		= $this->config->item('base_path'). 'assets/';
+$data['assets_path'] 		= $this->config->item('base_path'). '/assets/';
 $data['flash_url'] 		= $this->config->item('base_url'). 'assets/swf/';
 $data['base_path'] 		= $this->config->item('base_path');
 $data['template'] 		= $this->config->item('template');
@@ -40,7 +40,7 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && preg_match("/iphone|Android|Blackberry
 }
 */
 
-include_once($this->config->item('full_base_path').'system/application/views/templates/'.$data['template'].'/template_config.php');
+include_once($this->config->item('full_base_path').'application/views/templates/'.$data['template'].'/template_config.php');
 
 //reCAPTCHA
 $data['recaptcha_public'] 	= $this->config->item('recaptcha_public');
@@ -64,11 +64,11 @@ $data['flash_vars'] = '';
 $data['image_url'] = $this->config->item('base_url').'assets/images/';
 $data['tmpl_image_url'] = $this->config->item('base_url').'assets/images/templates/'.$data['template'].'/';
 $data['image_path'] = $data['base_path'].'assets/images/';
-$data['tmpl_global_path'] = $data['base_path'].'system/application/views/global/';
+$data['tmpl_global_path'] = $data['base_path'].'application/views/global/';
 $data['tmpl_main_width'] = $data['tmpl_cont_width'] - $data['tmpl_menu_width']-($data['tmpl_main_padding']*2);
 $data['full_base_url'] = $data['base_url'].$this->config->item('index_page');
 $data['full_base_path'] = $data['base_path'].'index.php';
-$data['view_base_path'] = $data['base_path'].'system/application/views/';
+$data['view_base_path'] = $data['base_path'].'application/views/';
 
 //time
 //these are inactive compares
@@ -93,26 +93,26 @@ $acp_timeout = (60*90);
 $data['js_loader'] = '';
 
 $featured_video_array = array(
-'http://www.youtube.com/v/uO5z_FmR5No',
-'http://www.youtube.com/v/NYOjrqbxydQ',
-'http://www.youtube.com/v/gHVgwpUyJBU',
-'http://www.youtube.com/v/qeh4mDmCPqw',
-'http://www.youtube.com/v/LIkE2o-ghjA',
-'http://www.youtube.com/v/tJ8uXhkchI0',
-'http://www.youtube.com/v/tPomU9_8WAo',
-'http://www.youtube.com/v/5rlkkPTuC4A',
-'http://www.youtube.com/v/sCfDl0tc_SE',
-'http://www.youtube.com/v/kmetbvY-Vg0',
-'http://www.youtube.com/v/JZ24olrnRGU',
-'http://www.youtube.com/v/g_aCS5Cjcvg',
-'http://www.youtube.com/v/xc6EGuq8F-E',
-'http://www.youtube.com/v/cQWwKiQHmV8',
-'http://www.youtube.com/v/zzAD0HTvcus',
-'http://www.youtube.com/v/Ggz4u647YD0',
-'http://www.youtube.com/v/S5JHPES1CyA',
-'http://www.youtube.com/v/Q0ZGdvox6No',
-'http://www.youtube.com/v/aoq0ChqtcSw',
-'http://www.youtube.com/v/Kzo7u3cnrBc',
+'https://www.youtube.com/watch?v=uO5z_FmR5No',
+'https://www.youtube.com/watch?v=NYOjrqbxydQ',
+'https://www.youtube.com/watch?v=gHVgwpUyJBU',
+'https://www.youtube.com/watch?v=qeh4mDmCPqw',
+'https://www.youtube.com/watch?v=LIkE2o-ghjA',
+'https://www.youtube.com/watch?v=tJ8uXhkchI0',
+'https://www.youtube.com/watch?v=tPomU9_8WAo',
+'https://www.youtube.com/watch?v=5rlkkPTuC4A',
+'https://www.youtube.com/watch?v=sCfDl0tc_SE',
+'https://www.youtube.com/watch?v=kmetbvY-Vg0',
+'https://www.youtube.com/watch?v=JZ24olrnRGU',
+'https://www.youtube.com/watch?v=g_aCS5Cjcvg',
+'https://www.youtube.com/watch?v=xc6EGuq8F-E',
+'https://www.youtube.com/watch?v=cQWwKiQHmV8',
+'https://www.youtube.com/watch?v=zzAD0HTvcus',
+'https://www.youtube.com/watch?v=Ggz4u647YD0',
+'https://www.youtube.com/watch?v=S5JHPES1CyA',
+'https://www.youtube.com/watch?v=Q0ZGdvox6No',
+'https://www.youtube.com/watch?v=aoq0ChqtcSw',
+'https://www.youtube.com/watch?v=Kzo7u3cnrBc',
 
 
 
@@ -121,7 +121,7 @@ $featured_video_array = array(
 //overwrite to feature the anniversary vid
 /*
 $featured_video_array = array(
-'http://www.youtube.com/v/Kzo7u3cnrBc',
+'https://www.youtube.com/watch?v=Kzo7u3cnrBc',
 );
 */
 
