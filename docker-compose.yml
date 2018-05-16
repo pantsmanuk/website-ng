@@ -1,56 +1,48 @@
-version: '3'
+version: "3"
 
 services:
-  nginx:
+  web:
     image: tutum/nginx
+    restart: always
     ports:
       - "80:80"
-    links:
-      - phpfpm
     volumes:
-      - ./docker/nginx/default:/etc/nginx/sites-available/default
-      - ./docker/nginx/default:/etc/nginx/sites-enabled/default
-      - ./docker/logs/:/var/log/nginx/
-      - ./src/assets:/usr/share/nginx/html/assets
+      - ./nginx/default.conf:/etc/nginx/sites-available/default:ro
+      - ./nginx/default.conf:/etc/nginx/sites-enabled/default:ro
+      - ./logs/:/var/logs/nginx/:rw
+      - ./src/assets/:/app/assets/:rw
+    depends_on:
+      - php
+      - db
+      - mail
+    links:
+      - php
 
-  phpfpm:
-    image: pantsmanuk/fpm
+  php:
+    image: pantsmanuk/php-fpm
+    restart: always
     ports:
       - "9000:9000"
-    links:
-      - mysql
-      - maildev
     environment:
-      INTRANET_USER: intranet
-      INTRANET_PASS: ge2UbrewafRe
       CI_ENV: development
     volumes:
-      - ./src:/usr/share/nginx/html
+      - ./src/:/app/:rw
+    links:
+      - db
+      - mail
 
-  maildev:
-    image: djfarrelly/maildev
-    ports:
-      - "8080:80"
-      - "1025:25"
-
-  mysql:
+  db:
     image: mariadb
+    restart: always
     ports:
       - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: admin
     volumes:
-      - ./docker/mysql:/docker-entrypoint-initdb.d
+      - ./db-data/:/docker-entrypoint-initdb.d/:ro
 
-  phpmyadmin:
-    image: phpmyadmin/phpmyadmin
-    restart: always
-    links:
-      - mysql
+  mail:
+    image: djfarrelly/maildev
     ports:
-      - "8183:80"
-    environment:
-      PMA_ARBITRARY: 1
-      PMA_HOST: 10.0.75.2
-      PMA_USER: root
-      PMA_PASSWORD: admin
+      - "8080:80"
+      - "1025:25"
