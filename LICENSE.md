@@ -1,4 +1,5 @@
-Copyright (c) 2017, Alexander Worton/EuroHarmony VA
+**Copyright (c) 2017, EuroHarmony VA**
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 

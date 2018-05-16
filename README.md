@@ -6,13 +6,22 @@ Development Environment
 -----------------------
 
 **NG Website**<br>
-localhost/_&lt;controller&gt;_
+http://localhost/_&lt;controller&gt;_
 
-**PHPMyAdmin**<br>
-localhost:8183
+**Adminer**<br>
+http://localhost/adm/adminer-4.6.2-mysql-en.php
 
 **MailDev**<br>
-localhost:1080
+http://localhost:1080
 
 **MySQL**<br>
 10.0.75.2 root admin
+
+TODO
+====
+
+* Upgrade CI to 2.2.6, thence:
+* Upgrade CI to current (3.1.18 at time of writing)
+* Ensure application works with PHP 7.2
+* Ensure application works with MySQL 5.7
+* Ensure application works with MySQL 8
