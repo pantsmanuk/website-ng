@@ -448,6 +448,9 @@ $config['cookie_httponly'] = FALSE;
 | This is particularly useful for portability between UNIX-based OSes,
 | (usually \n) and Windows (\r\n).
 |
+| WARNING: This feature is DEPRECATED and currently available only
+|          for backwards compatibility purposes!
+|
 */
 $config['standardize_newlines'] = FALSE;
 

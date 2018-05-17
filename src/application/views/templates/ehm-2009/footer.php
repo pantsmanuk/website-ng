@@ -13,11 +13,7 @@
             Euroharmony Virtual Airline Established 2001 <?php //echo $version; ?>
 			<?php
 			$current_year = date('Y');
-			if ($current_year > '2009') {
-				echo '<br />Website NG (v' . $version . ') Copyright &copy; 2009-' . $current_year . ', Euroharmony Development Team.';
-			} else {
-				echo '<br />Website NG (v' . $version . ') Copyright &copy; 2009, Euroharmony Development Team.';
-			}
+			echo '<br />Website NG v' . $version . ' powered by CodeIgniter v'.CI_VERSION.'<br/>Copyright &copy; 2009-' . $current_year . ', Euroharmony Development Team.';
 
 			?>
             <br/>
