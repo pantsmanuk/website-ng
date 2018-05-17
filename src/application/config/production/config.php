@@ -1,4 +1,4 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['index_page'] = 'index.php';
 | 'ORIG_PATH_INFO'	Uses the ORIG_PATH_INFO
 |
 */
-$config['uri_protocol']	= 'AUTO';
+$config['uri_protocol'] = 'AUTO';
 
 /*
 |--------------------------------------------------------------------------
@@ -81,7 +81,6 @@ $config['language'] = 'english';
 */
 $config['charset'] = 'UTF-8';
 
-
 /*
 |--------------------------------------------------------------------------
 | reCAPTCHA keys
@@ -99,7 +98,6 @@ $config['recaptcha_private'] = '6LdUcb4SAAAAAHFwF6DQfYBdeSQWHHC8K5by_RAn';
 //$config['recaptcha_public'] = '6LfYcb4SAAAAAFAXGohxPQPtAtfEoWiP2V7rAnML';
 //$config['recaptcha_private'] = '6LfYcb4SAAAAALWRBpUpnfi6HyYTuHdB_FfIRoQj ';
 
-
 /*
 |--------------------------------------------------------------------------
 | GoogleMaps API keys
@@ -112,7 +110,6 @@ $config['recaptcha_private'] = '6LdUcb4SAAAAAHFwF6DQfYBdeSQWHHC8K5by_RAn';
 //test site (academis.co.uk)
 $config['google_maps_api'] = 'ABQIAAAAsWU_qHxY5OMmESZVBmkpNRQG9sMXDAS7my0DCTg8MFQH8PgdxRTVEA-El50dqdYwQh1VAyxcjHIxcA';
 
-
 /*
 |--------------------------------------------------------------------------
 | Enable/Disable System Hooks
@@ -123,7 +120,6 @@ $config['google_maps_api'] = 'ABQIAAAAsWU_qHxY5OMmESZVBmkpNRQG9sMXDAS7my0DCTg8MF
 |
 */
 $config['enable_hooks'] = FALSE;
-
 
 /*
 |--------------------------------------------------------------------------
@@ -138,7 +134,6 @@ $config['enable_hooks'] = FALSE;
 |
 */
 $config['subclass_prefix'] = 'MY_';
-
 
 /*
 |--------------------------------------------------------------------------
@@ -158,7 +153,6 @@ $config['subclass_prefix'] = 'MY_';
 |
 */
 $config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
-
 
 /*
 |--------------------------------------------------------------------------
@@ -185,11 +179,11 @@ $config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
 | use segment based URLs.
 |
 */
-$config['allow_get_array']		= TRUE;
+$config['allow_get_array'] = TRUE;
 $config['enable_query_strings'] = FALSE;
-$config['controller_trigger'] 	= 'c';
-$config['function_trigger'] 	= 'm';
-$config['directory_trigger'] 	= 'd'; // experimental not currently in use
+$config['controller_trigger'] = 'c';
+$config['function_trigger'] = 'm';
+$config['directory_trigger'] = 'd'; // experimental not currently in use
 
 /*
 |--------------------------------------------------------------------------
@@ -275,15 +269,15 @@ $config['encryption_key'] = 'bndfjai0fuhvr4urfhuvhughr7t34rt70t82nyt68nhfdjiyr72
 | 'sess_time_to_update'		= how many seconds between CI refreshing Session Information
 |
 */
-$config['sess_cookie_name']		= 'ehm_session';
-$config['sess_expiration']		= 21600;
-$config['sess_expire_on_close']	= FALSE;
-$config['sess_encrypt_cookie']	= TRUE;
-$config['sess_use_database']	= TRUE;
-$config['sess_table_name']		= 'ehm_sessions';
-$config['sess_match_ip']		= TRUE;
-$config['sess_match_useragent']	= TRUE;
-$config['sess_time_to_update'] 	= 300;
+$config['sess_cookie_name'] = 'ehm_session';
+$config['sess_expiration'] = 21600;
+$config['sess_expire_on_close'] = FALSE;
+$config['sess_encrypt_cookie'] = TRUE;
+$config['sess_use_database'] = TRUE;
+$config['sess_table_name'] = 'ehm_sessions';
+$config['sess_match_ip'] = TRUE;
+$config['sess_match_useragent'] = TRUE;
+$config['sess_time_to_update'] = 300;
 
 /*
 |--------------------------------------------------------------------------
@@ -296,10 +290,10 @@ $config['sess_time_to_update'] 	= 300;
 | 'cookie_secure' =  Cookies will only be set if a secure HTTPS connection exists.
 |
 */
-$config['cookie_prefix']	= 'EHM_';
-$config['cookie_domain']	= '';
-$config['cookie_path']		= '/';
-$config['cookie_secure']	= FALSE;
+$config['cookie_prefix'] = 'EHM_';
+$config['cookie_domain'] = '';
+$config['cookie_path'] = '/';
+$config['cookie_secure'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -361,7 +355,6 @@ $config['compress_output'] = FALSE;
 */
 $config['time_reference'] = 'gmt';
 
-
 /*
 |--------------------------------------------------------------------------
 | Rewrite PHP Short Tags
@@ -373,7 +366,6 @@ $config['time_reference'] = 'gmt';
 |
 */
 $config['rewrite_short_tags'] = FALSE;
-
 
 /*
 |--------------------------------------------------------------------------

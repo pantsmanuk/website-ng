@@ -1,5 +1,5 @@
 <?php
-echo '<h1>EHM-'.$this->session->userdata('username').' '.$this->session->userdata('fname').' '.$this->session->userdata('sname').'</h1>';
+echo '<h1>EHM-' . $this->session->userdata('username') . ' ' . $this->session->userdata('fname') . ' ' . $this->session->userdata('sname') . '</h1>';
 
 echo '<br /><br />';
 
@@ -9,36 +9,32 @@ echo '<br /><br /><br />';
 
 echo '<center>';
 
-echo 'You are currently located at <b>'.$pp_location.' - '.$pp_location_name.'</b> in '.$pp_location_country.'<br />';
+echo 'You are currently located at <b>' . $pp_location . ' - ' . $pp_location_name . '</b> in ' . $pp_location_country . '<br />';
 
-if($curr_destination == ''){
-	
+if ($curr_destination == '') {
+
 	echo '<br /><br />You are not currently flagged for deadheading';
 
-}
-else{
+} else {
 
-	if($curr_direct == '1'){
+	if ($curr_direct == '1') {
 		$direct = 'directly';
-	}
-	else{
+	} else {
 		$direct = 'indirectly';
 	}
-	
-	if(array_key_exists($curr_destination, $airfield_array)){
-		echo '<br /><br />You are currently flagged for deadheading '.$direct.' to '.$airfield_array[$curr_destination];
+
+	if (array_key_exists($curr_destination, $airfield_array)) {
+		echo '<br /><br />You are currently flagged for deadheading ' . $direct . ' to ' . $airfield_array[$curr_destination];
+	} else {
+		echo '<br /><br />You are currently flagged for deadheading ' . $direct . ' to ' . $curr_destination;
 	}
-	else{
-		echo '<br /><br />You are currently flagged for deadheading '.$direct.' to '.$curr_destination;
-	}
 
+	echo '<br /><br />';
 
-echo '<br /><br />';
-
-$hidden = array('valid' => 'true', 'clear' => '1');
-echo form_open('dispatch/deadhead/','',$hidden);
-echo '<center>'.form_submit('submit', 'Clear Deadhead').'</center>';
-echo form_close();
+	$hidden = array('valid' => 'true', 'clear' => '1');
+	echo form_open('dispatch/deadhead/', '', $hidden);
+	echo '<center>' . form_submit('submit', 'Clear Deadhead') . '</center>';
+	echo form_close();
 }
 
 echo '</center>';
@@ -46,25 +42,24 @@ echo '</center>';
 echo '<br /><br />';
 
 $hidden = array('valid' => 'true');
-echo form_open('dispatch/deadhead/','',$hidden);
+echo form_open('dispatch/deadhead/', '', $hidden);
 
 echo '<fieldset style="border: 1px dotted rgb(40, 45, 78); padding: 0.6em; margin-top: 0.4em; margin-bottom: 0.4em;">';
-echo '<legend>Select Destination</legend>'; 
+echo '<legend>Select Destination</legend>';
 //output dropdown
-echo '<label for="destination">Pick Destination</label>'.form_dropdown('destination', $airfield_array, $destination).'<br />';
+echo '<label for="destination">Pick Destination</label>' . form_dropdown('destination', $airfield_array, $destination) . '<br />';
 
 echo '<center><b>or</b></center>';
 
-echo '<label for="destination_usr">Enter Destination</label>'.form_input($destination_usr).'<br />';
-echo '<label for="direct">Direct</label>'.form_dropdown('direct', $direct_array, $direct).' Direct will only deadhead on an aircraft flying direct to your destination<br />';
+echo '<label for="destination_usr">Enter Destination</label>' . form_input($destination_usr) . '<br />';
+echo '<label for="direct">Direct</label>' . form_dropdown('direct', $direct_array, $direct) . ' Direct will only deadhead on an aircraft flying direct to your destination<br />';
 echo '</fieldset>';
 echo '<br />';
-echo '<center>'.form_submit('submit', 'Set Deadhead').'</center>';
+echo '<center>' . form_submit('submit', 'Set Deadhead') . '</center>';
 echo form_close();
 
-
-if(!empty($error)){
-echo '<span style="color: red;"><br /><b>'.$error.'</b></span>';
+if (!empty($error)) {
+	echo '<span style="color: red;"><br /><b>' . $error . '</b></span>';
 }
 
 ?>

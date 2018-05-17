@@ -1,19 +1,17 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
- 
-class Hub_model extends CI_Model{
 
+class Hub_model extends CI_Model {
 
-	function get_hub_data($compare_date = NULL, $selected_hub_query = NULL){
-		
+	function get_hub_data($compare_date = NULL, $selected_hub_query = NULL) {
+
 		// --
-		if($compare_date == NULL || $selected_hub_query == NULL){
+		if ($compare_date == NULL || $selected_hub_query == NULL) {
 			$hub_array = array();
 			//echo 'compare_date: '.$compare_date;
 			//echo '<br />';
 			//echo 'selected_hub_query: '.$selected_hub_query;
-		}
-		else{
-			
+		} else {
+
 			//make database call to grab the selected hub data
 			$query = $this->db->query("	SELECT 	hub.id as id,
 												hub.hub_icao as hub_icao,
@@ -71,17 +69,17 @@ class Hub_model extends CI_Model{
 										
 												
 											");
-					
-			$hub_pilots =  $query->result();
-			
+
+			$hub_pilots = $query->result();
+
 			$hub_array = array();
-			
+
 			//organise the data so it can be outputted in tabular format
-			foreach($hub_pilots as $row){
-			
+			foreach ($hub_pilots as $row) {
+
 				$hub_icao = strtoupper($row->hub_icao);
-				
-				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['name'] = $row->fname.' '.$row->sname;
+
+				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['name'] = $row->fname . ' ' . $row->sname;
 				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['pilot_id'] = $row->pilot_id;
 				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['country'] = $row->country;
 				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['country_code'] = $row->country_code;
@@ -97,45 +95,36 @@ class Hub_model extends CI_Model{
 				$hub_array[$hub_icao]['pilots'][$row->pilot_id]['lastactive'] = $row->lastactive;
 				$hub_array[$hub_icao]['hub_name'] = $row->hub_name;
 				$hub_array[$hub_icao]['hub_icao'] = $row->hub_icao;
-				$hub_array[$hub_icao]['hub_captain'] = $row->hub_captain_fname.' '.$row->hub_captain_sname;
+				$hub_array[$hub_icao]['hub_captain'] = $row->hub_captain_fname . ' ' . $row->hub_captain_sname;
 				$hub_array[$hub_icao]['hub_opened'] = $row->hub_opened;
 				$hub_array[$hub_icao]['hub_description'] = $row->hub_description;
 				$hub_array[$hub_icao]['hub_country'] = $row->hub_country;
 				$hub_array[$hub_icao]['connection_centre'] = $row->connection_centre;
-				
-				
+
 			}
-		
-		
-			
-		
+
 		}
-			
+
 		return $hub_array;
 
-
-
-	//close get_hub_data
+		//close get_hub_data
 	}
-	
-	function get_hub_list($restrict = NULL){
-	
-		if($restrict == 'hub'){
+
+	function get_hub_list($restrict = NULL) {
+
+		if ($restrict == 'hub') {
 			//main hubs
 			$hub_restrict = "WHERE hub.connection_centre = '0'";
-		}
-		elseif($restrict == 'all'){
+		} elseif ($restrict == 'all') {
 			$hub_restrict = "";
-		}
-		elseif($restrict == 'cc'){
+		} elseif ($restrict == 'cc') {
 			//connection centres only
 			$hub_restrict = "WHERE hub.connection_centre = '1'";
-		}
-		else{
+		} else {
 			//default to returning main hubs only
 			$hub_restrict = "WHERE hub.connection_centre = '0'";
 		}
-	
+
 		//now grab all the hubs to build hub menu
 		$query = $this->db->query("	SELECT 	hub.id as id,
 											hub.hub_icao as hub_icao,
@@ -149,21 +138,21 @@ class Hub_model extends CI_Model{
 									ORDER BY hub.connection_centre, hub.hub_icao
 											
 										");
-				
-		$hub_list =  $query->result();
-		
-		foreach($hub_list as $row){
-		
+
+		$hub_list = $query->result();
+
+		foreach ($hub_list as $row) {
+
 			$data[$row->hub_icao] = $row->hub_name;
-		
+
 		}
-		
-	return $data;
-	
-	//close get_hub_list
+
+		return $data;
+
+		//close get_hub_list
 	}
-	
-		
+
 //close class
 }
+
 ?>
