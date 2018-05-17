@@ -1,11 +1,10 @@
-
-<br />
-<br />
+<br/>
+<br/>
 
 <div align="center">
 
-<h1>You are currently logged in.</h1>
+    <h1>You are currently logged in.</h1>
 
 </div>
-<br />
-<br />
+<br/>
+<br/>

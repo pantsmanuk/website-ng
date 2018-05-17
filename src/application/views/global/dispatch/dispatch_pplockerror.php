@@ -1,5 +1,5 @@
 <?php
-if($pperror == 'aclimit'){
+if ($pperror == 'aclimit') {
 	echo '
 <center>
 The aircraft you are attempting to lock for flying appears to be above the maximum class allowed by your existing rank.

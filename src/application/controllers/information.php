@@ -1,41 +1,38 @@
 <?php
- 
+
 class Information extends CI_Controller {
 
-	function Information()
-	{
+	function __construct() {
 		parent::__construct();
 	}
-	
-	function twitter(){
+
+	function twitter() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
-	
-			
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
+
 		$data['page_title'] = 'Information - Tweets';
 		$this->view_fns->view('global/information/inf_twitter', $data);
 	}
-	
-	function discounts(){
+
+	function discounts() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
-	
-			
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
+
 		$data['page_title'] = 'Information - Pilot Discounts';
 		$this->view_fns->view('global/information/inf_discounts', $data);
-	
+
 	}
-	
-	function latest_flights(){
+
+	function latest_flights() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//load additional libraries
 		$this->load->library('Format_fns');
-		
+
 		//grab all current flights
-		
+
 		$check_datetime = gmdate('Y-m-d H-i-s', strtotime('-5 minutes'));
-		
+
 		$query = $this->db->query("
 		
 			SELECT 	acars.origin as start_icao,
@@ -84,12 +81,12 @@ class Information extends CI_Controller {
 			LIMIT 10
 		
 		");
-		
+
 		$data['current_flights'] = $query->result();
 		$data['num_current_flights'] = $query->num_rows();
-		
+
 		$check_datetime = gmdate('Y-m-d H-i-s', strtotime('-24 hours'));
-		
+
 		//grab the last 10 pireps
 		$query = $this->db->query("
 		
@@ -123,19 +120,18 @@ class Information extends CI_Controller {
 			ORDER BY pirep.submitdate DESC
 		
 		");
-		
+
 		$data['recent_flights'] = $query->result();
 		$data['num_recent_flights'] = $query->num_rows();
-		
-		
+
 		$focus_lat = 51.477497;
 		$focus_lon = -0.461389;
-		
+
 		$current_pilot = $this->session->userdata('user_id');
-		
+
 		//grab hub location to focus on
-		if($this->session->userdata('logged_in') == '1'){
-		
+		if ($this->session->userdata('logged_in') == '1') {
+
 			$query = $this->db->query("
 		
 			SELECT 	pilots.username,
@@ -155,24 +151,25 @@ class Information extends CI_Controller {
 			WHERE pilots.id = '$current_pilot'
 		
 		");
-		
-		$loc_result = $query->result_array();
-		
-		if($query->num_rows() == 1){
-			if($loc_result['0']['lat'] != ''){ $focus_lat = $loc_result['0']['lat']; }
-			if($loc_result['0']['lon'] != ''){ $focus_lon = $loc_result['0']['lon']; }
+
+			$loc_result = $query->result_array();
+
+			if ($query->num_rows() == 1) {
+				if ($loc_result['0']['lat'] != '') {
+					$focus_lat = $loc_result['0']['lat'];
+				}
+				if ($loc_result['0']['lon'] != '') {
+					$focus_lon = $loc_result['0']['lon'];
+				}
+			}
+
 		}
-		
-		
-		}
-		
-		
+
 		//define javascrip for google maps API
 		$data['page_js'] = '
-		<script  type="text/javascript" src="'.$data['assets_url'].'javascript/functions/kinetic.min.js"></script>
-		<script  type="text/javascript" src="'.$data['assets_url'].'javascript/resources/worldMap.js"></script>';
-		
-		
+		<script  type="text/javascript" src="' . $data['assets_url'] . 'javascript/functions/kinetic.min.js"></script>
+		<script  type="text/javascript" src="' . $data['assets_url'] . 'javascript/resources/worldMap.js"></script>';
+
 		$data['page_js'] .= "<script>
       function map_initialise(){
         var stage = new Kinetic.Stage({
@@ -226,7 +223,7 @@ class Information extends CI_Controller {
 
     </script>
 		";
-		
+
 		/*
 		$data['page_js'] .= 'var aircraft = [';
 		$i = 0;
@@ -243,27 +240,25 @@ class Information extends CI_Controller {
 		$data['page_js'] .= '
 		];</script>';
 			*/
-		
+
 		//call the gmaps script
-		$data['js_loader'] .= 	"map_initialise();";
-			
+		$data['js_loader'] .= "map_initialise();";
+
 		$data['page_title'] = 'Information - Latest Flights';
 		$this->view_fns->view('global/information/inf_latestflights', $data);
-	
+
 	}
-	
-	
-	
-	function latest_flights_o(){
+
+	function latest_flights_o() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//load additional libraries
 		$this->load->library('Format_fns');
-		
+
 		//grab all current flights
-		
+
 		$check_datetime = gmdate('Y-m-d H-i-s', strtotime('-5 minutes'));
-		
+
 		$query = $this->db->query("
 		
 			SELECT 	acars.origin as start_icao,
@@ -312,12 +307,12 @@ class Information extends CI_Controller {
 			LIMIT 10
 		
 		");
-		
+
 		$data['current_flights'] = $query->result();
 		$data['num_current_flights'] = $query->num_rows();
-		
+
 		$check_datetime = gmdate('Y-m-d H-i-s', strtotime('-24 hours'));
-		
+
 		//grab the last 10 pireps
 		$query = $this->db->query("
 		
@@ -351,19 +346,18 @@ class Information extends CI_Controller {
 			ORDER BY pirep.submitdate DESC
 		
 		");
-		
+
 		$data['recent_flights'] = $query->result();
 		$data['num_recent_flights'] = $query->num_rows();
-		
-		
+
 		$focus_lat = 51.477497;
 		$focus_lon = -0.461389;
-		
+
 		$current_pilot = $this->session->userdata('user_id');
-		
+
 		//grab hub location to focus on
-		if($this->session->userdata('logged_in') == '1'){
-		
+		if ($this->session->userdata('logged_in') == '1') {
+
 			$query = $this->db->query("
 		
 			SELECT 	pilots.username,
@@ -383,45 +377,45 @@ class Information extends CI_Controller {
 			WHERE pilots.id = '$current_pilot'
 		
 		");
-		
-		$loc_result = $query->result_array();
-		
-		if($query->num_rows() == 1){
-			if($loc_result['0']['lat'] != ''){ $focus_lat = $loc_result['0']['lat']; }
-			if($loc_result['0']['lon'] != ''){ $focus_lon = $loc_result['0']['lon']; }
+
+			$loc_result = $query->result_array();
+
+			if ($query->num_rows() == 1) {
+				if ($loc_result['0']['lat'] != '') {
+					$focus_lat = $loc_result['0']['lat'];
+				}
+				if ($loc_result['0']['lon'] != '') {
+					$focus_lon = $loc_result['0']['lon'];
+				}
+			}
+
 		}
-		
-		
-		}
-		
-		
+
 		//define javascrip for google maps API
 		$data['page_js'] = '<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 		<script type="text/javascript">
 		';
-		
-		
+
 		$data['page_js'] .= 'var aircraft = [';
 		$i = 0;
-		foreach($data['current_flights'] as $row){
-			
-			if($i > 0){
-			$data['page_js'] .= ',';
+		foreach ($data['current_flights'] as $row) {
+
+			if ($i > 0) {
+				$data['page_js'] .= ',';
 			}
 			$data['page_js'] .= '
 		';
-			$data['page_js'] .= '[\'EHM-'.$row->username.' '.$row->fname.' '.$row->sname.'\', '.$row->lat.', '.$row->lon.', '.$row->dep_lat.', '.$row->dep_lon.', '.$row->arr_lat.', '.$row->arr_lon.']';
-		$i++;
+			$data['page_js'] .= '[\'EHM-' . $row->username . ' ' . $row->fname . ' ' . $row->sname . '\', ' . $row->lat . ', ' . $row->lon . ', ' . $row->dep_lat . ', ' . $row->dep_lon . ', ' . $row->arr_lat . ', ' . $row->arr_lon . ']';
+			$i++;
 		}
 		$data['page_js'] .= '
 		];';
-			
-		
+
 		$data['page_js'] .= '
 		
 		
 			function gmaps_initialize() {
-				var latlng = new google.maps.LatLng('.$focus_lat.', '.$focus_lon.');
+				var latlng = new google.maps.LatLng(' . $focus_lat . ', ' . $focus_lon . ');
 				var myOptions = {
 					zoom: 3,
 					center: latlng,
@@ -448,7 +442,7 @@ class Information extends CI_Controller {
 			function setMarkers(map, locations) {
 			// Add markers to the map
 
-				var image = new google.maps.MarkerImage(\''.$data['assets_url'].'images/icons/application/gmap_aircraft.png\',
+				var image = new google.maps.MarkerImage(\'' . $data['assets_url'] . 'images/icons/application/gmap_aircraft.png\',
 					new google.maps.Size(24,24),
 					new google.maps.Point(0,0),
 					new google.maps.Point(12,12));
@@ -520,22 +514,20 @@ class Information extends CI_Controller {
 			
 		</script>		
 		';
-		
+
 		//call the gmaps script
-		$data['js_loader'] .= 	"gmaps_initialize();";
-			
-			
+		$data['js_loader'] .= "gmaps_initialize();";
+
 		$data['page_title'] = 'Information - Latest Flights';
 		$this->view_fns->view('global/information/inf_latestflights', $data);
-	
+
 	}
-	
-	
-	function online(){
-	
+
+	function online() {
+
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
-		
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
+
 		/*
 		PHP codes to generate online VATSIM pilots names according to their callsign
 		PHP codes by Naresh Gurung 931375 and Lee Collier 892337
@@ -562,146 +554,132 @@ class Information extends CI_Controller {
 		
 		Any questions, just email me baba@gurungtons.com
 		*/
-		
+
 		$VAName = "EHM";                        //* Enter your three letter VA name
 		$downloadstatustime = 86400;               //* Enter in seconds (for status.txt file)
 		$downloadsatnetdatatime = 300;            //* Enter in seconds (for satnet-data.txt file) 5mins
-		
+
 		$statusURL = "http://usa-s1.vatsim.net/data/status.txt";      //*change the URL incase it changes in the future
-		$statusfilename = $tmp_upload_path."status.txt";
-		$satnetfilename = $tmp_upload_path."satnet-data.txt";
-		
+		$statusfilename = $data['tmp_upload_path'] . "status.txt";
+		$satnetfilename = $data['tmp_upload_path'] . "satnet-data.txt";
+
 		$data['vatsim_out'] = '';
-		
+
 		//$data['vatsim_out'] .= "<div align='center'>";
-		
+
 		$smoditime = filemtime($statusfilename);
 		$scurrenttime = time();
 		$sdiftime = $scurrenttime - $smoditime;
-		
-		if($sdiftime > $downloadstatustime)
-		   {
-			  if (!copy($statusURL, $statusfilename))
-				 {
-					$data['vatsim_out'] .= "Data Caching Failed... Try A Different Server";
-				 }
-		   }
-		
-		srand((double)microtime()*1000000);            
-		
-		$lines = file($statusfilename);
-		$datalinks=array();
-		$i=0;
-		$l_count = count($lines);
-		for($x = 0; $x< $l_count; $x++)
-		   {
-			   if(substr($lines[$x], 0, 4)=='url0')
-				 {
-					$datalinks[]=substr($lines[$x],5,strlen($lines[$x])-6);
-					$i=$i+1;
-				  }
+
+		if ($sdiftime > $downloadstatustime) {
+			if (!copy($statusURL, $statusfilename)) {
+				$data['vatsim_out'] .= "Data Caching Failed... Try A Different Server";
 			}
-					
+		}
+
+		srand((double)microtime() * 1000000);
+
+		$lines = file($statusfilename);
+		$datalinks = array();
+		$i = 0;
+		$l_count = count($lines);
+		for ($x = 0; $x < $l_count; $x++) {
+			if (substr($lines[$x], 0, 4) == 'url0') {
+				$datalinks[] = substr($lines[$x], 5, strlen($lines[$x]) - 6);
+				$i = $i + 1;
+			}
+		}
+
 		$moditime = filemtime($satnetfilename);
 		$currenttime = time();
 		$diftime = $currenttime - $moditime;
-		
-		$randomdata=$datalinks[rand(0,2)];
-		
-		if($diftime > $downloadsatnetdatatime)
-		   {
-			  if (!copy(rtrim($randomdata), $satnetfilename))
-				 {
-					$data['vatsim_out'] .= "Data Caching Failed... Try A Different Server";
-				 }
-		   }
-		
+
+		$randomdata = $datalinks[rand(0, 2)];
+
+		if ($diftime > $downloadsatnetdatatime) {
+			if (!copy(rtrim($randomdata), $satnetfilename)) {
+				$data['vatsim_out'] .= "Data Caching Failed... Try A Different Server";
+			}
+		}
+
 		$num = 0;
 		$fp = fopen($satnetfilename, "r");
 		$data['vatsim_out'] .= '<table width="200" class="borderbox">';
 		$i = 0;
-		while (!feof($fp))
-		   {
-		   
-		   		if($i%2 == 0){
-					$bgcolor = ' bgcolor="#e4e2fc" ';
-				}
-				else{
-					$bgcolor = '';
-				}
-		   		$i++;
-				
-			   $line = fgets($fp, 999);
-			  if(preg_match('/^('.$VAName.')[A-Z0-9]/', $line))
-				   {
-					list($callsign, $cid, $name, $clienttype, $frequency, $a, $b, $c, $d, $aircraft, $ias, $origin, $fl, $destination) = preg_split("/:/", $line);
-					$data['vatsim_out'] .= "<tr $bgcolor>";
-					$data['vatsim_out'] .= '<td height="29" align="left">';
-					$data['vatsim_out'] .= '<b>'.$callsign.' '.substr($name,0,strlen($name)-4).'</b><br />'.$origin.'-'.$destination.'<div style="float: right;">'.$fl.'</div>';
-					$data['vatsim_out'] .= "</td>";
-					$data['vatsim_out'] .= "</tr>";
-					   $num = $num+1;
-					}
-			 }
-		
-		if($num==0)
-		   {
-			  $data['vatsim_out'] .= "<tr>";
-			  $data['vatsim_out'] .= "<td align='center'>";
-			  $data['vatsim_out'] .= "Found no online flights";
-			  $data['vatsim_out'] .= "</td>";
-			   $data['vatsim_out'] .= "</tr>";
-		   }
+		while (!feof($fp)) {
+
+			if ($i % 2 == 0) {
+				$bgcolor = ' bgcolor="#e4e2fc" ';
+			} else {
+				$bgcolor = '';
+			}
+			$i++;
+
+			$line = fgets($fp, 999);
+			if (preg_match('/^(' . $VAName . ')[A-Z0-9]/', $line)) {
+				list($callsign, $cid, $name, $clienttype, $frequency, $a, $b, $c, $d, $aircraft, $ias, $origin, $fl, $destination) = preg_split("/:/", $line);
+				$data['vatsim_out'] .= "<tr $bgcolor>";
+				$data['vatsim_out'] .= '<td height="29" align="left">';
+				$data['vatsim_out'] .= '<b>' . $callsign . ' ' . substr($name, 0, strlen($name) - 4) . '</b><br />' . $origin . '-' . $destination . '<div style="float: right;">' . $fl . '</div>';
+				$data['vatsim_out'] .= "</td>";
+				$data['vatsim_out'] .= "</tr>";
+				$num = $num + 1;
+			}
+		}
+
+		if ($num == 0) {
+			$data['vatsim_out'] .= "<tr>";
+			$data['vatsim_out'] .= "<td align='center'>";
+			$data['vatsim_out'] .= "Found no online flights";
+			$data['vatsim_out'] .= "</td>";
+			$data['vatsim_out'] .= "</tr>";
+		}
 		$data['vatsim_out'] .= "</table>";
 		//$data['vatsim_out'] .= "</div>";
-	
-	
+
 		$data['page_title'] = 'Information - Online Pilots';
 		$this->view_fns->view('global/information/inf_online', $data);
-	
+
 	}
-	
-	
-	
-	function index($page = 'history')
-	{
+
+	function index($page = 'history') {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
-		
-		
+
 		//define page array to restrict page diplay for security
-		
+
 		$page_array = array(
-				'history',
-				'faq',
-				'new',
-				'whyehm',
+			'history',
+			'faq',
+			'new',
+			'whyehm',
 		);
-		
-		if(!in_array($page, $page_array)){
+
+		if (!in_array($page, $page_array)) {
 			$page = 'history';
 		}
-		
+
 		$page_title = ucfirst($page);
-		
-		if($page_title == 'Whyehm'){ $page_title = 'Why join Euroharmony?'; }
-		if($page_title == 'New'){ $page_title = 'New to Virtual Airlines'; }
-		
-		$data['page_title'] = 'Information - '.$page_title;
-		$this->view_fns->view('global/information/inf_'.$page, $data);
+
+		if ($page_title == 'Whyehm') {
+			$page_title = 'Why join Euroharmony?';
+		}
+		if ($page_title == 'New') {
+			$page_title = 'New to Virtual Airlines';
+		}
+
+		$data['page_title'] = 'Information - ' . $page_title;
+		$this->view_fns->view('global/information/inf_' . $page, $data);
 	}
-	
-	
-	
-	function propilot()
-	{
+
+	function propilot() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
-		
+
 		/*
 		//grab the managers form the database
 		$query = $this->db->query("	SELECT 	pilots.id as id, 
@@ -726,32 +704,29 @@ class Information extends CI_Controller {
 		$data['management_results'] =  $query->result();
 		
 		*/
-		
+
 		$data['page_title'] = 'Propilot';
 		$data['no_links'] = '1';
 		$this->view_fns->view('global/information/infm_propilot', $data);
 	}
-	
-	
-	
-	function management()
-	{
+
+	function management() {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		//caching
 		//$this->output->cache($cache_duration_normal);
-		
+
 		//grab the managers form the database
-		$query = $this->db->query("	SELECT 	pilots.id as id, 
-											pilots.username as username,
-											pilots.signupdate as signupdate,
-											pilots.fname as fname,
-											pilots.sname as sname,
-											pilots.title as title,
-											pilots.rank as rank_id,
-											management_departments.name as department,
-											pilots.country as country_code,
-											pilots.management_pips as pips
+		$query = $this->db->query("	SELECT 	pilots.id AS id, 
+											pilots.username AS username,
+											pilots.signupdate AS signupdate,
+											pilots.fname AS fname,
+											pilots.sname AS sname,
+											pilots.title AS title,
+											pilots.rank AS rank_id,
+											management_departments.name AS department,
+											pilots.country AS country_code,
+											pilots.management_pips AS pips
 											
 											
 									FROM pilots
@@ -767,68 +742,56 @@ class Information extends CI_Controller {
 									ORDER BY management_departments.order, pilots.management_pips DESC, pilots.signupdate, pilots.username
 											
 										");
-				
-		$data['management_results'] =  $query->result();
-		
-		
-		
+
+		$data['management_results'] = $query->result();
+
 		$data['page_title'] = 'Management team';
 		$this->view_fns->view('global/information/infm_management', $data);
 	}
-	
-	
-	function pilots($all = 0, $sort = 'username', $offset = 0)
-	{
+
+	function pilots($all = 0, $sort = 'username', $offset = 0) {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
 		$this->load->library('pagination');
 		$this->load->library('format_fns');
-		
-		
-		
-		if($all == 1){
+
+		if ($all == 1) {
 			$where = "";
-		}
-		elseif($all == "aerosoft"){
+		} elseif ($all == "aerosoft") {
 			$where = "WHERE pilots.lastflight > '$active_compare_date' 
 						AND pilots.rank >= 3";
-						//>= 4 equals commercial captain or higher (40 hours+)
-		}
-		else{
+			//>= 4 equals commercial captain or higher (40 hours+)
+		} else {
 			$where = "WHERE pilots.lastflight > '$active_compare_date'";
 		}
-		
+
 		$data['sort'] = $sort;
 		$data['all'] = $all;
-		
-		switch($sort){
-		
-		
+
+		switch ($sort) {
+
 			case 'rank':
 				$order = 'ORDER BY ranks.id, pilots.username';
-			break;
-			
+				break;
+
 			case 'fname':
 				$order = 'ORDER BY pilots.fname, pilots.sname';
-			break;
-			
+				break;
+
 			case 'sname':
 				$order = 'ORDER BY pilots.sname, pilots.fname';
-			break;
-			
+				break;
+
 			case 'hours':
 				$order = 'ORDER BY pilots.flighthours, pilots.flightmins';
-			break;
-		
+				break;
+
 			default:
-				$order = 'ORDER BY pilots.username';		
-			break;
-			
-			
-		
+				$order = 'ORDER BY pilots.username';
+				break;
+
 		}
-		
-		
+
 		//grab the managers form the database
 		$query = $this->db->query("	SELECT 	pilots.id as id, 
 											pilots.username as username,
@@ -854,41 +817,34 @@ class Information extends CI_Controller {
 									$order
 											
 										");
-				
-		$data['pilot_data'] =  $query->result();
-		$data['num_pilots'] =  $query->num_rows();
-		
-		
+
+		$data['pilot_data'] = $query->result();
+		$data['num_pilots'] = $query->num_rows();
+
 		$data['pilots_menu_array'] = array(
-					'0' => 'Active Pilots',
-					'1' => 'All Pilots'
+			'0' => 'Active Pilots',
+			'1' => 'All Pilots',
 		);
-		
-		
-		
-		
-		
+
 		//pagination
-		if($offset == NULL || $offset == ''){
+		if ($offset == NULL || $offset == '') {
 			$offset = 0;
 		}
-			
-			
+
 		$data['offset'] = $offset;
 		$data['limit'] = '15';
-		
-		$pag_config['base_url'] = $data['base_url'].'information/pilots/'.$all.'/'.$sort.'/';
+
+		$pag_config['base_url'] = $data['base_url'] . 'information/pilots/' . $all . '/' . $sort . '/';
 		$pag_config['total_rows'] = $data['num_pilots'];
 		$pag_config['per_page'] = $data['limit'];
 		$pag_config['uri_segment'] = 5;
-		
-		$this->pagination->initialize($pag_config); 
-		
-		
+
+		$this->pagination->initialize($pag_config);
+
 		$data['page_title'] = 'Pilots';
 		$this->view_fns->view('global/information/infm_pilots', $data);
 	}
-	
+
 }
 
 /* End of file */

@@ -1,7 +1,7 @@
 <center>
-<br />
-<br />
-<?php
-echo $error;
-?>
+    <br/>
+    <br/>
+	<?php
+	echo $error;
+	?>
 </center>

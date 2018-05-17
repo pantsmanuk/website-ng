@@ -1,20 +1,19 @@
 <?php
 //output current flights
 
+echo '<h1>Current Flights: ' . $num_current_flights . '</h1>';
 
-	echo '<h1>Current Flights: '.$num_current_flights.'</h1>';
+//echo '<div id="map_canvas" style="width:100%; height:350px"></div>';
+echo '<div id="flightmapcontainer"></div>';
 
-	//echo '<div id="map_canvas" style="width:100%; height:350px"></div>';
-	echo '<div id="flightmapcontainer"></div>';
-	
-	echo'
+echo '
 	<script>
 		
 		var table=document.getElementById("currentFlights");
 	
 		$.ajax({
 				type: "POST",
-				url: "'.$base_url.'ajax/latestflights/",
+				url: "' . $base_url . 'ajax/latestflights/",
 				dataType: "xml",
 				success: function(xml) {
 					$(xml).find(\'flight\').each(function(){
@@ -64,57 +63,53 @@
 		});
 	</script>	
 	';
-	
 
-	
-if($num_current_flights > 0){
+if ($num_current_flights > 0) {
 	echo '<table width="100%" class="statbox" id="currentFlights">';
 	echo '<tr>';
-		echo '<th width="35">Rank</th>';
-		echo '<th>Pilot</th>';
-		echo '<th>Aircraft</th>';
-		//echo '<th>lat</th>';
-		//echo '<th>lon</th>';
-		echo '<th>brg</th>';
-		echo '<th>alt</th>';
-		echo '<th>ias</th>';
-		echo '<th>From</th>';
-		echo '<th>To</th>';
-		echo '<th>PP</th>';
+	echo '<th width="35">Rank</th>';
+	echo '<th>Pilot</th>';
+	echo '<th>Aircraft</th>';
+	//echo '<th>lat</th>';
+	//echo '<th>lon</th>';
+	echo '<th>brg</th>';
+	echo '<th>alt</th>';
+	echo '<th>ias</th>';
+	echo '<th>From</th>';
+	echo '<th>To</th>';
+	echo '<th>PP</th>';
 	echo '</tr>';
 
 	$i = 0;
-	foreach($current_flights as $row){
-	
+	foreach ($current_flights as $row) {
+
 		$bg = '';
 		$bg_col = '';
-		if($i%2 == 0){
+		if ($i % 2 == 0) {
 			$bg = 'bgcolor="#f2f2f2"';
 			$bg_col = '#f2f2f2';
 		}
-		
+
 		echo "<tr $bg onmouseover=\"this.style.background='#760606';this.style.color='#FFFFFF';this.style.cursor='pointer'\"
         onmouseout=\"this.style.background='$bg_col';this.style.color='#000000';\" onclick=\"centreLoc($row->lat, $row->lon);\">";
-        	echo '<td>['.$row->rank.']</td>';
-			echo '<td align="left"><div align="left">EHM-'.$row->username.' '.$row->fname.' '.$row->sname.'</div></td>';
-			echo '<td>'.$row->name.'</td>';
-			//echo '<td>'.$row->lat.'</td>';
-			//echo '<td>'.$row->lon.'</td>';
-			echo '<td>'.str_pad($row->bearing, 3, "0", STR_PAD_LEFT).'</td>';
-			echo '<td>'.$row->altitude.'</td>';
-			echo '<td>'.$row->ias.'</td>';
-			echo '<td>'.$row->start_icao.'</td>';
-			echo '<td>'.$row->end_icao.'</td>';
-			echo '<td>'.$row->propilot_flight.'</td>';
+		echo '<td>[' . $row->rank . ']</td>';
+		echo '<td align="left"><div align="left">EHM-' . $row->username . ' ' . $row->fname . ' ' . $row->sname . '</div></td>';
+		echo '<td>' . $row->name . '</td>';
+		//echo '<td>'.$row->lat.'</td>';
+		//echo '<td>'.$row->lon.'</td>';
+		echo '<td>' . str_pad($row->bearing, 3, "0", STR_PAD_LEFT) . '</td>';
+		echo '<td>' . $row->altitude . '</td>';
+		echo '<td>' . $row->ias . '</td>';
+		echo '<td>' . $row->start_icao . '</td>';
+		echo '<td>' . $row->end_icao . '</td>';
+		echo '<td>' . $row->propilot_flight . '</td>';
 		echo '</tr>';
-		
-		
-			
-	$i++;
+
+		$i++;
 	}
-	
+
 	echo '</table>';
-	
+
 	echo '<br /><br />';
 
 }
@@ -125,63 +120,57 @@ if($num_current_flights > 0){
 <?php
 
 //output recent flights
-if($num_recent_flights > 0){
+if ($num_recent_flights > 0) {
 
-	echo '<h1>Recent Flights: '.$num_recent_flights.'</h1>';
+	echo '<h1>Recent Flights: ' . $num_recent_flights . '</h1>';
 
 	echo '<table width="100%" class="statbox">';
 	echo '<tr>';
-		echo '<th>Pilot</th>';
-		echo '<th>Aircraft</th>';
-		echo '<th>Pax</th>';
-		echo '<th>Cargo</th>';
-		echo '<th>From</th>';
-		echo '<th>To</th>';
-		echo '<th>Arrived</th>';
-		echo '<th>Hub</th>';
-		echo '<th>PP</th>';
+	echo '<th>Pilot</th>';
+	echo '<th>Aircraft</th>';
+	echo '<th>Pax</th>';
+	echo '<th>Cargo</th>';
+	echo '<th>From</th>';
+	echo '<th>To</th>';
+	echo '<th>Arrived</th>';
+	echo '<th>Hub</th>';
+	echo '<th>PP</th>';
 	echo '</tr>';
 
 	$i = 0;
-	foreach($recent_flights as $row){
-		
+	foreach ($recent_flights as $row) {
+
 		$bg = '';
-		if($i%2 == 0){
+		if ($i % 2 == 0) {
 			$bg = 'bgcolor="#f2f2f2"';
 		}
-	
+
 		echo "<tr $bg>";
-			echo '<td align="left"><div align="left">EHM-'.$row->username.' '.$row->fname.' '.$row->sname.'</div></td>';
-			echo '<td>'.$row->name.'</td>';
-			echo '<td>'.$row->passengers.'</td>';
-			if($row->cargo == 0){
-				echo '<td>-</td>';
+		echo '<td align="left"><div align="left">EHM-' . $row->username . ' ' . $row->fname . ' ' . $row->sname . '</div></td>';
+		echo '<td>' . $row->name . '</td>';
+		echo '<td>' . $row->passengers . '</td>';
+		if ($row->cargo == 0) {
+			echo '<td>-</td>';
+		} else {
+			if ($row->cargo > 1300) {
+				echo '<td>' . number_format($this->format_fns->lbs_tonnes($row->cargo), 0) . 't</td>';
+			} else {
+				echo '<td>' . number_format($row->cargo, 0) . 'lbs</td>';
 			}
-			else{
-				if($row->cargo > 1300){
-					echo '<td>'.number_format($this->format_fns->lbs_tonnes($row->cargo),0).'t</td>';
-				}
-				else{
-					echo '<td>'.number_format($row->cargo,0).'lbs</td>';
-				}
-			}
-			echo '<td>'.$row->start_icao.'</td>';
-			echo '<td>'.$row->end_icao.'</td>';
-			echo '<td>'.gmdate('d/m/Y H:i', strtotime($row->landing_time)).'z</td>';
-			echo '<td><a href="'.$base_url.'hubs/index/'.$row->hub_icao.'">'.$row->hub_icao.' '.$row->hub_name.'</a></td>';
-			echo '<td>'.$row->propilot_flight.'</td>';
+		}
+		echo '<td>' . $row->start_icao . '</td>';
+		echo '<td>' . $row->end_icao . '</td>';
+		echo '<td>' . gmdate('d/m/Y H:i', strtotime($row->landing_time)) . 'z</td>';
+		echo '<td><a href="' . $base_url . 'hubs/index/' . $row->hub_icao . '">' . $row->hub_icao . ' ' . $row->hub_name . '</a></td>';
+		echo '<td>' . $row->propilot_flight . '</td>';
 		echo '</tr>';
 		//echo 'Recent: '.$i.'/'.$num_recent_flights.'<br />';
-		
-	$i++;
+
+		$i++;
 	}
-	
+
 	echo '</table>';
 
 }
-
-
-
-
 
 ?>

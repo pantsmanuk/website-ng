@@ -1,24 +1,22 @@
 <?php
- 
+
 class Divisions extends CI_Controller {
 
-	function Divisions()
-	{
-		parent::__construct();	
+	function __construct() {
+		parent::__construct();
 	}
-	
-	function index($selected_division_id = 1)
-	{
+
+	function index($selected_division_id = 1) {
 		//grab global initialisation
-		include_once($this->config->item('full_base_path').'application/controllers/init/initialise.php');
-		
+		include_once($this->config->item('full_base_path') . 'application/controllers/init/initialise.php');
+
 		//grab all divisions to build menu array
 		$query = $this->db->query("	SELECT 	id, 
 											division_longname, 
 											prefix, 
-											divisions.primary as prim,
-											divisions.missions as missions,
-											divisions.tours as tours,
+											divisions.primary AS prim,
+											divisions.missions AS missions,
+											divisions.tours AS tours,
 											blurb											
 											
 									FROM divisions
@@ -28,14 +26,13 @@ class Divisions extends CI_Controller {
 									ORDER BY id
 											
 										");
-				
-		$division_results =  $query->result();
-		
-		
+
+		$division_results = $query->result();
+
 		$data['division_array'] = array();
 		$division_code_array = array();
-		
-		foreach($division_results as $row){
+
+		foreach ($division_results as $row) {
 			$data['division_array'][$row->id]['id'] = $row->id;
 			$data['division_array'][$row->id]['longname'] = $row->division_longname;
 			$data['division_array'][$row->id]['prefix'] = $row->prefix;
@@ -44,22 +41,21 @@ class Divisions extends CI_Controller {
 			$data['division_array'][$row->id]['tours'] = $row->tours;
 			$data['division_array'][$row->id]['blurb'] = $row->blurb;
 			$division_id_array[$row->id] = $row->id;
-			if($row->id == $selected_division_id){
+			if ($row->id == $selected_division_id) {
 				$selected_division_id = $row->id;
 			}
 		}
-		
+
 		//if the supplied division code is not in the database, set to default
-		if(!in_array($selected_division_id,$division_id_array)){
+		if (!in_array($selected_division_id, $division_id_array)) {
 			$selected_division_id = 1;
 		}
-		
+
 		$data['selected_division_id'] = $selected_division_id;
-		
+
 		//set title
 		$data['page_title'] = $data['division_array'][$selected_division_id]['longname'];
-		
-	
+
 		$this->view_fns->view('global/divisions/divisions_index', $data);
 	}
 }
