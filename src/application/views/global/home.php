@@ -133,13 +133,10 @@ $img_url = $image_url;
 
 		?>
 
-        <center>
-
-            <iframe class="youtube-player" type="text/html" width="620" height="385"
-                    src="<?php echo $featured_video; ?>&rel=0" frameborder="0" allowfullscreen>
+        <div style="margin-left: auto; margin-right: auto;">
+            <iframe class="youtube-player" width="620" height="385" src="<?php echo $featured_video; ?>" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
             </iframe>
-
-        </center>
+        </div>
 
 		<?php
 	}
@@ -384,4 +381,3 @@ if (isset($news) && count($news) > 0) {
 </script>
 */
 
-?>
