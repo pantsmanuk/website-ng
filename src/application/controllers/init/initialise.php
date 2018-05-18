@@ -93,33 +93,33 @@ $data['acp_timeout'] = $acp_timeout;
 $data['js_loader'] = '';
 
 $featured_video_array = array(
-	'https://www.youtube.com/watch?v=uO5z_FmR5No',
-	'https://www.youtube.com/watch?v=NYOjrqbxydQ',
-	'https://www.youtube.com/watch?v=gHVgwpUyJBU',
-	'https://www.youtube.com/watch?v=qeh4mDmCPqw',
-	'https://www.youtube.com/watch?v=LIkE2o-ghjA',
-	'https://www.youtube.com/watch?v=tJ8uXhkchI0',
-	'https://www.youtube.com/watch?v=tPomU9_8WAo',
-	'https://www.youtube.com/watch?v=5rlkkPTuC4A',
-	'https://www.youtube.com/watch?v=sCfDl0tc_SE',
-	'https://www.youtube.com/watch?v=kmetbvY-Vg0',
-	'https://www.youtube.com/watch?v=JZ24olrnRGU',
-	'https://www.youtube.com/watch?v=g_aCS5Cjcvg',
-	'https://www.youtube.com/watch?v=xc6EGuq8F-E',
-	'https://www.youtube.com/watch?v=cQWwKiQHmV8',
-	'https://www.youtube.com/watch?v=zzAD0HTvcus',
-	'https://www.youtube.com/watch?v=Ggz4u647YD0',
-	'https://www.youtube.com/watch?v=S5JHPES1CyA',
-	'https://www.youtube.com/watch?v=Q0ZGdvox6No',
-	'https://www.youtube.com/watch?v=aoq0ChqtcSw',
-	'https://www.youtube.com/watch?v=Kzo7u3cnrBc',
+	'https://www.youtube.com/embed/uO5z_FmR5No',
+	'https://www.youtube.com/embed/NYOjrqbxydQ',
+	'https://www.youtube.com/embed/gHVgwpUyJBU',
+	'https://www.youtube.com/embed/qeh4mDmCPqw',
+	'https://www.youtube.com/embed/LIkE2o-ghjA',
+	'https://www.youtube.com/embed/tJ8uXhkchI0',
+	'https://www.youtube.com/embed/tPomU9_8WAo',
+	'https://www.youtube.com/embed/5rlkkPTuC4A',
+	'https://www.youtube.com/embed/sCfDl0tc_SE',
+	'https://www.youtube.com/embed/kmetbvY-Vg0',
+	'https://www.youtube.com/embed/JZ24olrnRGU',
+	'https://www.youtube.com/embed/g_aCS5Cjcvg',
+	'https://www.youtube.com/embed/xc6EGuq8F-E',
+	'https://www.youtube.com/embed/cQWwKiQHmV8',
+	'https://www.youtube.com/embed/zzAD0HTvcus',
+	'https://www.youtube.com/embed/Ggz4u647YD0',
+	'https://www.youtube.com/embed/S5JHPES1CyA',
+	'https://www.youtube.com/embed/Q0ZGdvox6No',
+	'https://www.youtube.com/embed/aoq0ChqtcSw',
+	'https://www.youtube.com/embed/Kzo7u3cnrBc',
 
 );
 
 //overwrite to feature the anniversary vid
 /*
 $featured_video_array = array(
-'https://www.youtube.com/watch?v=Kzo7u3cnrBc',
+'https://www.youtube.com/embed/Kzo7u3cnrBc',
 );
 */
 
