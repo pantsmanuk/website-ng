@@ -318,6 +318,8 @@ class Tours extends CI_Controller {
 								'fs_version' => $selected_version,
 								'award_completion' => $award_completion,
 								'award_id' => $award_id,
+								'event_id' => 0,
+								'event_leg_id' => 0,
 							);
 
 							//insert data
