@@ -1,3 +1,5 @@
+# BSD 3-clause license
+
 **Copyright (c) 2017, EuroHarmony VA**
 
 All rights reserved.
